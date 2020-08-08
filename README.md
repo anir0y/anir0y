@@ -10,8 +10,8 @@
 
 ## ClassRoom Updates:
 <!-- BLOG-POST-LIST:START -->
-- [Smart Knowner Aug Classroom!](https:/anir0y.in/classroom/2020/08/07/smartknowner-aug)
-- [verzeo Aug Classroom!](https:/anir0y.in/classroom/2020/08/07/vaug)
+- [Smart Knowner Aug Classroom!](https://anir0y.in/classroom/2020/08/07/smartknowner-aug)
+- [verzeo Aug Classroom!](https://anir0y.in/classroom/2020/08/07/vaug)
 <!-- BLOG-POST-LIST:END -->
 
 ---
