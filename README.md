@@ -20,3 +20,6 @@
 ![github stats](https://github-readme-stats.vercel.app/api?username=anir0y&show_icons=true)
 
 ---
+### Alpha Rel : Click on Image to Download the VM.
+[![Download OS](https://i.imgur.com/4RUjCIA.png)](https://sourceforge.net/projects/classroom-os/files/latest/download)
+
