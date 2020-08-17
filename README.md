@@ -10,6 +10,7 @@
 
 ## ClassRoom Updates:
 <!-- BLOG-POST-LIST:START -->
+- [Vulnerable Apps, Servers, and Websites!](https://anir0y.in/classroom/2020/08/15/verzeo-aug-copy)
 - [Smart Knowner Aug-SEP Classroom!](https://anir0y.in/classroom/2020/08/12/smartknowner-AUG)
 - [verzeo Aug Classroom!](https://anir0y.in/classroom/2020/08/07/verzeo-aug)
 - [Smart Knowner JUL Classroom!](https://anir0y.in/classroom/2020/07/16/smartknowner-July)
