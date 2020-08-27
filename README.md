@@ -10,11 +10,11 @@
 
 ## ClassRoom Updates:
 <!-- BLOG-POST-LIST:START -->
+- [Phishing Attack](https://anir0y.in/classroom/2020/08/26/Blog-02)
 - [Vulnerable Apps, Servers, and Websites!](https://anir0y.in/classroom/2020/08/15/Blog-01)
 - [Smart Knowner Aug-SEP Classroom!](https://anir0y.in/classroom/2020/08/12/smartknowner-AUG)
 - [verzeo Aug Classroom!](https://anir0y.in/classroom/2020/08/07/verzeo-aug)
 - [Smart Knowner JUL Classroom!](https://anir0y.in/classroom/2020/07/16/smartknowner-July)
-- [verzeo July Classroom!](https://anir0y.in/classroom/2020/07/07/verzeo-july)
 <!-- BLOG-POST-LIST:END -->
 
 ---
