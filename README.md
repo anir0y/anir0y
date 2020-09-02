@@ -37,7 +37,7 @@
 ---
 
 
->> [google me](https://google.com/search?q=@anir0y) I won't take your OWASP membership, I PROMISE. 
+> [google me](https://google.com/search?q=@anir0y) I won't take your OWASP membership, I PROMISE. 
 
 ---
 ### Alpha Rel : Click on Image to Download the VM.
