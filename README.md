@@ -4,26 +4,17 @@
   Scripting in my square time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Twitter: anir0y](https://img.shields.io/twitter/follow/anir0y?style=flat-square)](https://twitter.com/anir0y)
-[![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=follow%20github&style=flat-square)](https://github.com/anir0y)
 
-<br>
 
 # [My Profile](https://anir0y.in/refer=githubreadme)
 
-
-|Social Media|Link|
-|---|---|
-|email | [mail@anir0y.in](mailto:mail@anir0y.in)|
-|web   | [anir0y.in](https://anir0y.in)|
-|tweet | [tweet](https://twitter.com/anir0y)|
+| Social   |      Link      | Status|
+|----------|:-------------:|--:|
+| Twitter |  [![Twitter: anir0y](https://img.shields.io/twitter/follow/anir0y?label=Follow%20me&style=plastic)](https://twitter.com/anir0y)| ![](https://img.shields.io/badge/Status-Online-blue)|
+| GitHub |    [![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=Fork%20me&style=plastic)](https://github.com/anir0y)   | ![](https://img.shields.io/badge/Status-Online-blue)|
+| Website |    [![Website: Anir0y](https://img.shields.io/badge/Website-anir0y.in-blue?style=flat-square&logo=google-chrome)](anir0y.in)    |  ![Website: Anir0y](https://img.shields.io/website?down_color=red&down_message=Server%20is%20Dead&style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Fanir0y.in) |
 
 ---
-
-
-
-
-
 
 ## ClassRoom Updates:
 <!-- BLOG-POST-LIST:START -->
@@ -42,4 +33,6 @@
 ---
 ### Alpha Rel : Click on Image to Download the VM.
 [![Download OS](https://i.imgur.com/4RUjCIA.png)](https://sourceforge.net/projects/classroom-os/files/latest/download)
+
+---
 
