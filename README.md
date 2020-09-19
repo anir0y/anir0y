@@ -19,7 +19,7 @@
 ## ClassRoom Updates:
 
 <!-- BLOG-POST-LIST:START -->
-- [verzeo SEP Classroom!](https://anir0y.in/classroom/2020/09/07/smartknowner-sep)
+- [SmartKnowner SEP Classroom!](https://anir0y.in/classroom/2020/09/07/smartknowner-sep)
 - [Phishing Attack](https://anir0y.in/classroom/2020/08/26/Blog-02)
 - [Vulnerable Apps, Servers, and Websites!](https://anir0y.in/classroom/2020/08/15/Blog-01)
 - [Smart Knowner Aug-SEP Classroom!](https://anir0y.in/classroom/2020/08/12/smartknowner-AUG)
