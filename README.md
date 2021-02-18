@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Free Certifications!](/post/blog4/)
-- [Phishing Attack!](/post/blog2/)
-- [Vulnerable Apps, Servers, and Websites!](/post/blog1/)
-- [About](/about/)
-- [SmartKnowner SEP Classroom!](/post/2020-08-07-smartknowner-sep/)
+- [SDK Bug Lets Attackers Spy on User’s Video Calls Across Dating, Healthcare Apps](https://threatpost.com/sdk-bug-spy-calls-dating-healthcare-apps/164068/)
+- [Stolen Jones Day Law Firm Files Posted on Dark Web](https://threatpost.com/stolen-jones-day-law-firm-files-posted/164066/)
+- [Windows, Linux Devices Hijacked In Two-Year Cryptojacking Campaign](https://threatpost.com/windows-linux-devices-hijacked-in-two-year-cryptojacking-campaign/164048/)
+- [Ninja Forms WordPress Plugin Bug Opens Websites to Hacks](https://threatpost.com/ninja-forms-wordpress-plugin-hacks/164042/)
+- [U.S. Accuses North Korean Hackers of Stealing Millions](https://threatpost.com/us-accuses-north-korean-hackers/164039/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
