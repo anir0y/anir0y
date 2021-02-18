@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- BLOG-POST-LIST:START -->
-- [Free Certification](https://anir0y.in/classroom/2021/02/06/security)
-- [SmartKnowner SEP Classroom!](https://anir0y.in/classroom/2020/09/07/smartknowner-sep)
-- [Phishing Attack](https://anir0y.in/classroom/2020/08/26/Blog-02)
-- [Vulnerable Apps, Servers, and Websites!](https://anir0y.in/classroom/2020/08/15/Blog-01)
-- [Smart Knowner Aug-SEP Classroom!](https://anir0y.in/classroom/2020/08/12/smartknowner-AUG)
+- [Get Free Certifications!](/post/blog4/)
+- [Phishing Attack!](/post/blog2/)
+- [Vulnerable Apps, Servers, and Websites!](/post/blog1/)
+- [About](/about/)
+- [SmartKnowner SEP Classroom!](/post/2020-08-07-smartknowner-sep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
