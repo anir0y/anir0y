@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- BLOG-POST-LIST:START -->
-- [SDK Bug Lets Attackers Spy on User’s Video Calls Across Dating, Healthcare Apps](https://threatpost.com/sdk-bug-spy-calls-dating-healthcare-apps/164068/)
-- [Stolen Jones Day Law Firm Files Posted on Dark Web](https://threatpost.com/stolen-jones-day-law-firm-files-posted/164066/)
-- [Windows, Linux Devices Hijacked In Two-Year Cryptojacking Campaign](https://threatpost.com/windows-linux-devices-hijacked-in-two-year-cryptojacking-campaign/164048/)
-- [Ninja Forms WordPress Plugin Bug Opens Websites to Hacks](https://threatpost.com/ninja-forms-wordpress-plugin-hacks/164042/)
-- [U.S. Accuses North Korean Hackers of Stealing Millions](https://threatpost.com/us-accuses-north-korean-hackers/164039/)
+- [Get Free Certifications!](https://classroom.anir0y.in/post/blog4/)
+- [Phishing Attack!](https://classroom.anir0y.in/post/blog2/)
+- [Vulnerable Apps, Servers, and Websites!](https://classroom.anir0y.in/post/blog1/)
+- [About](https://classroom.anir0y.in/about/)
+- [SmartKnowner SEP Classroom!](https://classroom.anir0y.in/post/2020-08-07-smartknowner-sep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
