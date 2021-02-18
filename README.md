@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- BLOG-POST-LIST:START -->
+- [Awesome Powershell!](https://classroom.anir0y.in/post/ref-powershell/)
 - [Get Free Certifications!](https://classroom.anir0y.in/post/blog4/)
 - [Phishing Attack!](https://classroom.anir0y.in/post/blog2/)
 - [Vulnerable Apps, Servers, and Websites!](https://classroom.anir0y.in/post/blog1/)
 - [About](https://classroom.anir0y.in/about/)
-- [SmartKnowner SEP Classroom!](https://classroom.anir0y.in/post/2020-08-07-smartknowner-sep/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
