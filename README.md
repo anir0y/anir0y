@@ -28,9 +28,8 @@
 
 ## Threat Post:
 
-<!-- THREAT:START --> 
-
-<!-- THREAT:STOP -->
+<!-- THREAT:START -->
+<!-- THREAT:END -->
 ---
 
 
