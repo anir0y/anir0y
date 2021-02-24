@@ -1,0 +1,23 @@
+name: Update Git Profile
+on:
+  push:
+    branches: ["master"]
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+    
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
+        with:
+          comment_tag_name: CLASS
+          feed_list: "https://classroom.anir0y.in/index.xml"
+
+      
+     
