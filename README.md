@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Lures Populate Half of Credential-Swiping Phishing Emails](https://threatpost.com/microsoft-lures-credential-swiping-phishing-emails/164207/)
 - [Daycare Webcam Service Exposes 12,000 User Accounts](https://threatpost.com/daycare-webcam-exposes-12000/164203/)
 - [IBM Squashes Critical Remote Code-Execution Flaw](https://threatpost.com/ibm-critical-remote-code-execution-flaw/164187/)
 - [Finnish IT Giant Hit with Ransomware Cyberattack](https://threatpost.com/finnish-it-giant-ransomware-cyberattack/164193/)
 - [10K Microsoft Email Users Hit in FedEx Phishing Attack](https://threatpost.com/microsoft-fedex-phishing-attack/164143/)
-- [TDoS Attacks Take Aim at Emergency First-Responder Services](https://threatpost.com/tdos-attacks-emergency-first-responder/164176/)
 <!-- THREAT:END -->
 ---
 
