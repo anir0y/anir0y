@@ -14,7 +14,7 @@ jobs:
         with:
           #feed_list: "https://threatpost.com/feed/"
           feed_list: "https://classroom.anir0y.in/index.xml"    
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: THREAT
-          feed_list: "https://threatpost.com/feed/"
+      #- uses: gautamkrishnar/blog-post-workflow@master
+       # with:
+         # comment_tag_name: THREAT
+         # feed_list: "https://threatpost.com/feed/"
