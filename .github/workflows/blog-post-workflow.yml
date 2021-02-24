@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+      - uses: khaosdoctor/blog-post-workflow@master
+        with:
+          comment_tag_name: CLASS
+          feed_list: "https://classroom.anir0y.in/index.xml"   
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          #feed_list: "https://threatpost.com/feed/"
-          feed_list: "https://classroom.anir0y.in/index.xml"    
-      #- uses: gautamkrishnar/blog-post-workflow@master
-       # with:
-         # comment_tag_name: THREAT
-         # feed_list: "https://threatpost.com/feed/"
+          comment_tag_name: THREAT
+          feed_list: "https://threatpost.com/feed/"
