@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [VMWare Patches Critical RCE Flaw in vCenter Server](https://threatpost.com/vmware-patches-critical-rce-flaw-in-vcenter-server/164240/)
 - [Nvidia’s Anti-Cryptomining GPU Chip May Not Discourage Attacks](https://threatpost.com/nvidia-tries-discourage-crypto-jacking-new-gpu/164221/)
 - [Microsoft Lures Populate Half of Credential-Swiping Phishing Emails](https://threatpost.com/microsoft-lures-credential-swiping-phishing-emails/164207/)
 - [Daycare Webcam Service Exposes 12,000 User Accounts](https://threatpost.com/daycare-webcam-exposes-12000/164203/)
 - [IBM Squashes Critical Remote Code-Execution Flaw](https://threatpost.com/ibm-critical-remote-code-execution-flaw/164187/)
-- [Finnish IT Giant Hit with Ransomware Cyberattack](https://threatpost.com/finnish-it-giant-ransomware-cyberattack/164193/)
 <!-- THREAT:END -->
 ---
 
