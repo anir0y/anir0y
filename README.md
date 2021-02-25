@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Health Website Leaks 8 Million COVID-19 Test Results](https://threatpost.com/health-website-leaks-covid-19-test/164274/)
 - [Malicious Mozilla Firefox Extension Allows Gmail Takeover](https://threatpost.com/malicious-mozilla-firefox-gmail/164263/)
 - [Cisco Warns of Critical Auth-Bypass Security Flaw](https://threatpost.com/cisco-critical-security-flaw/164255/)
 - [Tax Season Ushers in Quickbooks Data-Theft Spike](https://threatpost.com/tax-quickbooks-data-theft/164253/)
 - [Mozilla Patches Bugs in Firefox, Now Blocks Cross-Site Cookie Tracking](https://threatpost.com/mozilla-firefox-bugs-cookie-tracking/164246/)
-- [VMWare Patches Critical RCE Flaw in vCenter Server](https://threatpost.com/vmware-patches-critical-rce-flaw-in-vcenter-server/164240/)
 <!-- THREAT:END -->
 ---
 
