@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Podcast: Ransomware Attacks Exploded in Q4 2020](https://threatpost.com/podcast-ransomware-attacks-exploded-in-q4-2020/164285/)
+- [Protecting Sensitive Cardholder Data in Today’s Hyper-Connected World](https://threatpost.com/protecting-sensitive-cardholder-data-in-todays-hyper-connected-world/164277/)
 - [Cyberattacks Launch Against Vietnamese Human-Rights Activists](https://threatpost.com/cyberattacks-vietnam-human-rights-activists/164284/)
 - [Health Website Leaks 8 Million COVID-19 Test Results](https://threatpost.com/health-website-leaks-covid-19-test/164274/)
 - [Malicious Mozilla Firefox Extension Allows Gmail Takeover](https://threatpost.com/malicious-mozilla-firefox-gmail/164263/)
-- [Cisco Warns of Critical Auth-Bypass Security Flaw](https://threatpost.com/cisco-critical-security-flaw/164255/)
-- [Tax Season Ushers in Quickbooks Data-Theft Spike](https://threatpost.com/tax-quickbooks-data-theft/164253/)
 <!-- THREAT:END -->
 ---
 
