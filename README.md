@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Yeezy Fans Face Sneaker-Bot Armies for Boost ‘Sun’ Release](https://threatpost.com/yeezy-sneaker-bots-boost-sun/164312/)
 - [Malware Gangs Partner Up in Double-Punch Security Threat](https://threatpost.com/malware-gangs-partner-up-in-double-punch-security-threat/164279/)
 - [Podcast: Ransomware Attacks Exploded in Q4 2020](https://threatpost.com/podcast-ransomware-attacks-exploded-in-q4-2020/164285/)
 - [Protecting Sensitive Cardholder Data in Today’s Hyper-Connected World](https://threatpost.com/protecting-sensitive-cardholder-data-in-todays-hyper-connected-world/164277/)
 - [Cyberattacks Launch Against Vietnamese Human-Rights Activists](https://threatpost.com/cyberattacks-vietnam-human-rights-activists/164284/)
-- [Health Website Leaks 8 Million COVID-19 Test Results](https://threatpost.com/health-website-leaks-covid-19-test/164274/)
 <!-- THREAT:END -->
 ---
 
