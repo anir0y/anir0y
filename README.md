@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Mobile Adware Booms, Online Banks Become Prime Target for Attacks](https://threatpost.com/mobile-adware-booms-attacks/164386/)
 - [Malware Loader Abuses Google SEO to Expand Payload Delivery](https://threatpost.com/malware-loader-google-seo-payload/164377/)
 - [Passwords, Private Posts Exposed in Hack of Gab Social Network](https://threatpost.com/hacktivists-gab-posts-passwords/164360/)
 - [Firewall Vendor Patches Critical Auth Bypass Flaw](https://threatpost.com/firewall-critical-security-flaw/164347/)
 - [Amazon Dismisses Claims Alexa ‘Skills’ Can Bypass Security Vetting Process](https://threatpost.com/amazon-dismisses-claims-alexa-skills-can-bypass-security-vetting/164316/)
-- [Stalkerware Volumes Remain Concerningly High, Despite Bans](https://threatpost.com/stalkerware-volumes-high-bans/164325/)
 <!-- THREAT:END -->
 ---
 
