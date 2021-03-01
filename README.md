@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Firewall Vendor Patches Critical Auth Bypass Flaw](https://threatpost.com/firewall-critical-security-flaw/164347/)
 - [Amazon Dismisses Claims Alexa ‘Skills’ Can Bypass Security Vetting Process](https://threatpost.com/amazon-dismisses-claims-alexa-skills-can-bypass-security-vetting/164316/)
 - [Stalkerware Volumes Remain Concerningly High, Despite Bans](https://threatpost.com/stalkerware-volumes-high-bans/164325/)
 - [Lazarus Targets Defense Companies with ThreatNeedle Malware](https://threatpost.com/lazarus-targets-defense-threatneedle-malware/164321/)
 - [Yeezy Fans Face Sneaker-Bot Armies for Boost ‘Sun’ Release](https://threatpost.com/yeezy-sneaker-bots-boost-sun/164312/)
-- [Malware Gangs Partner Up in Double-Punch Security Threat](https://threatpost.com/malware-gangs-partner-up-in-double-punch-security-threat/164279/)
 <!-- THREAT:END -->
 ---
 
