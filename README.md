@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Jailbreak Tool Works on iPhones Up to iOS 14.3](https://threatpost.com/jailbreak-tool-works-on-iphones-up-to-ios-14-3/164420/)
 - [Compromised Website Images Camouflage ObliqueRAT Malware](https://threatpost.com/website-images-obliquerat-malware/164395/)
 - [Ryuk Ransomware: Now with Worming Self-Propagation](https://threatpost.com/ryuk-ransomware-worming-self-propagation/164412/)
 - [Mobile Adware Booms, Online Banks Become Prime Target for Attacks](https://threatpost.com/mobile-adware-booms-attacks/164386/)
 - [Malware Loader Abuses Google SEO to Expand Payload Delivery](https://threatpost.com/malware-loader-google-seo-payload/164377/)
-- [Passwords, Private Posts Exposed in Hack of Gab Social Network](https://threatpost.com/hacktivists-gab-posts-passwords/164360/)
 <!-- THREAT:END -->
 ---
 
