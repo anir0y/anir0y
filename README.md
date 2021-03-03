@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Exchange Zero-Day Attackers Spy on U.S. Targets](https://threatpost.com/microsoft-exchange-zero-day-attackers-spy/164438/)
 - [Post-Cyberattack, Universal Health Services Faces $67M in Losses](https://threatpost.com/post-cyberattack-universal-health-services-faces-67m-in-losses/164424/)
 - [Jailbreak Tool Works on iPhones Up to iOS 14.3](https://threatpost.com/jailbreak-tool-works-on-iphones-up-to-ios-14-3/164420/)
 - [Compromised Website Images Camouflage ObliqueRAT Malware](https://threatpost.com/website-images-obliquerat-malware/164395/)
 - [Ryuk Ransomware: Now with Worming Self-Propagation](https://threatpost.com/ryuk-ransomware-worming-self-propagation/164412/)
-- [Mobile Adware Booms, Online Banks Become Prime Target for Attacks](https://threatpost.com/mobile-adware-booms-attacks/164386/)
 <!-- THREAT:END -->
 ---
 
