@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Malicious Code Bombs Target Amazon, Lyft, Slack, Zillow](https://threatpost.com/malicious-code-bombs-amazon-lyft-slack-zillow/164455/)
 - [Microsoft Exchange Zero-Day Attackers Spy on U.S. Targets](https://threatpost.com/microsoft-exchange-zero-day-attackers-spy/164438/)
 - [Post-Cyberattack, Universal Health Services Faces $67M in Losses](https://threatpost.com/post-cyberattack-universal-health-services-faces-67m-in-losses/164424/)
 - [Jailbreak Tool Works on iPhones Up to iOS 14.3](https://threatpost.com/jailbreak-tool-works-on-iphones-up-to-ios-14-3/164420/)
 - [Compromised Website Images Camouflage ObliqueRAT Malware](https://threatpost.com/website-images-obliquerat-malware/164395/)
-- [Ryuk Ransomware: Now with Worming Self-Propagation](https://threatpost.com/ryuk-ransomware-worming-self-propagation/164412/)
 <!-- THREAT:END -->
 ---
 
