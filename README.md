@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Malaysia Air Downplays Frequent-Flyer Program Data Breach](https://threatpost.com/malaysia-air-downplays-data-breach/164472/)
 - [Home-Office Photos: A Ripe Cyberattack Vector](https://threatpost.com/home-office-photos-cyberattack-vector/164460/)
 - [RTM Cybergang Adds New Quoter Ransomware to Crime Spree](https://threatpost.com/rtm-banking-trojan-quoter-ransomware/164447/)
 - [Malicious Code Bombs Target Amazon, Lyft, Slack, Zillow](https://threatpost.com/malicious-code-bombs-amazon-lyft-slack-zillow/164455/)
 - [Microsoft Exchange Zero-Day Attackers Spy on U.S. Targets](https://threatpost.com/microsoft-exchange-zero-day-attackers-spy/164438/)
-- [Post-Cyberattack, Universal Health Services Faces $67M in Losses](https://threatpost.com/post-cyberattack-universal-health-services-faces-67m-in-losses/164424/)
 <!-- THREAT:END -->
 ---
 
