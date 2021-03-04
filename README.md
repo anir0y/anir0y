@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [National Surveillance Camera Roll Out Roils Privacy Activists](https://threatpost.com/camera-roll-out-roils-privacy-activists/164502/)
+- [CISA Orders Federal Agencies to Patch Exchange Servers](https://threatpost.com/cisa-federal-agencies-patch-exchange-servers/164499/)
 - [COVID-19 Vaccine Spear-Phishing Attacks Jump 26 Percent](https://threatpost.com/covid-19-vaccine-spear-phishing-attacks/164489/)
 - [Unpatched Bug in WiFi Mouse App Opens PCs to Attack](https://threatpost.com/unpatched-bug-in-wifi-mouse-opens-pcs-to-attack/164480/)
 - [Google Patches Actively-Exploited Flaw in Chrome Browser](https://threatpost.com/google-patches-actively-exploited-flaw-in-chrome-browser/164468/)
-- [Malaysia Air Downplays Frequent-Flyer Program Data Breach](https://threatpost.com/malaysia-air-downplays-data-breach/164472/)
-- [Home-Office Photos: A Ripe Cyberattack Vector](https://threatpost.com/home-office-photos-cyberattack-vector/164460/)
 <!-- THREAT:END -->
 ---
 
