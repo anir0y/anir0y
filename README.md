@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [COVID-19 Vaccine Spear-Phishing Attacks Jump 26 Percent](https://threatpost.com/covid-19-vaccine-spear-phishing-attacks/164489/)
 - [Unpatched Bug in WiFi Mouse App Opens PCs to Attack](https://threatpost.com/unpatched-bug-in-wifi-mouse-opens-pcs-to-attack/164480/)
 - [Google Patches Actively-Exploited Flaw in Chrome Browser](https://threatpost.com/google-patches-actively-exploited-flaw-in-chrome-browser/164468/)
 - [Malaysia Air Downplays Frequent-Flyer Program Data Breach](https://threatpost.com/malaysia-air-downplays-data-breach/164472/)
 - [Home-Office Photos: A Ripe Cyberattack Vector](https://threatpost.com/home-office-photos-cyberattack-vector/164460/)
-- [RTM Cybergang Adds New Quoter Ransomware to Crime Spree](https://threatpost.com/rtm-banking-trojan-quoter-ransomware/164447/)
 <!-- THREAT:END -->
 ---
 
