@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critics Blast Google’s Aim to Replace Browser Cookie with ‘FLoC’](https://threatpost.com/critics-googles-browser-cookie-floc/164540/)
 - [D-Link, IoT Devices Under Attack By Tor-Based Gafgyt Variant](https://threatpost.com/d-link-iot-tor-gafgyt-variant/164529/)
 - [Microsoft, FireEye Unmask More Malware Linked to SolarWinds Attackers](https://threatpost.com/microsoft-fireeye-malware-solarwinds/164512/)
 - [Cyberattackers Target Top Russian Cybercrime Forums](https://threatpost.com/cyberattackers-target-russian-cybercrime-forums/164511/)
 - [National Surveillance Camera Rollout Roils Privacy Activists](https://threatpost.com/camera-roll-out-roils-privacy-activists/164502/)
-- [CISA Orders Federal Agencies to Patch Exchange Servers](https://threatpost.com/cisa-federal-agencies-patch-exchange-servers/164499/)
 <!-- THREAT:END -->
 ---
 
