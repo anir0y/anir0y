@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Newest Intel Side-Channel Attack Sniffs Out Sensitive Data](https://threatpost.com/intel-side-channel-attack-data/164582/)
 - [Crypto-Miner Campaign Targets Unpatched QNAP NAS Devices](https://threatpost.com/miner-campaign-targets-unpatched-qnap-nas/164580/)
 - [Fake Google reCAPTCHA Phishing Attack Swipes Office 365 Passwords](https://threatpost.com/google-recaptcha-phishing-office-365/164566/)
 - [U.S. DoD Weapons Programs Lack ‘Key’ Cybersecurity Measures](https://threatpost.com/dod-weapons-programs-lack-cybersecurity/164545/)
 - [WordPress Injection Anchors Widespread Malware Campaign](https://threatpost.com/wordpress-injection-malware-campaign/164555/)
-- [Massive Supply-Chain Cyberattack Breaches Several Airlines](https://threatpost.com/supply-chain-cyberattack-airlines/164549/)
 <!-- THREAT:END -->
 ---
 
