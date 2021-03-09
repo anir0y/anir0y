@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Google Play Harbors Malware-Laced Apps Delivering Spy Trojans](https://threatpost.com/google-play-malware-spy-trojans/164601/)
 - [Apple Plugs Severe WebKit Remote Code-Execution Hole](https://threatpost.com/apple-webkit-remote-code-execution/164595/)
 - [Newest Intel Side-Channel Attack Sniffs Out Sensitive Data](https://threatpost.com/intel-side-channel-attack-data/164582/)
 - [Crypto-Miner Campaign Targets Unpatched QNAP NAS Devices](https://threatpost.com/miner-campaign-targets-unpatched-qnap-nas/164580/)
 - [Fake Google reCAPTCHA Phishing Attack Swipes Office 365 Passwords](https://threatpost.com/google-recaptcha-phishing-office-365/164566/)
-- [U.S. DoD Weapons Programs Lack ‘Key’ Cybersecurity Measures](https://threatpost.com/dod-weapons-programs-lack-cybersecurity/164545/)
 <!-- THREAT:END -->
 ---
 
