@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Mobile App pentesting](https://classroom.anir0y.in/post/learnings-mobileapppt/)
+- [Learning Continues](https://classroom.anir0y.in/post/learnings/)
 - [Metasploit Cheat Sheet!](https://classroom.anir0y.in/post/metasploit-cheat-sheet/)
 - [Awesome Powershell!](https://classroom.anir0y.in/post/ref-powershell/)
 - [Get Free Certifications!](https://classroom.anir0y.in/post/blog4/)
-- [Phishing Attack!](https://classroom.anir0y.in/post/blog2/)
-- [Vulnerable Apps, Servers, and Websites!](https://classroom.anir0y.in/post/blog1/)
 <!-- CLASS:END -->
 
 ## Threat Post:
