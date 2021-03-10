@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Apple’s Device Location-Tracking System Could Expose User Identities](https://threatpost.com/apples-location-system-expose-identities/164615/)
 - [Microsoft Patch Tuesday Updates Fix 14 Critical Bugs](https://threatpost.com/microsoft-patch-tuesday-updates-critical-bugs/164621/)
 - [Dark Web Markets for Stolen Data See Banner Sales](https://threatpost.com/dark-web-markets-stolen-data/164626/)
 - [Adobe Critical Code-Execution Flaws Plague Windows Users](https://threatpost.com/adobe-critical-flaws-windows/164611/)
 - [Google Play Harbors Malware-Laced Apps Delivering Spy Trojans](https://threatpost.com/google-play-malware-spy-trojans/164601/)
-- [Apple Plugs Severe WebKit Remote Code-Execution Hole](https://threatpost.com/apple-webkit-remote-code-execution/164595/)
 <!-- THREAT:END -->
 ---
 
