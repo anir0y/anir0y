@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [SAP Stomps Out Critical RCE Flaw in Manufacturing Software](https://threatpost.com/sap-critical-rce-flaw-manufacturing/164666/)
+- [Fake Ad Blocker Delivers Hybrid Cryptominer/Ransomware Infection](https://threatpost.com/fake-ad-blocker-cryptominer-ransomware/164669/)
 - [Cyberattackers Exploiting Critical WordPress Plugin Bug](https://threatpost.com/cyberattackers-exploiting-critical-wordpress-plugin-bug/164663/)
 - [Nim-Based Malware Loader Spreads Via Spear-Phishing Emails](https://threatpost.com/nim-based-malware-loader-spreads-via-spear-phishing-emails/164643/)
 - [Breach Exposes Verkada Security Camera Footage at Tesla, Cloudflare](https://threatpost.com/breach-verkada-security-camera-tesla-cloudflare/164635/)
-- [Apple’s Device Location-Tracking System Could Expose User Identities](https://threatpost.com/apples-location-system-expose-identities/164615/)
-- [Microsoft Patch Tuesday Updates Fix 14 Critical Bugs](https://threatpost.com/microsoft-patch-tuesday-updates-critical-bugs/164621/)
 <!-- THREAT:END -->
 ---
 
