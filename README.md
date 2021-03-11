@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [FIN8 Resurfaces with Revamped Backdoor Malware](https://threatpost.com/fin8-resurfaces-backdoor-malware/164684/)
 - [F5, CISA Warn of Critical BIG-IP and BIG-IQ RCE Bugs](https://threatpost.com/f5-cisa-critical-rce-bugs/164679/)
 - [SAP Stomps Out Critical RCE Flaw in Manufacturing Software](https://threatpost.com/sap-critical-rce-flaw-manufacturing/164666/)
 - [Fake Ad Blocker Delivers Hybrid Cryptominer/Ransomware Infection](https://threatpost.com/fake-ad-blocker-cryptominer-ransomware/164669/)
 - [Cyberattackers Exploiting Critical WordPress Plugin Bug](https://threatpost.com/cyberattackers-exploiting-critical-wordpress-plugin-bug/164663/)
-- [Nim-Based Malware Loader Spreads Via Spear-Phishing Emails](https://threatpost.com/nim-based-malware-loader-spreads-via-spear-phishing-emails/164643/)
 <!-- THREAT:END -->
 ---
 
