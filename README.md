@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ransomware Attack Strikes Spain’s Employment Agency](https://threatpost.com/ransomware-attack-spain-employment-agency/164703/)
+- [TrickBot Takes Over, After Cops Kneecap Emotet](https://threatpost.com/trickbot-takes-over-emotet/164710/)
 - [NanoCore RAT Scurries Past Email Defenses with .ZIPX Tactic](https://threatpost.com/nanocore-rat-email-defenses-zipx/164701/)
 - [Microsoft Exchange Servers Face APT Attack Tsunami](https://threatpost.com/microsoft-exchange-servers-apt-attack/164695/)
 - [Linux Systems Under Attack By New RedXOR Malware](https://threatpost.com/linux-systems-redxor-malware/164689/)
-- [FIN8 Resurfaces with Revamped Backdoor Malware](https://threatpost.com/fin8-resurfaces-backdoor-malware/164684/)
-- [F5, CISA Warn of Critical BIG-IP and BIG-IQ RCE Bugs](https://threatpost.com/f5-cisa-critical-rce-bugs/164679/)
 <!-- THREAT:END -->
 ---
 
