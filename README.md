@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Metamorfo Banking Trojan Abuses AutoHotKey to Avoid Detection](https://threatpost.com/metamorfo-banking-trojan-autohotkey/164735/)
 - [Microsoft Exchange Exploits Pave a Ransomware Path](https://threatpost.com/microsoft-exchange-exploits-ransomware/164719/)
 - [Molson Coors Cracks Open a Cyberattack Investigation](https://threatpost.com/molson-coors-cyberattack-investigation/164722/)
 - [Ransomware Attack Strikes Spain’s Employment Agency](https://threatpost.com/ransomware-attack-spain-employment-agency/164703/)
 - [TrickBot Takes Over, After Cops Kneecap Emotet](https://threatpost.com/trickbot-takes-over-emotet/164710/)
-- [NanoCore RAT Scurries Past Email Defenses with .ZIPX Tactic](https://threatpost.com/nanocore-rat-email-defenses-zipx/164701/)
 <!-- THREAT:END -->
 ---
 
