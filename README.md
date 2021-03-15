@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cybersecurity Bug-Hunting Sparks Enterprise Confidence](https://threatpost.com/cybersecurity-bug-hunting-enterprise-confidence/164782/)
 - [Cyberattacks See Fundamental Changes, A Year into COVID-19](https://threatpost.com/cyberattacks-fundamental-changes-covid-19/164775/)
 - [Google Warns Mac, Windows Users of Chrome Zero-Day Flaw](https://threatpost.com/google-mac-windows-chrome-zero-day/164759/)
 - [Critical Security Hole Can Knock Smart Meters Offline](https://threatpost.com/critical-security-smart-meter-offline/164753/)
 - [REvil Group Claims Slew of Ransomware Attacks](https://threatpost.com/revil-claims-ransomware-attacks/164739/)
-- [Europol Credits Sweeping Arrests to Cracked Sky ECC Comms](https://threatpost.com/europol-arrests-cracked-sky-ecc/164744/)
 <!-- THREAT:END -->
 ---
 
