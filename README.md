@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Latest Mirai Variant Targets SonicWall, D-Link and IoT Devices](https://threatpost.com/mirai-variant-sonicwall-d-link-iot/164811/)
+- [Exchange Cyberattacks Escalate as Microsoft Rolls One-Click Fix](https://threatpost.com/microsoft-exchange-cyberattacks-one-click-fix/164817/)
+- [Magecart Attackers Save Stolen Credit-Card Data in .JPG File](https://threatpost.com/magecart-attackers-stolen-data-jpg/164815/)
 - [Google Releases Spectre PoC Exploit For Chrome](https://threatpost.com/google-spectre-poc-exploit-chrome/164787/)
 - [Top MSP Challenges in 2021](https://threatpost.com/top-msp-challenges-in-2021/164784/)
-- [Cybersecurity Bug-Hunting Sparks Enterprise Confidence](https://threatpost.com/cybersecurity-bug-hunting-enterprise-confidence/164782/)
-- [Cyberattacks See Fundamental Changes, A Year into COVID-19](https://threatpost.com/cyberattacks-fundamental-changes-covid-19/164775/)
-- [Google Warns Mac, Windows Users of Chrome Zero-Day Flaw](https://threatpost.com/google-mac-windows-chrome-zero-day/164759/)
 <!-- THREAT:END -->
 ---
 
