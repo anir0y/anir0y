@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [PYSA Ransomware Pillages Education Sector, Feds Warn](https://threatpost.com/pysa-ransomware-education-feds-warn/164832/)
+- [Mom & Daughter Duo Hack Homecoming Crown](https://threatpost.com/mom-daughter-duo-hack-homecoming-crown/164829/)
 - [Latest Mirai Variant Targets SonicWall, D-Link and IoT Devices](https://threatpost.com/mirai-variant-sonicwall-d-link-iot/164811/)
 - [Exchange Cyberattacks Escalate as Microsoft Rolls One-Click Fix](https://threatpost.com/microsoft-exchange-cyberattacks-one-click-fix/164817/)
 - [Magecart Attackers Save Stolen Credit-Card Data in .JPG File](https://threatpost.com/magecart-attackers-stolen-data-jpg/164815/)
-- [Google Releases Spectre PoC Exploit For Chrome](https://threatpost.com/google-spectre-poc-exploit-chrome/164787/)
-- [Top MSP Challenges in 2021](https://threatpost.com/top-msp-challenges-in-2021/164784/)
 <!-- THREAT:END -->
 ---
 
