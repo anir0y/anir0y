@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cisco Plugs Security Hole in Small Business Routers](https://threatpost.com/cisco-security-hole-small-business-routers/164859/)
+- [Teen Behind Twitter Bit-Con Breach Cuts Plea Deal](https://threatpost.com/teen-twitter-breach-plea-deal/164863/)
 - [$4,000 COVID-19 ‘Relief Checks’ Cloak Dridex Malware](https://threatpost.com/covid-19-relief-checks-dridex-malware/164853/)
 - [Mimecast: SolarWinds Attackers Stole Source Code](https://threatpost.com/mimecast-solarwinds-attackers-stole-source-code/164847/)
 - [State-sponsored Threat Groups Target Telcos, Steal 5G Secrets](https://threatpost.com/state-sponsored-threat-groups-target-telcos-steal-5g-secrets/164841/)
-- [A New Paradigm in Data Security: Insider Risk Management](https://threatpost.com/a-new-paradigm-in-data-security-insider-risk-management/164768/)
-- [PYSA Ransomware Pillages Education Sector, Feds Warn](https://threatpost.com/pysa-ransomware-education-feds-warn/164832/)
 <!-- THREAT:END -->
 ---
 
