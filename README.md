@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Zoom Screen-Sharing Glitch ‘Briefly’ Leaks Sensitive Data](https://threatpost.com/zoom-glitch-leaks-data/164876/)
 - [Security Researcher Hides ZIP, MP3 Files Inside PNG Files on Twitter](https://threatpost.com/researcher-hides-files-in-png-twitter/164881/)
 - [Tutor LMS for WordPress Open to Info-Stealing Security Holes](https://threatpost.com/tutor-lms-wordpress-security-holes/164868/)
 - [Cisco Plugs Security Hole in Small Business Routers](https://threatpost.com/cisco-security-hole-small-business-routers/164859/)
 - [Teen Behind Twitter Bit-Con Breach Cuts Plea Deal](https://threatpost.com/teen-twitter-breach-plea-deal/164863/)
-- [$4,000 COVID-19 ‘Relief Checks’ Cloak Dridex Malware](https://threatpost.com/covid-19-relief-checks-dridex-malware/164853/)
 <!-- THREAT:END -->
 ---
 
