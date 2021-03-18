@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Fiserv Forgets to Buy Domain It Used as System Default](https://threatpost.com/fiserv-forgets-to-buy-domain-it-used-as-system-default/164903/)
+- [Trojanized Xcode Project Slips MacOS Malware to Apple Developers](https://threatpost.com/xcode-macos-malware-apple-developers/164897/)
 - [Zoom Screen-Sharing Glitch ‘Briefly’ Leaks Sensitive Data](https://threatpost.com/zoom-glitch-leaks-data/164876/)
 - [Security Researcher Hides ZIP, MP3 Files Inside PNG Files on Twitter](https://threatpost.com/researcher-hides-files-in-png-twitter/164881/)
 - [Tutor LMS for WordPress Open to Info-Stealing Security Holes](https://threatpost.com/tutor-lms-wordpress-security-holes/164868/)
-- [Cisco Plugs Security Hole in Small Business Routers](https://threatpost.com/cisco-security-hole-small-business-routers/164859/)
-- [Teen Behind Twitter Bit-Con Breach Cuts Plea Deal](https://threatpost.com/teen-twitter-breach-plea-deal/164863/)
 <!-- THREAT:END -->
 ---
 
