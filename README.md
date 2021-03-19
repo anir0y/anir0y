@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Bogus Android Clubhouse App Drops Credential-Swiping Malware](https://threatpost.com/android-clubhouse-app-malware/164915/)
 - [CopperStealer Malware Targets Facebook and Instagram Business Accounts](https://threatpost.com/copperstealer-hijacks-accounts/164919/)
 - [Fiserv Forgets to Buy Domain It Used as System Default](https://threatpost.com/fiserv-forgets-to-buy-domain-it-used-as-system-default/164903/)
 - [Trojanized Xcode Project Slips MacOS Malware to Apple Developers](https://threatpost.com/xcode-macos-malware-apple-developers/164897/)
 - [Zoom Screen-Sharing Glitch ‘Briefly’ Leaks Sensitive Data](https://threatpost.com/zoom-glitch-leaks-data/164876/)
-- [Security Researcher Hides ZIP, MP3 Files Inside PNG Files on Twitter](https://threatpost.com/researcher-hides-files-in-png-twitter/164881/)
 <!-- THREAT:END -->
 ---
 
