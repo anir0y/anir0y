@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Introduction to Vapt](https://classroom.anir0y.in/post/intro-vapt/)
 - [Volatility Installation in Linux](https://classroom.anir0y.in/post/vol2-installation/)
 - [Splunk Sysmon Configuration](https://classroom.anir0y.in/post/splunk-sysmon/)
 - [Mobile App pentesting](https://classroom.anir0y.in/post/learnings-mobileapppt/)
 - [Learning Continues](https://classroom.anir0y.in/post/learnings/)
-- [Metasploit Cheat Sheet!](https://classroom.anir0y.in/post/metasploit-cheat-sheet/)
 <!-- CLASS:END -->
 
 ## Threat Post:
