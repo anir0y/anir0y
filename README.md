@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical Security Bugs Fixed in Virtual Learning Software](https://threatpost.com/security-bugs-virtual-learning-software/164953/)
 - [Adobe Fixes Critical ColdFusion Flaw in Emergency Update](https://threatpost.com/adobe-critical-coldfusion-flaw-update/164946/)
 - [Critical F5 BIG-IP Flaw Now Under Active Attack](https://threatpost.com/critical-f5-big-ip-flaw-now-under-active-attack/164940/)
 - [Office 365 Phishing Attack Targets Financial Execs](https://threatpost.com/office-365-phishing-attack-financial-execs/164925/)
 - [Bogus Android Clubhouse App Drops Credential-Swiping Malware](https://threatpost.com/android-clubhouse-app-malware/164915/)
-- [CopperStealer Malware Targets Facebook and Instagram Business Accounts](https://threatpost.com/copperstealer-hijacks-accounts/164919/)
 <!-- THREAT:END -->
 ---
 
