@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Office 365 Cyberattack Lands Disgruntled IT Contractor in Jail](https://threatpost.com/office-365-cyberattack-disgruntled-contractor-jail/164986/)
+- [MangaDex Site Offline Following Hacking Incident](https://threatpost.com/mangadex-site-offline-hacking/164983/)
+- [Hobby Lobby Exposes Customer Data in Cloud Misconfiguration](https://threatpost.com/hobby-lobby-customer-data-cloud-misconfiguration/164980/)
 - [Podcast: Microsoft Exchange Server Attack Onslaught Continues](https://threatpost.com/podcast-microsoft-exchange-server-attack-onslaught-continues/164968/)
 - [Energy Giant Shell Is Latest Victim of Accellion Attacks](https://threatpost.com/shell-victim-of-accellion-attacks/164973/)
-- [CISA Warns of Security Flaws in GE Power Management Devices](https://threatpost.com/cisa-security-flaws-ge-power-management/164961/)
-- [Critical Security Bugs Fixed in Virtual Learning Software](https://threatpost.com/security-bugs-virtual-learning-software/164953/)
-- [Adobe Fixes Critical ColdFusion Flaw in Emergency Update](https://threatpost.com/adobe-critical-coldfusion-flaw-update/164946/)
 <!-- THREAT:END -->
 ---
 
