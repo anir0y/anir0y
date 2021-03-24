@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [ProtonVPN CEO Blasts Apple for ‘Aiding Tyrants’ in Myanmar](https://threatpost.com/protonvpn-ceo-blasts-apple-myanmar/165022/)
+- [Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws](https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/)
 - [Ransomware Attack Foils IoT Giant Sierra Wireless](https://threatpost.com/ransomware-iot-sierra-wireless/165003/)
 - [Microsoft Exchange Servers See ProxyLogon Patching Frenzy](https://threatpost.com/microsoft-exchange-servers-proxylogon-patching/165001/)
 - [Purple Fox Malware Targets Windows Machines With New Worm Capabilities](https://threatpost.com/purple-fox-malware-windows-worm/164993/)
-- [Security Analysis Clears TikTok of Censorship, Privacy Accusations](https://threatpost.com/security-analysis-tiktok-censorship-privacy/164990/)
-- [Office 365 Cyberattack Lands Disgruntled IT Contractor in Jail](https://threatpost.com/office-365-cyberattack-disgruntled-contractor-jail/164986/)
 <!-- THREAT:END -->
 ---
 
