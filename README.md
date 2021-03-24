@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Purple Fox Malware Targets Windows Machines With New Worm Capabilities](https://threatpost.com/purple-fox-malware-windows-worm/164993/)
 - [Security Analysis Clears TikTok of Censorship, Privacy Accusations](https://threatpost.com/security-analysis-tiktok-censorship-privacy/164990/)
 - [Office 365 Cyberattack Lands Disgruntled IT Contractor in Jail](https://threatpost.com/office-365-cyberattack-disgruntled-contractor-jail/164986/)
 - [MangaDex Site Offline Following Hacking Incident](https://threatpost.com/mangadex-site-offline-hacking/164983/)
 - [Hobby Lobby Exposes Customer Data in Cloud Misconfiguration](https://threatpost.com/hobby-lobby-customer-data-cloud-misconfiguration/164980/)
-- [Podcast: Microsoft Exchange Server Attack Onslaught Continues](https://threatpost.com/podcast-microsoft-exchange-server-attack-onslaught-continues/164968/)
 <!-- THREAT:END -->
 ---
 
