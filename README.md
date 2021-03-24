@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ransomware Attack Foils IoT Giant Sierra Wireless](https://threatpost.com/ransomware-iot-sierra-wireless/165003/)
+- [Microsoft Exchange Servers See ProxyLogon Patching Frenzy](https://threatpost.com/microsoft-exchange-servers-proxylogon-patching/165001/)
 - [Purple Fox Malware Targets Windows Machines With New Worm Capabilities](https://threatpost.com/purple-fox-malware-windows-worm/164993/)
 - [Security Analysis Clears TikTok of Censorship, Privacy Accusations](https://threatpost.com/security-analysis-tiktok-censorship-privacy/164990/)
 - [Office 365 Cyberattack Lands Disgruntled IT Contractor in Jail](https://threatpost.com/office-365-cyberattack-disgruntled-contractor-jail/164986/)
-- [MangaDex Site Offline Following Hacking Incident](https://threatpost.com/mangadex-site-offline-hacking/164983/)
-- [Hobby Lobby Exposes Customer Data in Cloud Misconfiguration](https://threatpost.com/hobby-lobby-customer-data-cloud-misconfiguration/164980/)
 <!-- THREAT:END -->
 ---
 
