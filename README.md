@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Manufacturing’s Cloud Migration Opens Door to Major Cyber-Risk](https://threatpost.com/manufacturing-cloud-migration-cyber-risk/165028/)
 - [ProtonVPN CEO Blasts Apple for ‘Aiding Tyrants’ in Myanmar](https://threatpost.com/protonvpn-ceo-blasts-apple-myanmar/165022/)
 - [Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws](https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/)
 - [Ransomware Attack Foils IoT Giant Sierra Wireless](https://threatpost.com/ransomware-iot-sierra-wireless/165003/)
 - [Microsoft Exchange Servers See ProxyLogon Patching Frenzy](https://threatpost.com/microsoft-exchange-servers-proxylogon-patching/165001/)
-- [Purple Fox Malware Targets Windows Machines With New Worm Capabilities](https://threatpost.com/purple-fox-malware-windows-worm/164993/)
 <!-- THREAT:END -->
 ---
 
