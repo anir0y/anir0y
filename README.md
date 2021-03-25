@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Offers Up To $30K For Teams Bugs](https://threatpost.com/microsoft-30k-teams-bugs/165037/)
 - [Facebook Disrupts Spy Effort Aimed at Uyghurs](https://threatpost.com/facebook-disrupts-spy-uyghurs/165032/)
 - [Manufacturing’s Cloud Migration Opens Door to Major Cyber-Risk](https://threatpost.com/manufacturing-cloud-migration-cyber-risk/165028/)
 - [ProtonVPN CEO Blasts Apple for ‘Aiding Tyrants’ in Myanmar](https://threatpost.com/protonvpn-ceo-blasts-apple-myanmar/165022/)
 - [Active Exploits Hit WordPress Sites Vulnerable to Thrive Themes Flaws](https://threatpost.com/active-exploits-wordpress-sites-thrive-themes/165013/)
-- [Ransomware Attack Foils IoT Giant Sierra Wireless](https://threatpost.com/ransomware-iot-sierra-wireless/165003/)
 <!-- THREAT:END -->
 ---
 
