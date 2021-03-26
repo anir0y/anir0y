@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Insurance Giant CNA Hit with Novel Ransomware Attack](https://threatpost.com/cna-hit-novel-ransomware/165044/)
 - [Fleeceware Apps Bank $400M in Revenue](https://threatpost.com/fleeceware-apps-400m-revenue/165040/)
 - [Microsoft Offers Up To $30K For Teams Bugs](https://threatpost.com/microsoft-30k-teams-bugs/165037/)
 - [Facebook Disrupts Spy Effort Aimed at Uyghurs](https://threatpost.com/facebook-disrupts-spy-uyghurs/165032/)
 - [Manufacturing’s Cloud Migration Opens Door to Major Cyber-Risk](https://threatpost.com/manufacturing-cloud-migration-cyber-risk/165028/)
-- [ProtonVPN CEO Blasts Apple for ‘Aiding Tyrants’ in Myanmar](https://threatpost.com/protonvpn-ceo-blasts-apple-myanmar/165022/)
 <!-- THREAT:END -->
 ---
 
