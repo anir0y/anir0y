@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Basic Linux](https://classroom.anir0y.in/post/excelr-basic-linux/)
 - [Ps Enc](https://classroom.anir0y.in/post/ps-enc/)
 - [Introduction to Vapt](https://classroom.anir0y.in/post/intro-vapt/)
 - [Phishing Attack](https://classroom.anir0y.in/post/blog2/)
 - [Vulnerable Apps, Servers, and Websites!](https://classroom.anir0y.in/post/blog1/)
-- [Me](https://classroom.anir0y.in/about/me/)
 <!-- CLASS:END -->
 
 ## Threat Post:
