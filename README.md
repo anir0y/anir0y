@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [PHP Infiltrated with Backdoor Malware](https://threatpost.com/php-infiltrated-backdoor-malware/165061/)
 - [Executive Order Would Strengthen Cybersecurity Requirements for Federal Agencies](https://threatpost.com/executive-order-cybersecurity-federal-agencies/165056/)
 - [Employee Lockdown Stress May Spark Cybersecurity Risk](https://threatpost.com/employee-lockdown-stress-cybersecurity-risk/165050/)
 - [Insurance Giant CNA Hit with Novel Ransomware Attack](https://threatpost.com/cna-hit-novel-ransomware/165044/)
 - [Fleeceware Apps Bank $400M in Revenue](https://threatpost.com/fleeceware-apps-400m-revenue/165040/)
-- [Microsoft Offers Up To $30K For Teams Bugs](https://threatpost.com/microsoft-30k-teams-bugs/165037/)
 <!-- THREAT:END -->
 ---
 
