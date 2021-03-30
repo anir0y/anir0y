@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [SolarWinds Attackers Accessed DHS Emails, Report](https://threatpost.com/solarwinds-attackers-dhs-emails/165110/)
 - [Intel Sued Under Wiretapping Laws for Tracking User Activity on its Website](https://threatpost.com/intel-sued-under-wiretapping-laws/165104/)
 - [Pair of Apex Legends Players Banned for DDoS Server Attacks](https://threatpost.com/apex-legends-players-banned-ddos-server-attacks/165085/)
 - [Hades Ransomware Gang Exhibits Connections to Hafnium](https://threatpost.com/hades-ransomware-connections-hafnium/165069/)
 - [PHP Infiltrated with Backdoor Malware](https://threatpost.com/php-infiltrated-backdoor-malware/165061/)
-- [Executive Order Would Strengthen Cybersecurity Requirements for Federal Agencies](https://threatpost.com/executive-order-cybersecurity-federal-agencies/165056/)
 <!-- THREAT:END -->
 ---
 
