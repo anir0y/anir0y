@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [APT Charming Kitten Pounces on Medical Researchers](https://threatpost.com/charming-kitten-pounces-on-researchers/165129/)
 - [Ziggy Ransomware Gang Offers Refunds to Victims](https://threatpost.com/ziggy-ransomware-gang-offers-refund-to-victims/165124/)
 - [Malicious Docker Cryptomining Images Rack Up 20M Downloads](https://threatpost.com/malicious-docker-cryptomining-images/165120/)
 - [SolarWinds Attackers Accessed DHS Emails, Report](https://threatpost.com/solarwinds-attackers-dhs-emails/165110/)
 - [Intel Sued Under Wiretapping Laws for Tracking User Activity on its Website](https://threatpost.com/intel-sued-under-wiretapping-laws/165104/)
-- [Pair of Apex Legends Players Banned for DDoS Server Attacks](https://threatpost.com/apex-legends-players-banned-ddos-server-attacks/165085/)
 <!-- THREAT:END -->
 ---
 
