@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ragnarok Ransomware Hits Boggi Milano Menswear](https://threatpost.com/ragnarok-ransomware-boggi-milano-menswear/165161/)
 - [Building a Fortress: 3 Key Strategies for Optimized IT Security](https://threatpost.com/key-strategies-optimized-it-security/165157/)
 - [Google: North Korean APT Gearing Up to Target Security Researchers Again](https://threatpost.com/north-korean-apt-security-researchers/165155/)
 - [Apple, Google Both Track Mobile Telemetry Data, Despite Users Opting Out](https://threatpost.com/google-apple-track-mobile-opting-out/165147/)
 - [Fraud Ring Launders Money Via Fake Charity Donations](https://threatpost.com/fraud-lauders-money-charity-donations/165138/)
-- [Child Tweets Gibberish from U.S. Nuke Account](https://threatpost.com/child-tweets-gibberish-nuke-account/165140/)
 <!-- THREAT:END -->
 ---
 
