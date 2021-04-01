@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [80% of Global Enterprises Report Firmware Cyberattacks](https://threatpost.com/enterprises-firmware-cyberattacks/165174/)
 - [Legacy QNAP NAS Devices Vulnerable to Zero-Day Attack](https://threatpost.com/qnap-nas-devices-zero-day-attack/165165/)
 - [Ragnarok Ransomware Hits Boggi Milano Menswear](https://threatpost.com/ragnarok-ransomware-boggi-milano-menswear/165161/)
 - [Building a Fortress: 3 Key Strategies for Optimized IT Security](https://threatpost.com/key-strategies-optimized-it-security/165157/)
 - [Google: North Korean APT Gearing Up to Target Security Researchers Again](https://threatpost.com/north-korean-apt-security-researchers/165155/)
-- [Apple, Google Both Track Mobile Telemetry Data, Despite Users Opting Out](https://threatpost.com/google-apple-track-mobile-opting-out/165147/)
 <!-- THREAT:END -->
 ---
 
