@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Google: North Korean APT Gearing Up to Target Security Researchers Again](https://threatpost.com/north-korean-apt-security-researchers/165155/)
 - [Apple, Google Both Track Mobile Telemetry Data, Despite Users Opting Out](https://threatpost.com/google-apple-track-mobile-opting-out/165147/)
 - [Fraud Ring Launders Money Via Fake Charity Donations](https://threatpost.com/fraud-lauders-money-charity-donations/165138/)
 - [Child Tweets Gibberish from U.S. Nuke Account](https://threatpost.com/child-tweets-gibberish-nuke-account/165140/)
 - [APT Charming Kitten Pounces on Medical Researchers](https://threatpost.com/charming-kitten-pounces-on-researchers/165129/)
-- [Ziggy Ransomware Gang Offers Refunds to Victims](https://threatpost.com/ziggy-ransomware-gang-offers-refund-to-victims/165124/)
 <!-- THREAT:END -->
 ---
 
