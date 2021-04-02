@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [FBI: APTs Actively Exploiting Fortinet VPN Security Holes](https://threatpost.com/fbi-apts-actively-exploiting-fortinet-vpn-security-holes/165213/)
 - [Call of Duty Cheats Expose Gamers to Malware, Takeover](https://threatpost.com/call-of-duty-cheats-gamers-malware/165209/)
 - [From PowerShell to Payload: An Analysis of Weaponized Malware](https://threatpost.com/powershell-payload-analysis-malware/165188/)
 - [Robinhood Warns Customers of Tax-Season Phishing Scams](https://threatpost.com/robinhood-warns-customers-of-tax-season-phishing-scams/165180/)
 - [80% of Global Enterprises Report Firmware Cyberattacks](https://threatpost.com/enterprises-firmware-cyberattacks/165174/)
-- [Legacy QNAP NAS Devices Vulnerable to Zero-Day Attack](https://threatpost.com/qnap-nas-devices-zero-day-attack/165165/)
 <!-- THREAT:END -->
 ---
 
