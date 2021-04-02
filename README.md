@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [From PowerShell to Payload: An Analysis of Weaponized Malware](https://threatpost.com/powershell-payload-analysis-malware/165188/)
 - [Robinhood Warns Customers of Tax-Season Phishing Scams](https://threatpost.com/robinhood-warns-customers-of-tax-season-phishing-scams/165180/)
 - [80% of Global Enterprises Report Firmware Cyberattacks](https://threatpost.com/enterprises-firmware-cyberattacks/165174/)
 - [Legacy QNAP NAS Devices Vulnerable to Zero-Day Attack](https://threatpost.com/qnap-nas-devices-zero-day-attack/165165/)
 - [Ragnarok Ransomware Hits Boggi Milano Menswear](https://threatpost.com/ragnarok-ransomware-boggi-milano-menswear/165161/)
-- [Building a Fortress: 3 Key Strategies for Optimized IT Security](https://threatpost.com/key-strategies-optimized-it-security/165157/)
 <!-- THREAT:END -->
 ---
 
