@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Intro Bash](https://classroom.anir0y.in/post/intro-bash/)
+- [Powershell Empire](https://classroom.anir0y.in/post/powershell-empire-install/)
 - [Msfvenom Psh](https://classroom.anir0y.in/post/msfvenom-psh/)
 - [Msfvenom Cheatsheet](https://classroom.anir0y.in/post/msfvenom-cheatsheet/)
 - [Basic Linux](https://classroom.anir0y.in/post/excelr-basic-linux/)
-- [Ps Enc](https://classroom.anir0y.in/post/ps-enc/)
-- [Introduction to Vapt](https://classroom.anir0y.in/post/intro-vapt/)
 <!-- CLASS:END -->
 
 ## Threat Post:
