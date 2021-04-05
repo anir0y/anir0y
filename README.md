@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How To Defend the Extended Network Against Web Risks](https://threatpost.com/how-to-defend-the-extended-network-against-web-risks/165236/)
 - [15 Cybersecurity Pitfalls and Fixes for SMBs](https://threatpost.com/cybersecurity-pitfalls-fixes-smbs/165225/)
 - [FBI: APTs Actively Exploiting Fortinet VPN Security Holes](https://threatpost.com/fbi-apts-actively-exploiting-fortinet-vpn-security-holes/165213/)
 - [Call of Duty Cheats Expose Gamers to Malware, Takeover](https://threatpost.com/call-of-duty-cheats-gamers-malware/165209/)
 - [From PowerShell to Payload: An Analysis of Weaponized Malware](https://threatpost.com/powershell-payload-analysis-malware/165188/)
-- [Robinhood Warns Customers of Tax-Season Phishing Scams](https://threatpost.com/robinhood-warns-customers-of-tax-season-phishing-scams/165180/)
 <!-- THREAT:END -->
 ---
 
