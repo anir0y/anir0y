@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Spy Operations Target Vietnam with Sophisticated RAT](https://threatpost.com/spy-operations-vietnam-rat/165243/)
 - [LinkedIn Spear-Phishing Campaign Targets Job Hunters](https://threatpost.com/linkedin-spear-phishing-job-hunters/165240/)
 - [Apple Mail Zero-Click Security Vulnerability Allows Email Snooping](https://threatpost.com/apple-mail-zero-click-security-vulnerability/165238/)
 - [How To Defend the Extended Network Against Web Risks](https://threatpost.com/how-to-defend-the-extended-network-against-web-risks/165236/)
 - [15 Cybersecurity Pitfalls and Fixes for SMBs](https://threatpost.com/cybersecurity-pitfalls-fixes-smbs/165225/)
-- [FBI: APTs Actively Exploiting Fortinet VPN Security Holes](https://threatpost.com/fbi-apts-actively-exploiting-fortinet-vpn-security-holes/165213/)
 <!-- THREAT:END -->
 ---
 
