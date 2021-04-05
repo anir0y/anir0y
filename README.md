@@ -12,7 +12,7 @@
 |----------|:-------------:|--:|
 | Twitter |  [![Twitter: anir0y](https://img.shields.io/twitter/follow/anir0y?label=Follow%20me&style=plastic)](https://twitter.com/anir0y)| ![](https://img.shields.io/badge/Status-Online-blue)|
 | GitHub |    [![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=Fork%20me&style=plastic)](https://github.com/anir0y)   | ![](https://img.shields.io/badge/Status-Online-blue)|
-| Website |    [![Website: Anir0y](https://img.shields.io/badge/Website-anir0y.in-blue?style=flat-square&logo=google-chrome)](anir0y.in)    |  ![Website: Anir0y](https://img.shields.io/website?down_color=red&down_message=Server%20is%20Dead&style=flat-square&up_color=green&up_message=Online&url=https%3A%2F%2Fanir0y.in) |
+
 
 ---
 
