@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical Cloud Bug in VMWare Carbon Black Allows Takeover](https://threatpost.com/critical-cloud-bug-vmware-carbon-black/165278/)
+- [Chinese Hackers Selling Intimate Stolen Camera Footage](https://threatpost.com/chinese-hackers-intimate-camera-footage/165281/)
 - [SAP Bugs Under Active Cyberattack, Causing Widespread Compromise](https://threatpost.com/sap-bugs-cyberattack-compromise/165265/)
 - [Conti Gang Demands $40M Ransom from Florida School District](https://threatpost.com/conti-40m-ransom-florida-school/165258/)
 - [533M Facebook Accounts Leaked Online: Check if You Are Exposed](https://threatpost.com/facebook-accounts-leaked-check-exposed/165245/)
-- [Spy Operations Target Vietnam with Sophisticated RAT](https://threatpost.com/spy-operations-vietnam-rat/165243/)
-- [LinkedIn Spear-Phishing Campaign Targets Job Hunters](https://threatpost.com/linkedin-spear-phishing-job-hunters/165240/)
 <!-- THREAT:END -->
 ---
 
