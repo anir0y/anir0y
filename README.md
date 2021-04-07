@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Fake Netflix App on Google Play Spreads Malware Via WhatsApp](https://threatpost.com/netflix-app-google-play-malware-whatsapp/165288/)
 - [Facebook: Stolen Data Scraped from Platform in 2019](https://threatpost.com/facebook-stolen-data-scraped/165285/)
 - [Critical Cloud Bug in VMWare Carbon Black Allows Takeover](https://threatpost.com/critical-cloud-bug-vmware-carbon-black/165278/)
 - [Chinese Hackers Selling Intimate Stolen Camera Footage](https://threatpost.com/chinese-hackers-intimate-camera-footage/165281/)
 - [SAP Bugs Under Active Cyberattack, Causing Widespread Compromise](https://threatpost.com/sap-bugs-cyberattack-compromise/165265/)
-- [Conti Gang Demands $40M Ransom from Florida School District](https://threatpost.com/conti-40m-ransom-florida-school/165258/)
 <!-- THREAT:END -->
 ---
 
