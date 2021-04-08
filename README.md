@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Hackers Exploit Fortinet Flaw in Sophisticated Cring Ransomware Attacks](https://threatpost.com/hackers-exploit-flaw-cring-ransomware/165300/)
 - [Attackers Blowing Up Discord, Slack with Malware](https://threatpost.com/attackers-discord-slack-malware/165295/)
 - [Crossing the Line: When Cyberattacks Become Acts of War](https://threatpost.com/crossing-line-cyberattack-act-war/165290/)
 - [Fake Netflix App on Google Play Spreads Malware Via WhatsApp](https://threatpost.com/netflix-app-google-play-malware-whatsapp/165288/)
 - [Facebook: Stolen Data Scraped from Platform in 2019](https://threatpost.com/facebook-stolen-data-scraped/165285/)
-- [Critical Cloud Bug in VMWare Carbon Black Allows Takeover](https://threatpost.com/critical-cloud-bug-vmware-carbon-black/165278/)
 <!-- THREAT:END -->
 ---
 
