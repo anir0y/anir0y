@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Adware Spreads via Fake TikTok App, Laptop Offers](https://threatpost.com/adware-tiktok-laptop-offers/165318/)
+- [Zero-Day Bug Impacts Problem-Plagued Cisco SOHO Routers](https://threatpost.com/zero-day-bug-soho-routers/165321/)
 - [IcedID Banking Trojan Surges: The New Emotet?](https://threatpost.com/icedid-banking-trojan-surges-emotet/165314/)
 - [Azure Functions Weakness Allows Privilege Escalation](https://threatpost.com/azure-functions-privilege-escalation/165307/)
 - [Hackers Exploit Fortinet Flaw in Sophisticated Cring Ransomware Attacks](https://threatpost.com/hackers-exploit-flaw-cring-ransomware/165300/)
-- [Attackers Blowing Up Discord, Slack with Malware](https://threatpost.com/attackers-discord-slack-malware/165295/)
-- [Crossing the Line: When Cyberattacks Become Acts of War](https://threatpost.com/crossing-line-cyberattack-act-war/165290/)
 <!-- THREAT:END -->
 ---
 
