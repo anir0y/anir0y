@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [IcedID Banking Trojan Surges: The New Emotet?](https://threatpost.com/icedid-banking-trojan-surges-emotet/165314/)
 - [Azure Functions Weakness Allows Privilege Escalation](https://threatpost.com/azure-functions-privilege-escalation/165307/)
 - [Hackers Exploit Fortinet Flaw in Sophisticated Cring Ransomware Attacks](https://threatpost.com/hackers-exploit-flaw-cring-ransomware/165300/)
 - [Attackers Blowing Up Discord, Slack with Malware](https://threatpost.com/attackers-discord-slack-malware/165295/)
 - [Crossing the Line: When Cyberattacks Become Acts of War](https://threatpost.com/crossing-line-cyberattack-act-war/165290/)
-- [Fake Netflix App on Google Play Spreads Malware Via WhatsApp](https://threatpost.com/netflix-app-google-play-malware-whatsapp/165288/)
 <!-- THREAT:END -->
 ---
 
