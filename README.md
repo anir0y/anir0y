@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Network Detection & Response: The Next Frontier in Fighting the Human Problem](https://threatpost.com/network-detection-response-human-problem/165332/)
 - [Data from 500M LinkedIn Users Posted for Sale Online](https://threatpost.com/data-500m-linkedin-users-online/165329/)
 - [Adware Spreads via Fake TikTok App, Laptop Offers](https://threatpost.com/adware-tiktok-laptop-offers/165318/)
 - [Zero-Day Bug Impacts Problem-Plagued Cisco SOHO Routers](https://threatpost.com/zero-day-bug-soho-routers/165321/)
 - [IcedID Banking Trojan Surges: The New Emotet?](https://threatpost.com/icedid-banking-trojan-surges-emotet/165314/)
-- [Azure Functions Weakness Allows Privilege Escalation](https://threatpost.com/azure-functions-privilege-escalation/165307/)
 <!-- THREAT:END -->
 ---
 
