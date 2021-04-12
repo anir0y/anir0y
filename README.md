@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Zero Trust: The Mobile Dimension](https://threatpost.com/zero-trust-mobile-dimension/165349/)
 - [IcedID Circulates Via Web Forms, Google URLs](https://threatpost.com/icedid-web-forms-google-urls/165347/)
 - [DOJ: Creep Coach Finagles Nude Athlete Photos](https://threatpost.com/creep-coach-nude-athlete-photos/165340/)
 - [623M Payment Cards Stolen from Cybercrime Forum](https://threatpost.com/623m-payment-cards-stolen-from-cybercrime-forum/165336/)
 - [Network Detection & Response: The Next Frontier in Fighting the Human Problem](https://threatpost.com/network-detection-response-human-problem/165332/)
-- [Data from 500M LinkedIn Users Posted for Sale Online](https://threatpost.com/data-500m-linkedin-users-online/165329/)
 <!-- THREAT:END -->
 ---
 
