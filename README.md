@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Man Arrested for AWS Bomb Plot](https://threatpost.com/man-arrested-for-aws-bomb-plot/165351/)
 - [Zero Trust: The Mobile Dimension](https://threatpost.com/zero-trust-mobile-dimension/165349/)
 - [IcedID Circulates Via Web Forms, Google URLs](https://threatpost.com/icedid-web-forms-google-urls/165347/)
 - [DOJ: Creep Coach Finagles Nude Athlete Photos](https://threatpost.com/creep-coach-nude-athlete-photos/165340/)
 - [623M Payment Cards Stolen from Cybercrime Forum](https://threatpost.com/623m-payment-cards-stolen-from-cybercrime-forum/165336/)
-- [Network Detection & Response: The Next Frontier in Fighting the Human Problem](https://threatpost.com/network-detection-response-human-problem/165332/)
 <!-- THREAT:END -->
 ---
 
