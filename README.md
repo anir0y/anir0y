@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Chrome Zero-Day Exploit Posted on Twitter](https://threatpost.com/chrome-zero-day-exploit-twitter/165363/)
 - [1.3M Clubhouse Users’ Data Dumped in Hacker Forum for Free](https://threatpost.com/clubhouse-users-data-hacker-forum/165354/)
 - [Man Arrested for AWS Bomb Plot](https://threatpost.com/man-arrested-for-aws-bomb-plot/165351/)
 - [Zero Trust: The Mobile Dimension](https://threatpost.com/zero-trust-mobile-dimension/165349/)
 - [IcedID Circulates Via Web Forms, Google URLs](https://threatpost.com/icedid-web-forms-google-urls/165347/)
-- [DOJ: Creep Coach Finagles Nude Athlete Photos](https://threatpost.com/creep-coach-nude-athlete-photos/165340/)
 <!-- THREAT:END -->
 ---
 
