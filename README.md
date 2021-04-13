@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How the NAME:WRECK Bugs Impacts Consumers, Businesses](https://threatpost.com/namewreck-bugs-businesses/165385/)
+- [COVID-Related Threats, PowerShell Attacks Lead Malware Surge](https://threatpost.com/mcafee-covid-rpowershell-malware-surge/165382/)
 - [Tax Phish Swims Past Google Workspace Email Security](https://threatpost.com/tax-phish-google-workspace-email-security/165376/)
 - [Adobe Patches Slew of Critical Security Bugs in Bridge, Photoshop](https://threatpost.com/adobe-patches-critical-security-holes-bridge-photoshop/165371/)
 - [Chrome Zero-Day Exploit Posted on Twitter](https://threatpost.com/chrome-zero-day-exploit-twitter/165363/)
-- [1.3M Clubhouse Users’ Data Dumped in Hacker Forum for Free](https://threatpost.com/clubhouse-users-data-hacker-forum/165354/)
-- [Man Arrested for AWS Bomb Plot](https://threatpost.com/man-arrested-for-aws-bomb-plot/165351/)
 <!-- THREAT:END -->
 ---
 
