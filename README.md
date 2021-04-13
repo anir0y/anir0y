@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Notes Gnupg](https://classroom.anir0y.in/post/notes-gnupg/)
 - [Msf Runscript](https://classroom.anir0y.in/post/msf-runscript/)
 - [Intro Bash](https://classroom.anir0y.in/post/intro-bash/)
 - [Powershell Empire](https://classroom.anir0y.in/post/powershell-empire-install/)
 - [Msfvenom Psh](https://classroom.anir0y.in/post/msfvenom-psh/)
-- [Msfvenom Cheatsheet](https://classroom.anir0y.in/post/msfvenom-cheatsheet/)
 <!-- CLASS:END -->
 
 ## Threat Post:
