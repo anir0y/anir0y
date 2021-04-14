@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Security Bug Allows Attackers to Brick Kubernetes Clusters](https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/)
 - [Ransomware Attack Creates Cheese Shortages in Netherlands](https://threatpost.com/ransomware-cheese-shortages-netherlands/165407/)
 - [FBI Clears ProxyLogon Web Shells from Hundreds of Orgs](https://threatpost.com/fbi-proxylogon-web-shells/165400/)
 - [A Post-Data Privacy World and Data-Rights Management](https://threatpost.com/data-privacy-data-rights-management/165402/)
 - [100,000 Google Sites Used to Install SolarMarket RAT](https://threatpost.com/google-sites-solarmarket-rat/165396/)
-- [Microsoft Has Busy April Patch Tuesday with Zero-Days, Exchange Fixes](https://threatpost.com/microsoft-april-patch-tuesday-zero-days/165393/)
 <!-- THREAT:END -->
 ---
 
