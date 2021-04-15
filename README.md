@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Gafgyt Botnet Lifts DDoS Tricks from Mirai](https://threatpost.com/gafgyt-botnet-ddos-mirai/165424/)
 - [Attackers Target ProxyLogon Exploit to Install Cryptojacker](https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/)
 - [Security Bug Allows Attackers to Brick Kubernetes Clusters](https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/)
 - [Ransomware Attack Creates Cheese Shortages in Netherlands](https://threatpost.com/ransomware-cheese-shortages-netherlands/165407/)
 - [FBI Clears ProxyLogon Web Shells from Hundreds of Orgs](https://threatpost.com/fbi-proxylogon-web-shells/165400/)
-- [A Post-Data Privacy World and Data-Rights Management](https://threatpost.com/data-privacy-data-rights-management/165402/)
 <!-- THREAT:END -->
 ---
 
