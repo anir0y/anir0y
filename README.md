@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Mandiant Front Lines: How to Tackle Exchange Exploits](https://threatpost.com/mandiant-microsoft-exchange-exploits/165439/)
 - [Google Project Zero Cuts Bug Disclosure Timeline to a 30-Day Grace Period](https://threatpost.com/google-project-zero-cuts-bug-disclosure-timeline-to-a-30-day-grace-period/165432/)
 - [Biden Races to Shore Up Power Grid Against Hacks](https://threatpost.com/biden-power-grid-hacks/165428/)
 - [Gafgyt Botnet Lifts DDoS Tricks from Mirai](https://threatpost.com/gafgyt-botnet-ddos-mirai/165424/)
 - [Attackers Target ProxyLogon Exploit to Install Cryptojacker](https://threatpost.com/attackers-target-proxylogon-cryptojacker/165418/)
-- [Security Bug Allows Attackers to Brick Kubernetes Clusters](https://threatpost.com/security-bug-brick-kubernetes-clusters/165413/)
 <!-- THREAT:END -->
 ---
 
