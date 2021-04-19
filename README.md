@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ransomware: A Deep Dive into 2021 Emerging Cyber-Risks](https://threatpost.com/ebook-2021-ransomware-emerging-risks/165477/)
 - [What COVID-19 Taught Us: Prepping Cybersecurity for the Next Crisis](https://threatpost.com/covid-19-prepping-cybersecurity-crisis/165472/)
 - [BazarLoader Malware Abuses Slack, BaseCamp Clouds](https://threatpost.com/bazarloader-malware-slack-basecamp/165455/)
 - [iOS Kids Game Morphs into Underground Crypto Casino](https://threatpost.com/ios-kids-game-crypto-casino/165450/)
 - [NSA: 5 Security Bugs Under Active Nation-State Cyberattack](https://threatpost.com/nsa-security-bugs-active-nation-state-cyberattack/165446/)
-- [Mandiant Front Lines: How to Tackle Exchange Exploits](https://threatpost.com/mandiant-microsoft-exchange-exploits/165439/)
 <!-- THREAT:END -->
 ---
 
