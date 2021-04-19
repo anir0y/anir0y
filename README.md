@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [What COVID-19 Taught Us: Prepping Cybersecurity for the Next Crisis](https://threatpost.com/covid-19-prepping-cybersecurity-crisis/165472/)
 - [BazarLoader Malware Abuses Slack, BaseCamp Clouds](https://threatpost.com/bazarloader-malware-slack-basecamp/165455/)
 - [iOS Kids Game Morphs into Underground Crypto Casino](https://threatpost.com/ios-kids-game-crypto-casino/165450/)
 - [NSA: 5 Security Bugs Under Active Nation-State Cyberattack](https://threatpost.com/nsa-security-bugs-active-nation-state-cyberattack/165446/)
 - [Mandiant Front Lines: How to Tackle Exchange Exploits](https://threatpost.com/mandiant-microsoft-exchange-exploits/165439/)
-- [Google Project Zero Cuts Bug Disclosure Timeline to a 30-Day Grace Period](https://threatpost.com/google-project-zero-cuts-bug-disclosure-timeline-to-a-30-day-grace-period/165432/)
 <!-- THREAT:END -->
 ---
 
