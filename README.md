@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Notes OSIModel](https://classroom.anir0y.in/post/notes-osimodel/)
+- [Notes Stego](https://classroom.anir0y.in/post/notes-stego/)
 - [Forensic Tools](https://classroom.anir0y.in/post/ref-forensic/)
 - [Notes Gnupg](https://classroom.anir0y.in/post/notes-gnupg/)
 - [Msf Runscript](https://classroom.anir0y.in/post/msf-runscript/)
-- [Intro Bash](https://classroom.anir0y.in/post/intro-bash/)
-- [Powershell Empire](https://classroom.anir0y.in/post/powershell-empire-install/)
 <!-- CLASS:END -->
 
 ## Threat Post:
