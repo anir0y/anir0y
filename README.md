@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [4 Innovative Ways Cyberattackers Hunt for Security Bugs](https://threatpost.com/4-ways-attackers-hunt-bugs/165536/)
 - [QR Codes Offer Easy Cyberattack Avenues as Usage Spikes](https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/)
 - [Pulse Secure Critical Zero-Day Security Bug Under Active Exploit](https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/)
 - [Swiss Army Knife for Information Security: What Is Comprehensive Protection?](https://threatpost.com/what-is-comprehensive-protection/165461/)
 - [Novel Email-Based Campaign Targets Bloomberg Clients with RATs](https://threatpost.com/email-campaign-targets-bloomberg-clients/165514/)
-- [Mozilla Fixes Firefox Flaw That Allowed Spoofing of HTTPS Browser Padlock](https://threatpost.com/mozilla-fixes-firefox-flaw/165501/)
 <!-- THREAT:END -->
 ---
 
