@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Swiss Army Knife for Information Security: What Is Comprehensive Protection?](https://threatpost.com/what-is-comprehensive-protection/165461/)
 - [Novel Email-Based Campaign Targets Bloomberg Clients with RATs](https://threatpost.com/email-campaign-targets-bloomberg-clients/165514/)
 - [Mozilla Fixes Firefox Flaw That Allowed Spoofing of HTTPS Browser Padlock](https://threatpost.com/mozilla-fixes-firefox-flaw/165501/)
 - [GEICO Alerts Customers Hackers Stole Driver License Data for Two Months](https://threatpost.com/geico-alerts-hackers-stole-driver-license-data/165493/)
 - [NitroRansomware Asks for $9.99 Discord Gift Codes, Steals Access Tokens](https://threatpost.com/nitroransomware-discord-gift-codes/165488/)
-- [Ransomware: A Deep Dive into 2021 Emerging Cyber-Risks](https://threatpost.com/ebook-2021-ransomware-emerging-risks/165477/)
 <!-- THREAT:END -->
 ---
 
