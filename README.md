@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Spotlight on the Cybercriminal Supply Chains](https://threatpost.com/spotlight-on-the-cybercriminal-supply-chains/165552/)
 - [Telegram Platform Abused in ‘ToxicEye’ Malware Campaigns](https://threatpost.com/telegram-toxiceye-malware/165543/)
 - [It’s Easy to Become a Cyberattack Target, but a VPN Can Help](https://threatpost.com/cyberattack-target-vpn-help/165504/)
 - [4 Innovative Ways Cyberattackers Hunt for Security Bugs](https://threatpost.com/4-ways-attackers-hunt-bugs/165536/)
 - [QR Codes Offer Easy Cyberattack Avenues as Usage Spikes](https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/)
-- [Pulse Secure Critical Zero-Day Security Bug Under Active Exploit](https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/)
 <!-- THREAT:END -->
 ---
 
