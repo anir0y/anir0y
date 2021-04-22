@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [It’s Easy to Become a Cyberattack Target, but a VPN Can Help](https://threatpost.com/cyberattack-target-vpn-help/165504/)
 - [4 Innovative Ways Cyberattackers Hunt for Security Bugs](https://threatpost.com/4-ways-attackers-hunt-bugs/165536/)
 - [QR Codes Offer Easy Cyberattack Avenues as Usage Spikes](https://threatpost.com/qr-codes-cyberattack-usage-spikes/165526/)
 - [Pulse Secure Critical Zero-Day Security Bug Under Active Exploit](https://threatpost.com/pulse-secure-critical-zero-day-active-exploit/165523/)
 - [Swiss Army Knife for Information Security: What Is Comprehensive Protection?](https://threatpost.com/what-is-comprehensive-protection/165461/)
-- [Novel Email-Based Campaign Targets Bloomberg Clients with RATs](https://threatpost.com/email-campaign-targets-bloomberg-clients/165514/)
 <!-- THREAT:END -->
 ---
 
