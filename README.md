@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [REvil’s Big Apple Ransomware Gambit Looks to Pay Off](https://threatpost.com/revil-apple-ransomware-pay-off/165570/)
 - [Mount Locker Ransomware Aggressively Changes Up Tactics](https://threatpost.com/mount-locker-ransomware-changes-tactics/165559/)
 - [Spotlight on Cybercriminal Supply Chains](https://threatpost.com/spotlight-on-the-cybercriminal-supply-chains/165552/)
 - [Telegram Platform Abused in ‘ToxicEye’ Malware Campaigns](https://threatpost.com/telegram-toxiceye-malware/165543/)
 - [It’s Easy to Become a Cyberattack Target, but a VPN Can Help](https://threatpost.com/cyberattack-target-vpn-help/165504/)
-- [4 Innovative Ways Cyberattackers Hunt for Security Bugs](https://threatpost.com/4-ways-attackers-hunt-bugs/165536/)
 <!-- THREAT:END -->
 ---
 
