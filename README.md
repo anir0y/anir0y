@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Babuk Ransomware Gang Targets Washington DC Police](https://threatpost.com/babuk-ransomware-washington-dc-police/165616/)
 - [Apple Patches Zero-Day MacOS Bug That Can Bypass Anti-Malware Defenses](https://threatpost.com/apple-patches-macos-bug-bypass-defenses/165611/)
 - [Flubot Spyware Spreading Through Android Devices](https://threatpost.com/flubot-spyware-android-devices/165607/)
 - [Nvidia Warns: Severe Security Bugs in GPU Driver, vGPU Software](https://threatpost.com/nvidia-security-bugs-gpu-vgpu/165597/)
 - [Oscar-Bait, Literally: Hackers Abuse Nominated Films for Phishing, Malware](https://threatpost.com/oscar-bait-hackers-nominated-phishing-malware/165583/)
-- [Prometei Botnet Could Fire Up APT-Style Attacks](https://threatpost.com/prometei-botnet-apt-attacks/165574/)
 <!-- THREAT:END -->
 ---
 
