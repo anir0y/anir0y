@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Nintendo Sues Video-Game Pirates](https://threatpost.com/nintendo-sues-video-game-pirates/165646/)
 - [Linux Kernel Bug Opens Door to Wider Cyberattacks](https://threatpost.com/linux-kernel-bug-wider-cyberattacks/165640/)
 - [Smishing: Why Text-Based Phishing Should Be on Every CISO’s Radar](https://threatpost.com/smishing-text-phishing-ciso-radar/165634/)
-- [Babuk Ransomware Gang Targets Washington DC Police](https://threatpost.com/babuk-ransomware-washington-dc-police/165616/)
+- [Babuk Ransomware Gang Targets Washington D.C. Police](https://threatpost.com/babuk-ransomware-washington-dc-police/165616/)
 - [Apple Patches Zero-Day MacOS Bug That Can Bypass Anti-Malware Defenses](https://threatpost.com/apple-patches-macos-bug-bypass-defenses/165611/)
-- [Flubot Spyware Spreading Through Android Devices](https://threatpost.com/flubot-spyware-android-devices/165607/)
 <!-- THREAT:END -->
 ---
 
