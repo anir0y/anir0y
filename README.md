@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Office SharePoint Targeted With High-Risk Phish, Ransomware Attacks](https://threatpost.com/sharepoint-phish-ransomware-attacks/165671/)
 - [Google Chrome V8 Bug Allows Remote Code-Execution](https://threatpost.com/google-chrome-v8-bug-remote-code-execution/165662/)
 - [Chase Bank Phish Swims Past Exchange Email Protections](https://threatpost.com/chase-bank-phish-sexchange-email-protections/165653/)
 - [Nintendo Sues Video-Game Pirates](https://threatpost.com/nintendo-sues-video-game-pirates/165646/)
 - [Linux Kernel Bug Opens Door to Wider Cyberattacks](https://threatpost.com/linux-kernel-bug-wider-cyberattacks/165640/)
-- [Smishing: Why Text-Based Phishing Should Be on Every CISO’s Radar](https://threatpost.com/smishing-text-phishing-ciso-radar/165634/)
 <!-- THREAT:END -->
 ---
 
