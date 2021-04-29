@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Anti-Vaxxer Hijacks QR Codes at COVID-19 Check-In Sites](https://threatpost.com/anti-vaxxer-hijacks-qr-codes-covid19/165701/)
 - [SaaS Attacks: Lessons from Real-Life Misconfiguration Exploits](https://threatpost.com/lessons-from-real-life-misconfiguration-exploitations/165659/)
 - [DoppelPaymer Gang Leaks Files from Illinois AG After Ransom Negotiations Break Down](https://threatpost.com/doppelpaymer-leaks-illinois-ag/165694/)
 - [Microsoft Office SharePoint Targeted With High-Risk Phish, Ransomware Attacks](https://threatpost.com/sharepoint-phish-ransomware-attacks/165671/)
 - [Google Chrome V8 Bug Allows Remote Code-Execution](https://threatpost.com/google-chrome-v8-bug-remote-code-execution/165662/)
-- [Chase Bank Phish Swims Past Exchange Email Protections](https://threatpost.com/chase-bank-phish-sexchange-email-protections/165653/)
 <!-- THREAT:END -->
 ---
 
