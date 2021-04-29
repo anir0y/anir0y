@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Multi-Gov Task Force Plans to Take Down the Ransomware Economy](https://threatpost.com/gov-task-force-ransomware-economy/165715/)
 - [COVID-19 Results for 25% of Wyoming Accidentally Posted Online](https://threatpost.com/covid-19-results-accidentally-exposed/165709/)
 - [Anti-Vaxxer Hijacks QR Codes at COVID-19 Check-In Sites](https://threatpost.com/anti-vaxxer-hijacks-qr-codes-covid19/165701/)
 - [SaaS Attacks: Lessons from Real-Life Misconfiguration Exploits](https://threatpost.com/lessons-from-real-life-misconfiguration-exploitations/165659/)
 - [DoppelPaymer Gang Leaks Files from Illinois AG After Ransom Negotiations Break Down](https://threatpost.com/doppelpaymer-leaks-illinois-ag/165694/)
-- [Microsoft Office SharePoint Targeted With High-Risk Phish, Ransomware Attacks](https://threatpost.com/sharepoint-phish-ransomware-attacks/165671/)
 <!-- THREAT:END -->
 ---
 
