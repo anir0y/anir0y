@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Scripps Health Cyberattack Causes Widespread Hospital Outages](https://threatpost.com/scripps-health-cyberattack-hospital-outages/165817/)
+- [New Attacks Slaughter All Spectre Defenses](https://threatpost.com/attacks-slaughter-spectre-defenses/165809/)
 - [Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool](https://threatpost.com/hewlett-packard-critical-bug-edge/165797/)
 - [Deepfake Attacks Are About to Surge, Experts Warn](https://threatpost.com/deepfake-attacks-surge-experts-warn/165798/)
 - [New Buer Malware Downloader Rewritten in E-Z Rust Language](https://threatpost.com/buer-malware-loader-rewritten-rust/165782/)
-- [PortDoor Espionage Malware Takes Aim at Russian Defense Sector](https://threatpost.com/portdoor-espionage-malware-takes-aim-at-russian-defense-sector/165770/)
-- [WeSteal: A Cryptocurrency-Stealing Tool That Does Just That](https://threatpost.com/westeal-cryptocurrency-stealing-tool/165762/)
 <!-- THREAT:END -->
 ---
 
