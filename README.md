@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool](https://threatpost.com/hewlett-packard-critical-bug-edge/165797/)
+- [Deepfake Attacks Are About to Surge, Experts Warn](https://threatpost.com/deepfake-attacks-surge-experts-warn/165798/)
 - [New Buer Malware Downloader Rewritten in E-Z Rust Language](https://threatpost.com/buer-malware-loader-rewritten-rust/165782/)
 - [PortDoor Espionage Malware Takes Aim at Russian Defense Sector](https://threatpost.com/portdoor-espionage-malware-takes-aim-at-russian-defense-sector/165770/)
 - [WeSteal: A Cryptocurrency-Stealing Tool That Does Just That](https://threatpost.com/westeal-cryptocurrency-stealing-tool/165762/)
-- [A Tale of Two Hacks: From SolarWinds to Microsoft Exchange](https://threatpost.com/solarwinds-hack-seismic-shift/165758/)
-- [Microsoft Warns of 25 Critical Vulnerabilities in IoT, Industrial Devices](https://threatpost.com/microsoft-warns-25-critical-iot-industrial-devices/165752/)
 <!-- THREAT:END -->
 ---
 
