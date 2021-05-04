@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Apple Fixes Zero‑Day Security Bugs Under Active Attack](https://threatpost.com/apple-zero%e2%80%91days-active-attack/165842/)
+- [Hundreds of Millions of Dell Users at Risk from Kernel-Privilege Bugs](https://threatpost.com/dell-kernel-privilege-bugs/165843/)
 - [Sneakers, Gaming, Nvidia Cards: Retailers Can Stop Shopping Bots](https://threatpost.com/sneakers-gaming-nvidia-retailers-shopping-bots/165838/)
 - [Bait Boost: Phishers Delivering Increasingly Convincing Lures](https://threatpost.com/bait-phishers-convincing-lures/165834/)
 - [Scripps Health Cyberattack Causes Widespread Hospital Outages](https://threatpost.com/scripps-health-cyberattack-hospital-outages/165817/)
-- [New Attacks Slaughter All Spectre Defenses](https://threatpost.com/attacks-slaughter-spectre-defenses/165809/)
-- [Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool](https://threatpost.com/hewlett-packard-critical-bug-edge/165797/)
 <!-- THREAT:END -->
 ---
 
