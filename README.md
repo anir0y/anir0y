@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Sneakers, Gaming, Nvidia Cards: Retailers Can Stop Shopping Bots](https://threatpost.com/sneakers-gaming-nvidia-retailers-shopping-bots/165838/)
+- [Bait Boost: Phishers Delivering Increasingly Convincing Lures](https://threatpost.com/bait-phishers-convincing-lures/165834/)
 - [Scripps Health Cyberattack Causes Widespread Hospital Outages](https://threatpost.com/scripps-health-cyberattack-hospital-outages/165817/)
 - [New Attacks Slaughter All Spectre Defenses](https://threatpost.com/attacks-slaughter-spectre-defenses/165809/)
 - [Hewlett Packard Enterprise Plugs Critical Bug in Edge Platform Tool](https://threatpost.com/hewlett-packard-critical-bug-edge/165797/)
-- [Deepfake Attacks Are About to Surge, Experts Warn](https://threatpost.com/deepfake-attacks-surge-experts-warn/165798/)
-- [New Buer Malware Downloader Rewritten in E-Z Rust Language](https://threatpost.com/buer-malware-loader-rewritten-rust/165782/)
 <!-- THREAT:END -->
 ---
 
