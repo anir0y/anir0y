@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Raft of Exim Security Holes Allow Linux Mail Server Takeovers](https://threatpost.com/exim-security-linux-mail-server-takeovers/165894/)
 - [Peloton’s Leaky API Spilled Riders’ Private Data](https://threatpost.com/pelotons-spilled-riders-data/165880/)
 - [Feds Shut Down Fake COVID-19 Vaccine Phishing Website](https://threatpost.com/feds-fake-covid-19-vaccine-phishing-website/165872/)
 - [Global Phishing Attacks Spawn Three New Malware Strains](https://threatpost.com/global-phishing-attacks-new-malware-strains/165857/)
 - [Pulse Secure VPNs Get a Fix for Critical Zero-Day Bugs](https://threatpost.com/pulse-secure-vpns-fix-critical-zero-day-bugs/165850/)
-- [Apple Fixes Zero‑Day Security Bugs Under Active Attack](https://threatpost.com/apple-zero%e2%80%91days-active-attack/165842/)
 <!-- THREAT:END -->
 ---
 
