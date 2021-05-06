@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ryuk Ransomware Attack Sprung by Frugal Student](https://threatpost.com/ryuk-ransomware-attack-student/165918/)
 - [Massive DDoS Attack Disrupts Belgium Parliament](https://threatpost.com/ddos-disrupts-belgium/165911/)
 - [New Crypto-Stealer ‘Panda’ Spread via Discord](https://threatpost.com/panda-stealer-crypto-wallets-discord/165898/)
 - [Anti-Spam WordPress Plugin Could Expose Website User Data](https://threatpost.com/anti-spam-wordpress-plugin-expose-data/165901/)
 - [Raft of Exim Security Holes Allow Linux Mail Server Takeovers](https://threatpost.com/exim-security-linux-mail-server-takeovers/165894/)
-- [Peloton’s Leaky API Spilled Riders’ Private Data](https://threatpost.com/pelotons-spilled-riders-data/165880/)
 <!-- THREAT:END -->
 ---
 
