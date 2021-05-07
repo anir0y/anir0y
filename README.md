@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [80% of Net Neutrality Comments to FCC Were Fudged](https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/)
 - [Qualcomm Chip Bug Opens Android Fans to Eavesdropping](https://threatpost.com/qualcomm-chip-bug-android-eavesdropping/165934/)
 - [Critical Cisco SD-WAN, HyperFlex Bugs Threaten Corporate Networks](https://threatpost.com/critical-cisco-sd-wan-hyperflex-bugs/165923/)
 - [Ryuk Ransomware Attack Sprung by Frugal Student](https://threatpost.com/ryuk-ransomware-attack-student/165918/)
 - [Massive DDoS Attack Disrupts Belgium Parliament](https://threatpost.com/ddos-disrupts-belgium/165911/)
-- [New Crypto-Stealer ‘Panda’ Spread via Discord](https://threatpost.com/panda-stealer-crypto-wallets-discord/165898/)
 <!-- THREAT:END -->
 ---
 
