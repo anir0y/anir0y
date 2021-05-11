@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Shifting Threats in a Changed World: Edge, IoT and Vaccine Fraud](https://threatpost.com/threats-edge-iot-vaccine-fraud/166029/)
+- [200K Veterans’ Medical Records Likely Stolen by Ransomware Gang](https://threatpost.com/veterans-medical-records-ransomware/166025/)
 - [DarkSide Wanted Money, Not Disruption from Colonial Pipeline Attack](https://threatpost.com/darkside-wanted-money-not-disruption/166016/)
 - [Colonial Pipeline’s Ransomware Attack Sparks Emergency Declaration](https://threatpost.com/colonial-pipeline-ransomware-emergency-declaration/165977/)
 - [Lemon Duck Cryptojacking Botnet Changes Up Tactics](https://threatpost.com/lemon-duck-cryptojacking-botnet-tactics/165986/)
-- [Major U.S. Pipeline Crippled in Ransomware Attack](https://threatpost.com/pipeline-crippled-ransomware/165963/)
-- [iPhone Hack Allegedly Used to Spy on China’s Uyghurs](https://threatpost.com/iphone-hack-spying-china-uyghurs/165950/)
 <!-- THREAT:END -->
 ---
 
