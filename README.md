@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Hackers Leverage Adobe Zero-Day Bug Impacting Acrobat Reader](https://threatpost.com/adobe-zero-day-bug-acrobat-reader/166044/)
 - [Fake Chrome App Anchors Rapidly Worming ‘Smish’ Cyberattack](https://threatpost.com/fake-chrome-app-worming-smish-cyberattack/166038/)
 - [Shifting Threats in a Changed World: Edge, IoT and Vaccine Fraud](https://threatpost.com/threats-edge-iot-vaccine-fraud/166029/)
 - [200K Veterans’ Medical Records Likely Stolen by Ransomware Gang](https://threatpost.com/veterans-medical-records-ransomware/166025/)
 - [DarkSide Wanted Money, Not Disruption from Colonial Pipeline Attack](https://threatpost.com/darkside-wanted-money-not-disruption/166016/)
-- [Colonial Pipeline’s Ransomware Attack Sparks Emergency Declaration](https://threatpost.com/colonial-pipeline-ransomware-emergency-declaration/165977/)
 <!-- THREAT:END -->
 ---
 
