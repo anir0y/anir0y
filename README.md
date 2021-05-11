@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Colonial Pipeline’s Ransomware Attack Sparks Emergency Declaration](https://threatpost.com/colonial-pipeline-ransomware-emergency-declaration/165977/)
+- [Lemon Duck Cryptojacking Botnet Changes Up Tactics](https://threatpost.com/lemon-duck-cryptojacking-botnet-tactics/165986/)
 - [Major U.S. Pipeline Crippled in Ransomware Attack](https://threatpost.com/pipeline-crippled-ransomware/165963/)
 - [iPhone Hack Allegedly Used to Spy on China’s Uyghurs](https://threatpost.com/iphone-hack-spying-china-uyghurs/165950/)
 - [80% of Net Neutrality Comments to FCC Were Fudged](https://threatpost.com/net-neutrality-comments-fcc-fudged/165943/)
-- [Qualcomm Chip Bug Opens Android Fans to Eavesdropping](https://threatpost.com/qualcomm-chip-bug-android-eavesdropping/165934/)
-- [Critical Cisco SD-WAN, HyperFlex Bugs Threaten Corporate Networks](https://threatpost.com/critical-cisco-sd-wan-hyperflex-bugs/165923/)
 <!-- THREAT:END -->
 ---
 
