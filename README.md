@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [TeaBot Trojan Targets Banks via Hijacked Android Handsets](https://threatpost.com/teabot-trojan-targets-banks-android/166075/)
 - [Wormable Windows Bug Opens Door to DoS, RCE](https://threatpost.com/wormable-windows-bug-dos-rce/166057/)
 - [GitHub Prepares to Move Beyond Passwords](https://threatpost.com/github-security-keys-passwords/166054/)
 - [Hackers Leverage Adobe Zero-Day Bug Impacting Acrobat Reader](https://threatpost.com/adobe-zero-day-bug-acrobat-reader/166044/)
 - [Fake Chrome App Anchors Rapidly Worming ‘Smish’ Cyberattack](https://threatpost.com/fake-chrome-app-worming-smish-cyberattack/166038/)
-- [Shifting Threats in a Changed World: Edge, IoT and Vaccine Fraud](https://threatpost.com/threats-edge-iot-vaccine-fraud/166029/)
 <!-- THREAT:END -->
 ---
 
