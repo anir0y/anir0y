@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Researchers Flag e-Voting Security Flaws](https://threatpost.com/e-voting-security-flaws/166110/)
 - [Telegram Fraudsters Ramp Up Forged COVID-19 Vaccine Card Sales](https://threatpost.com/telegram-forged-covid-19-vaccine-cards/166093/)
 - [Gig Workers Being Paid $500 for Payroll Passwords](https://threatpost.com/gig-workers-paid-payroll-passwords/166086/)
 - [‘FragAttacks’: Wi-Fi Bugs Affect Millions of Devices](https://threatpost.com/fragattacks-wifi-bugs-millions-devices/166080/)
 - [TeaBot Trojan Targets Banks via Hijacked Android Handsets](https://threatpost.com/teabot-trojan-targets-banks-android/166075/)
-- [Wormable Windows Bug Opens Door to DoS, RCE](https://threatpost.com/wormable-windows-bug-dos-rce/166057/)
 <!-- THREAT:END -->
 ---
 
