@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Colonial Pipeline Shells Out $5M in Extortion Payout, Report](https://threatpost.com/colonial-pays-5m/166147/)
+- [Ransomware Going for $4K on the Cyber-Underground](https://threatpost.com/ransomware-4k-cyber-underground/166145/)
 - [Beyond MFA: Rethinking the Authentication Key](https://threatpost.com/mfa-rethinking-authentication-key/166136/)
 - [Fresh Loader Targets Aviation Victims with Spy RATs](https://threatpost.com/loader-aviation-spy-rats/166133/)
 - [Apple’s ‘Find My’ Network Exploited via Bluetooth](https://threatpost.com/apple-find-my-exploited-bluetooth/166121/)
-- [Five Critical Password Security Rules Your Employees Are Ignoring](https://threatpost.com/5-password-security-rules-employees-ignoring/165686/)
-- [Pipeline Update: Biden Executive Order, DarkSide Detailed and Gas Bags](https://threatpost.com/pipeline-biden-darkside-gas-bags/166112/)
 <!-- THREAT:END -->
 ---
 
