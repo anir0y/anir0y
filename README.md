@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How to Get into the Bug-Bounty Biz: The Good, Bad and Ugly](https://threatpost.com/how-to-bug-bounties/165657/)
 - [Colonial Pipeline Shells Out $5M in Extortion Payout, Report](https://threatpost.com/colonial-pays-5m/166147/)
 - [Ransomware Going for $4K on the Cyber-Underground](https://threatpost.com/ransomware-4k-cyber-underground/166145/)
 - [Beyond MFA: Rethinking the Authentication Key](https://threatpost.com/mfa-rethinking-authentication-key/166136/)
 - [Fresh Loader Targets Aviation Victims with Spy RATs](https://threatpost.com/loader-aviation-spy-rats/166133/)
-- [Apple’s ‘Find My’ Network Exploited via Bluetooth](https://threatpost.com/apple-find-my-exploited-bluetooth/166121/)
 <!-- THREAT:END -->
 ---
 
