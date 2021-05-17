@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Magecart Goes Server-Side in Latest Tactics Changeup](https://threatpost.com/magecart-server-side-itactics-changeup/166242/)
 - [What a Year It’s Been: RSA 2021 Embraces ‘Resilience’](https://threatpost.com/rsa-2021-embraces-resilience/166233/)
 - [DarkSide Hits Toshiba; XSS Forum Bans Ransomware](https://threatpost.com/darkside-toshiba-xss-bans-ransomware/166210/)
 - [Bizarro Banking Trojan Sports Sophisticated Backdoor](https://threatpost.com/bizarro-banking-trojan-backdoor/166211/)
 - [CISOs Struggle to Cope with Mounting Job Stress](https://threatpost.com/cisos-struggle-job-stress/166221/)
-- [FIN7 Backdoor Masquerades as Ethical Hacking Tool](https://threatpost.com/fin7-backdoor-ethical-hacking-tool/166194/)
 <!-- THREAT:END -->
 ---
 
