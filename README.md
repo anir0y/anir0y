@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [DarkSide Hits Toshiba; XSS Forum Bans Ransomware](https://threatpost.com/darkside-toshiba-xss-bans-ransomware/166210/)
+- [Bizarro Banking Trojan Sports Sophisticated Backdoor](https://threatpost.com/bizarro-banking-trojan-backdoor/166211/)
+- [CISOs Struggle to Cope with Mounting Job Stress](https://threatpost.com/cisos-struggle-job-stress/166221/)
 - [FIN7 Backdoor Masquerades as Ethical Hacking Tool](https://threatpost.com/fin7-backdoor-ethical-hacking-tool/166194/)
 - [DarkSide Ransomware Suffers ‘Oh, Crap!’ Server Shutdowns](https://threatpost.com/darksides-servers-shutdown/166187/)
-- [‘Scheme Flooding’ Allows Websites to Track Users Across Browsers](https://threatpost.com/scheme-flooding-website-tracking/166185/)
-- [Verizon: Pandemic Ushers in ⅓ More Cyber-Misery](https://threatpost.com/verizon-pandemic-cyber-misery/166168/)
-- [Ransomware’s New Swindle: Triple Extortion](https://threatpost.com/ransomwares-swindle-triple-extortion/166149/)
 <!-- THREAT:END -->
 ---
 
