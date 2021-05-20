@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [2021 Attacker Dwell Time Trends and Best Defenses](https://threatpost.com/2021-attacker-dwell-time-trends-and-best-defenses/166116/)
 - [Apple Exec Calls Level of Mac Malware ‘Unacceptable’](https://threatpost.com/apple-mac-malware-unacceptable/166340/)
 - [Can Nanotech Secure IoT Devices From the Inside-Out?](https://threatpost.com/nanotech-secure-iot-devices/166324/)
 - [Microsoft, Google Clouds Hijacked for Gobs of Phishing](https://threatpost.com/microsoft-google-clouds-hijacked-phishing/166329/)
 - [Keksec Cybergang Debuts Simps Botnet for Gaming DDoS](https://threatpost.com/keksec-simps-botnet-gaming-ddos/166306/)
-- [Windows PoC Exploit Released for Wormable RCE](https://threatpost.com/windows-exploit-wormable-rce/166289/)
 <!-- THREAT:END -->
 ---
 
