@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates](https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/)
+- [Building SIEM for Today’s Threat Landscape](https://threatpost.com/building-siem-threat-landscape/166390/)
 - [WP Statistics Bug Allows Attackers to Lift Data from WordPress Sites](https://threatpost.com/wp-statistics-attackers-data-wordpress/166386/)
 - [Email Campaign Spreads StrRAT Fake-Ransomware RAT](https://threatpost.com/email-campaign-fake-ransomware-rat/166378/)
 - [100M Android Users Hit By Rampant Cloud Leaks](https://threatpost.com/100m-android-users-cloud-leaks/166372/)
-- [The Gig Economy Creates Novel Data-Security Risks](https://threatpost.com/the-gig-economy-data-security-risks/166359/)
-- [Four Android Bugs Being Exploited in the Wild](https://threatpost.com/android-bugs-exploited-wild/166347/)
 <!-- THREAT:END -->
 ---
 
