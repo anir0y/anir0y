@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [WP Statistics Bug Allows Attackers to Lift Data from WordPress Sites](https://threatpost.com/wp-statistics-attackers-data-wordpress/166386/)
 - [Email Campaign Spreads StrRAT Fake-Ransomware RAT](https://threatpost.com/email-campaign-fake-ransomware-rat/166378/)
 - [100M Android Users Hit By Rampant Cloud Leaks](https://threatpost.com/100m-android-users-cloud-leaks/166372/)
 - [The Gig Economy Creates Novel Data-Security Risks](https://threatpost.com/the-gig-economy-data-security-risks/166359/)
 - [Four Android Bugs Being Exploited in the Wild](https://threatpost.com/android-bugs-exploited-wild/166347/)
-- [2021 Attacker Dwell Time Trends and Best Defenses](https://threatpost.com/2021-attacker-dwell-time-trends-and-best-defenses/166116/)
 <!-- THREAT:END -->
 ---
 
