@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
-- [Notes OSIModel](https://classroom.anir0y.in/post/notes-osimodel/)
-- [Notes Stego](https://classroom.anir0y.in/post/notes-stego/)
-- [Forensic Tools](https://classroom.anir0y.in/post/ref-forensic/)
-- [Notes Gnupg](https://classroom.anir0y.in/post/notes-gnupg/)
-- [Msf Runscript](https://classroom.anir0y.in/post/msf-runscript/)
+- [Try Hack Me Room Attacking Kerberos](https://classroom.anir0y.in/post/thm-room-attackingkerberos/)
+- [Try Hack Me Room Attacktivedirectory](https://classroom.anir0y.in/post/thm-room-attacktivedirectory/)
+- [Try Hack Me Room Room Splunk](https://classroom.anir0y.in/post/thm-room-splunk/)
+- [Try Hack Me Room Osquery](https://classroom.anir0y.in/post/thm-room-osquery/)
+- [Try Hack Me Room Room Sysmon](https://classroom.anir0y.in/post/thm-room-sysmon/)
 <!-- CLASS:END -->
 
 ## Threat Post:
