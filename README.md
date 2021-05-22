@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Domino’s India Data Leak Of 18 Cr Orders Resurfaces; Customer Location, Mobile Numbers Exposed](https://classroom.anir0y.in/post/scripts-dominos/)
 - [Try Hack Me Room Attacking Kerberos](https://classroom.anir0y.in/post/thm-room-attackingkerberos/)
 - [Try Hack Me Room Attacktivedirectory](https://classroom.anir0y.in/post/thm-room-attacktivedirectory/)
 - [Try Hack Me Room Room Splunk](https://classroom.anir0y.in/post/thm-room-splunk/)
 - [Try Hack Me Room Osquery](https://classroom.anir0y.in/post/thm-room-osquery/)
-- [Try Hack Me Room Room Sysmon](https://classroom.anir0y.in/post/thm-room-sysmon/)
 <!-- CLASS:END -->
 
 ## Threat Post:
