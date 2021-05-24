@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Restaurant Reservation System Patches Easy-to-Exploit XSS Bug](https://threatpost.com/reservation-system-easy-to-exploit-xss-bug/166414/)
 - [FBI Analyst Indicted for Theft of Osama bin Laden Threat Intel](https://threatpost.com/fbi-analyst-cyber-threat-bin-laden-data/166405/)
 - [DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates](https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/)
 - [Building SIEM for Today’s Threat Landscape](https://threatpost.com/building-siem-threat-landscape/166390/)
 - [WP Statistics Bug Allows Attackers to Lift Data from WordPress Sites](https://threatpost.com/wp-statistics-attackers-data-wordpress/166386/)
-- [Email Campaign Spreads StrRAT Fake-Ransomware RAT](https://threatpost.com/email-campaign-fake-ransomware-rat/166378/)
 <!-- THREAT:END -->
 ---
 
