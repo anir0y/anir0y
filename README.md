@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Threat Actor ‘Agrius’ Emerges to Launch Wiper Attacks Against Israeli Targets](https://threatpost.com/agrius-wiper-attacks-israeli-targets/166474/)
 - [Trend Micro Bugs Threaten Home Network Security](https://threatpost.com/trend-micro-bugs-home-network-security/166453/)
 - [Combatting Insider Threats with Keyboard Security](https://threatpost.com/insider-threats-keyboard-security/166449/)
 - [Bose Admits Ransomware Hit: Employee Data Accessed](https://threatpost.com/bose-ransomware-employee-data/166443/)
 - [Pulse Secure VPNs Get Quick Fix for Critical RCE](https://threatpost.com/pulse-secure-vpns-critical-rce/166437/)
-- [Apple Patches Zero-Day Flaw in MacOS that Allows for Sneaky Screenshots](https://threatpost.com/apple-patches-zero-day-flaw-in-macos-that-allows-for-sneaky-screenshots/166428/)
 <!-- THREAT:END -->
 ---
 
