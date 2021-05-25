@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Combatting Insider Threats with Keyboard Security](https://threatpost.com/insider-threats-keyboard-security/166449/)
+- [Bose Admits Ransomware Hit: Employee Data Accessed](https://threatpost.com/bose-ransomware-employee-data/166443/)
+- [Pulse Secure VPNs Get Quick Fix for Critical RCE](https://threatpost.com/pulse-secure-vpns-critical-rce/166437/)
 - [Apple Patches Zero-Day Flaw in MacOS that Allows for Sneaky Screenshots](https://threatpost.com/apple-patches-zero-day-flaw-in-macos-that-allows-for-sneaky-screenshots/166428/)
 - [American Express Fined for Sending Millions of Spam Messages](https://threatpost.com/american-express-fined-spam/166412/)
-- [Restaurant Reservation System Patches Easy-to-Exploit XSS Bug](https://threatpost.com/reservation-system-easy-to-exploit-xss-bug/166414/)
-- [FBI Analyst Indicted for Theft of Osama bin Laden Threat Intel](https://threatpost.com/fbi-analyst-cyber-threat-bin-laden-data/166405/)
-- [DarkSide Getting Taken to ‘Hackers’ Court’ For Not Paying Affiliates](https://threatpost.com/darkside-hackers-court-paying-affiliates/166393/)
 <!-- THREAT:END -->
 ---
 
