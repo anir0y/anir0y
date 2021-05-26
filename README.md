@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Thm Room Autopsy](https://classroom.anir0y.in/post/thm-room-btautopsye0/)
 - [Investigating Windows](https://classroom.anir0y.in/post/investigatingwindows/)
 - [Try Hack me Room Volatility](https://classroom.anir0y.in/post/thm-room-bpvolatility/)
 - [Domino’s India Data Leak Of 18 Cr Orders Resurfaces; Customer Location, Mobile Numbers Exposed](https://classroom.anir0y.in/post/scripts-dominos/)
 - [Try Hack Me Room Attacking Kerberos](https://classroom.anir0y.in/post/thm-room-attackingkerberos/)
-- [Try Hack Me Room Attacktivedirectory](https://classroom.anir0y.in/post/thm-room-attacktivedirectory/)
 <!-- CLASS:END -->
 
 ## Threat Post:
