@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [VMware Sounds Ransomware Alarm Over Critical Severity Bug](https://threatpost.com/vmware-ransomware-alarm-critical-bug/166501/)
 - [BazaLoader Masquerades as Movie-Streaming Service](https://threatpost.com/bazaloader-fake-movie-streaming-service/166489/)
 - [‘Privateer’ Threat Actors Emerge from Cybercrime Swamp](https://threatpost.com/privateer-threat-actors-emerge/166483/)
 - [A Peek Inside the Underground Ransomware Economy](https://threatpost.com/inside-ransomware-economy/166471/)
 - [Threat Actor ‘Agrius’ Emerges to Launch Wiper Attacks Against Israeli Targets](https://threatpost.com/agrius-wiper-attacks-israeli-targets/166474/)
-- [Trend Micro Bugs Threaten Home Network Security](https://threatpost.com/trend-micro-bugs-home-network-security/166453/)
 <!-- THREAT:END -->
 ---
 
