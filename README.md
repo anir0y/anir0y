@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Fujitsu SaaS Hack Sends Govt. of Japan Scrambling](https://threatpost.com/fujitsu-saas-hack-japan-scrambling/166517/)
 - [Biden’s Cybersecurity Executive Order Puts Emphasis on the Wrong Issues](https://threatpost.com/bidens-cybersecurity-executive-order-wrong-issues/166479/)
 - [PDF Feature ‘Certified’ Widely Vulnerable to Attack](https://threatpost.com/pdf-certified-widely-vulnerable-to-attack/166505/)
 - [VMware Sounds Ransomware Alarm Over Critical Severity Bug](https://threatpost.com/vmware-ransomware-alarm-critical-bug/166501/)
 - [BazaLoader Masquerades as Movie-Streaming Service](https://threatpost.com/bazaloader-fake-movie-streaming-service/166489/)
-- [‘Privateer’ Threat Actors Emerge from Cybercrime Swamp](https://threatpost.com/privateer-threat-actors-emerge/166483/)
 <!-- THREAT:END -->
 ---
 
