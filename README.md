@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Try Hack ME Room Malstrings](https://classroom.anir0y.in/post/thm-room-malstrings/)
 - [Try Hack ME Room Malware Introductory](https://classroom.anir0y.in/post/thm-room-malmalintroductory/)
 - [Try Hack Me Room History of Malware](https://classroom.anir0y.in/post/thm-room-historyofmalware/)
 - [Thm Room Autopsy](https://classroom.anir0y.in/post/thm-room-btautopsye0/)
 - [Investigating Windows](https://classroom.anir0y.in/post/investigatingwindows/)
-- [Try Hack me Room Volatility](https://classroom.anir0y.in/post/thm-room-bpvolatility/)
 <!-- CLASS:END -->
 
 ## Threat Post:
