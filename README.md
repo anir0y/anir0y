@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [On the Taxonomy and Evolution of Ransomware](https://threatpost.com/taxonomy-evolution-ransomware/166462/)
 - [Hackers Exploit Post-COVID Return to Offices](https://threatpost.com/hackers-exploit-covid-office/166550/)
 - [HPE Fixes Critical Zero-Day in Server Management Software](https://threatpost.com/hpe-fixes-critical-zero-day-sim/166543/)
 - [Nobelium Phishing Campaign Poses as USAID](https://threatpost.com/solarwinds-nobelium-phishing-attack-usaid/166531/)
 - [Building Multilayered Security for Modern Threats](https://threatpost.com/multilayered-security-modern-threats/166457/)
-- [Targeted AnyDesk Ads on Google Served Up Weaponized App](https://threatpost.com/ad-malicious-version-anydesk/166525/)
 <!-- THREAT:END -->
 ---
 
