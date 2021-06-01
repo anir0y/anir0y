@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cyber-Insurance Fuels Ransomware Payment Surge](https://threatpost.com/cyber-insurance-ransomware-payments/166580/)
 - [Where Bug Bounty Programs Fall Flat](https://threatpost.com/bug-bounty-fall-flat/166568/)
 - [How Mobile Ad Fraud has Evolved in the Year of the Pandemic](https://threatpost.com/how-mobile-ad-fraud-has-evolved-in-the-year-of-the-pandemic/166430/)
 - [Cyberattack Forces Meat Producer to Shut Down Operations in U.S., Australia](https://threatpost.com/cyberattack-meat-producer-shut-down/166560/)
 - [On the Taxonomy and Evolution of Ransomware](https://threatpost.com/taxonomy-evolution-ransomware/166462/)
-- [Hackers Exploit Post-COVID Return to Offices](https://threatpost.com/hackers-exploit-covid-office/166550/)
 <!-- THREAT:END -->
 ---
 
