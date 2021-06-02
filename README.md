@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Podcast: The State of Ransomware](https://threatpost.com/podcast-state-of-ransomware/166624/)
+- [Effective Adoption of SASE in 2021](https://threatpost.com/effective-adoption-of-sase-in-2021/166605/)
+- [Banking Attacks Surge Along with Post-COVID Economy](https://threatpost.com/banking-attacks-surge-along-with-post-covid-economy/166612/)
 - [REvil Ransomware Ground Down JBS: Sources](https://threatpost.com/revil-ransomware-ground-down-jbs-sources/166597/)
 - [DoJ Charges Rhode Island Woman in Phishing Scheme Against Politicians](https://threatpost.com/doj-woman-phishing-politicians/166594/)
-- [Amazon Sidewalk Poised to Sweep You Into Its Mesh](https://threatpost.com/amazon-sidewalk-to-sweep-you-into-its-mesh/166581/)
-- [Cyber-Insurance Fuels Ransomware Payment Surge](https://threatpost.com/cyber-insurance-ransomware-payments/166580/)
-- [Where Bug Bounty Programs Fall Flat](https://threatpost.com/bug-bounty-fall-flat/166568/)
 <!-- THREAT:END -->
 ---
 
