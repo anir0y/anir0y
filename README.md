@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Exchange Servers Targeted by ‘Epsilon Red’ Malware](https://threatpost.com/exchange-servers-epsilon-red-ransomware/166640/)
+- [Then and Now: Securing Privileged Access Within Healthcare Orgs](https://threatpost.com/securing-privileged-access-healthcare/166477/)
 - [Podcast: The State of Ransomware](https://threatpost.com/podcast-state-of-ransomware/166624/)
 - [Effective Adoption of SASE in 2021](https://threatpost.com/effective-adoption-of-sase-in-2021/166605/)
 - [Banking Attacks Surge Along with Post-COVID Economy](https://threatpost.com/banking-attacks-surge-along-with-post-covid-economy/166612/)
-- [REvil Ransomware Ground Down JBS: Sources](https://threatpost.com/revil-ransomware-ground-down-jbs-sources/166597/)
-- [DoJ Charges Rhode Island Woman in Phishing Scheme Against Politicians](https://threatpost.com/doj-woman-phishing-politicians/166594/)
 <!-- THREAT:END -->
 ---
 
