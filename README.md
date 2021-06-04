@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cyberattack Suspected in Cox TV and Radio Outages](https://threatpost.com/cyberattack-cox-outage-tv-radio/166680/)
 - [Supreme Court Limits Scope of Controversial Hacking Law](https://threatpost.com/court-limits-scope-hacking-law/166672/)
 - [REvil Ransomware Gang Spill Details on US Attacks](https://threatpost.com/revil-spill-details-us-attacks/166669/)
 - [‘Battle for the Galaxy’ Mobile Game Leaks 6M Gamer Profiles](https://threatpost.com/battle-for-the-galaxy-leaks/166659/)
 - [Google PPC Ads Used to Deliver Infostealers](https://threatpost.com/google-ppc-ads-used-to-deliver-infostealers/166644/)
-- [Exchange Servers Targeted by ‘Epsilon Red’ Malware](https://threatpost.com/exchange-servers-epsilon-red-ransomware/166640/)
 <!-- THREAT:END -->
 ---
 
