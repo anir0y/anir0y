@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Writeup REMnux - The Redux](https://classroom.anir0y.in/post/thm-room-malremnuxv2/)
 - [TryHackMe BasicMalwareRE Writeup](https://classroom.anir0y.in/post/thm-room-basicmalwarere/)
 - [Try Hack ME Room Malstrings](https://classroom.anir0y.in/post/thm-room-malstrings/)
 - [Try Hack ME Room Malware Introductory](https://classroom.anir0y.in/post/thm-room-malmalintroductory/)
 - [Try Hack Me Room History of Malware](https://classroom.anir0y.in/post/thm-room-historyofmalware/)
-- [Thm Room Autopsy](https://classroom.anir0y.in/post/thm-room-btautopsye0/)
 <!-- CLASS:END -->
 
 ## Threat Post:
