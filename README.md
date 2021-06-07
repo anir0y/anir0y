@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Bad Apple: App Store Rife with Fraud, Fleeceware](https://threatpost.com/apple-app-store-fraud-fleeceware/166703/)
+- [Novel ‘Victory’ Backdoor Spotted in Chinese APT Campaign](https://threatpost.com/victory-backdoor-apt-campaign/166700/)
 - [Windows Container Malware Targets Kubernetes Clusters](https://threatpost.com/windows-containers-malware-targets-kubernetes/166692/)
 - [Cyberattack Suspected in Cox TV and Radio Outages](https://threatpost.com/cyberattack-cox-outage-tv-radio/166680/)
 - [Supreme Court Limits Scope of Controversial Hacking Law](https://threatpost.com/court-limits-scope-hacking-law/166672/)
-- [REvil Ransomware Gang Spill Details on US Attacks](https://threatpost.com/revil-spill-details-us-attacks/166669/)
-- [‘Battle for the Galaxy’ Mobile Game Leaks 6M Gamer Profiles](https://threatpost.com/battle-for-the-galaxy-leaks/166659/)
 <!-- THREAT:END -->
 ---
 
