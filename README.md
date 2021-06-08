@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Patch Tuesday Fixes 6 In-The-Wild Exploits, 50 Flaws](https://threatpost.com/microsoft-patch-tuesday-in-the-wild-exploits/166724/)
 - [Lewd Phishing Lures Aimed at Business Explode](https://threatpost.com/lewd-phishing-lures-business-explode/166734/)
 - [TrickBot Coder Faces Decades in Prison](https://threatpost.com/trickbot-coder-decades-prison/166732/)
 - [Google Patches Critical Android RCE Bug](https://threatpost.com/android-critical-rce-bug/166723/)
 - [‘An0m’ Encrypted-Chat Sting Leads to Arrest of 800](https://threatpost.com/an0m-encrypted-chat-sting-arrest-800/166716/)
-- [Billions of Compromised Records and Counting: Why the Application Layer is Still the Front Door for Data Breaches](https://threatpost.com/billions-of-compromised-records-and-counting/166633/)
 <!-- THREAT:END -->
 ---
 
