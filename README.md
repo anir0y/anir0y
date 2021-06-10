@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [STEM Audio Table Rife with Business-Threatening Bugs](https://threatpost.com/stem-audio-table-business-bugs/166798/)
 - [Microsoft: Big Cryptomining Attacks Hit Kubeflow](https://threatpost.com/microsoft-cryptomining-kubeflow/166777/)
 - [Steam Gaming Platform Delivering Malware](https://threatpost.com/steam-gaming-delivering-malware/166784/)
 - [JBS Paid $11M to REvil Gang Even After Restoring Operations](https://threatpost.com/jbs-paid-11m/166767/)
 - [Mysterious Custom Malware Collects Billions of Stolen Data Points](https://threatpost.com/custom-malware-stolen-data/166753/)
-- [Intel Plugs 29 Holes in CPUs, Bluetooth, Security](https://threatpost.com/intel-security-holes-cpus-bluetooth-security/166747/)
 <!-- THREAT:END -->
 ---
 
