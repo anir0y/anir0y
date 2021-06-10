@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [JBS Paid $11M to REvil Gang Even After Restoring Operations](https://threatpost.com/jbs-paid-11m/166767/)
 - [Mysterious Custom Malware Collects Billions of Stolen Data Points](https://threatpost.com/custom-malware-stolen-data/166753/)
 - [Intel Plugs 29 Holes in CPUs, Bluetooth, Security](https://threatpost.com/intel-security-holes-cpus-bluetooth-security/166747/)
 - [DarkSide Pwned Colonial With Old VPN Password](https://threatpost.com/darkside-pwned-colonial-with-old-vpn-password/166743/)
 - [Microsoft Patch Tuesday Fixes 6 In-The-Wild Exploits, 50 Flaws](https://threatpost.com/microsoft-patch-tuesday-in-the-wild-exploits/166724/)
-- [Lewd Phishing Lures Aimed at Business Explode](https://threatpost.com/lewd-phishing-lures-business-explode/166734/)
 <!-- THREAT:END -->
 ---
 
