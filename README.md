@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [‘Fancy Lazarus’ Cyberattackers Ramp up Ransom DDoS Efforts](https://threatpost.com/fancy-lazarus-cyberattackers-ransom-ddos/166811/)
 - [Chrome Browser Bug Under Active Attack](https://threatpost.com/chrome-browser-bug-under-attack/166804/)
 - [STEM Audio Table Rife with Business-Threatening Bugs](https://threatpost.com/stem-audio-table-business-bugs/166798/)
 - [Microsoft: Big Cryptomining Attacks Hit Kubeflow](https://threatpost.com/microsoft-cryptomining-kubeflow/166777/)
 - [Steam Gaming Platform Hosting Malware](https://threatpost.com/steam-gaming-delivering-malware/166784/)
-- [JBS Paid $11M to REvil Gang Even After Restoring Operations](https://threatpost.com/jbs-paid-11m/166767/)
 <!-- THREAT:END -->
 ---
 
