@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackME Room Kenobi](https://classroom.anir0y.in/post/thm-room-kenobi/)
 - [TryHackMe Room Vulnversity](https://classroom.anir0y.in/post/thm-room-vulnversity/)
 - [Thm Room Web Fundamentals](https://classroom.anir0y.in/post/thm-room-webfundamentals/)
 - [Backdooring EXE Files](https://classroom.anir0y.in/post/cs-hijackputty-msfvenom/)
 - [TryHackMe Writeup REMnux - The Redux](https://classroom.anir0y.in/post/thm-room-malremnuxv2/)
-- [TryHackMe BasicMalwareRE Writeup](https://classroom.anir0y.in/post/thm-room-basicmalwarere/)
 <!-- CLASS:END -->
 
 ## Threat Post:
