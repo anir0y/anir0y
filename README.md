@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Hackers Steal FIFA 21 Source Code, Tools in EA Breach](https://threatpost.com/hackers-fifa-21-source-code/166829/)
 - [‘Fancy Lazarus’ Cyberattackers Ramp up Ransom DDoS Efforts](https://threatpost.com/fancy-lazarus-cyberattackers-ransom-ddos/166811/)
 - [Chrome Browser Bug Under Active Attack](https://threatpost.com/chrome-browser-bug-under-attack/166804/)
 - [STEM Audio Table Rife with Business-Threatening Bugs](https://threatpost.com/stem-audio-table-business-bugs/166798/)
 - [Microsoft: Big Cryptomining Attacks Hit Kubeflow](https://threatpost.com/microsoft-cryptomining-kubeflow/166777/)
-- [Steam Gaming Platform Hosting Malware](https://threatpost.com/steam-gaming-delivering-malware/166784/)
 <!-- THREAT:END -->
 ---
 
