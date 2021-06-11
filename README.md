@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [REvil Hits US Nuclear Weapons Contractor: Report](https://threatpost.com/revil-hits-us-nuclear-weapons-contractor-sol-oriens/166858/)
 - [Cyberpunk 2077 Hacked Data Circulating Online](https://threatpost.com/cyberpunk-2077-hacked-data-online/166852/)
 - [Monumental Supply-Chain Attack on Airlines Traced to State Actor](https://threatpost.com/supply-chain-attack-airlines-state-actor/166842/)
 - [Police Grab Slilpp, Biggest Stolen-Logins Market](https://threatpost.com/police-slilpp-market-stolen-logins/166812/)
 - [Hackers Steal FIFA 21 Source Code, Tools in EA Breach](https://threatpost.com/hackers-fifa-21-source-code/166829/)
-- [‘Fancy Lazarus’ Cyberattackers Ramp up Ransom DDoS Efforts](https://threatpost.com/fancy-lazarus-cyberattackers-ransom-ddos/166811/)
 <!-- THREAT:END -->
 ---
 
