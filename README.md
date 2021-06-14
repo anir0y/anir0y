@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Moobot Milks Tenda Router Bugs for Propagation](https://threatpost.com/moobot-tenda-router-bugs/166902/)
 - [Volkswagen Vendor Exposed Data of 3.3m Drivers](https://threatpost.com/vw-data-3m-audi-drivers/166892/)
 - [Unpatched Bugs Found Lurking in Provisioning Platform Used with Cisco UC](https://threatpost.com/unpatched-bugs-provisioning-cisco-uc/166882/)
 - [Baby Clothes Giant Carter’s Leaks 410K Customer Records](https://threatpost.com/baby-clothes-carters-leaks-customer-records/166866/)
 - [REvil Hits US Nuclear Weapons Contractor: Report](https://threatpost.com/revil-hits-us-nuclear-weapons-contractor-sol-oriens/166858/)
-- [Cyberpunk 2077 Hacked Data Circulating Online](https://threatpost.com/cyberpunk-2077-hacked-data-online/166852/)
 <!-- THREAT:END -->
 ---
 
