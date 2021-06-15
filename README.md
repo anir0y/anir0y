@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Millions of Connected Cameras Open to Eavesdropping](https://threatpost.com/millions-connected-cameras-eavesdropping/166950/)
 - [Malicious PDFs Flood the Web, Lead to Password-Snarfing](https://threatpost.com/rotten-pdfs-flood-web-password-snarfing/166932/)
 - [Microsoft Disrupts Large-Scale, Cloud-Based BEC Campaign](https://threatpost.com/microsoft-disrupts-cloud-bec-campaign/166937/)
 - [Insider Risks In the Work-From-Home World](https://threatpost.com/insider-risks-work-from-home/166874/)
 - [SASE & Zero Trust: The Dream Team](https://threatpost.com/sase-zero-trust-the-dream-team/166880/)
-- [Microsoft Gets Second Shot at Banning hiQ from Scraping LinkedIn User Data](https://threatpost.com/court-linkedin-data-scraping/166927/)
 <!-- THREAT:END -->
 ---
 
