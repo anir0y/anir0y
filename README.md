@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Insider Risks In the Work-From-Home World](https://threatpost.com/insider-risks-work-from-home/166874/)
+- [SASE & Zero Trust: The Dream Team](https://threatpost.com/sase-zero-trust-the-dream-team/166880/)
 - [Microsoft Gets Second Shot at Banning hiQ from Scraping LinkedIn User Data](https://threatpost.com/court-linkedin-data-scraping/166927/)
 - [Apple Hurries Patches for Safari Bugs Under Active Attack](https://threatpost.com/apple-patch-safari-active-attack/166922/)
 - [Utilities ‘Concerningly’ at Risk from Active Exploits](https://threatpost.com/utilities-risk-active-exploits/166908/)
-- [Microsoft Teams: Very Bad Tabs Could Have Led to BEC](https://threatpost.com/microsoft-teams-tabs-bec/166909/)
-- [Moobot Milks Tenda Router Bugs for Propagation](https://threatpost.com/moobot-tenda-router-bugs/166902/)
 <!-- THREAT:END -->
 ---
 
