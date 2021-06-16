@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ransomware Poll: 80% of Victims Don’t Pay Up](https://threatpost.com/ransomware-victims-dont-pay-up/166989/)
 - [Takeaways from the Colonial Pipeline Ransomware Attack](https://threatpost.com/takeaways-colonial-pipeline-ransomware/166980/)
 - [Euros-Driven Football Fever Nets Dumb Passwords](https://threatpost.com/euros-football-fever-dumb-passwords/166974/)
 - [5 Tips to Prevent and Mitigate Ransomware Attacks](https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/)
 - [Avaddon Ransomware Gang Evaporates Amid Global Crackdowns](https://threatpost.com/avaddon-ransomware-global-crackdowns/166968/)
-- [Researchers: Booming Cyber-Underground Market for Initial-Access Brokers](https://threatpost.com/booming-cyber-underground-market-initial-access-brokers/166965/)
 <!-- THREAT:END -->
 ---
 
