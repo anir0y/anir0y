@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Euros-Driven Football Fever Nets Dumb Passwords](https://threatpost.com/euros-football-fever-dumb-passwords/166974/)
 - [5 Tips to Prevent and Mitigate Ransomware Attacks](https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/)
 - [Avaddon Ransomware Gang Evaporates Amid Global Crackdowns](https://threatpost.com/avaddon-ransomware-global-crackdowns/166968/)
 - [Researchers: Booming Cyber-Underground Market for Initial-Access Brokers](https://threatpost.com/booming-cyber-underground-market-initial-access-brokers/166965/)
 - [Peloton Bike+ Bug Gives Hackers Complete Control](https://threatpost.com/peloton-bike-bug-hackers-control/166960/)
-- [Millions of Connected Cameras Open to Eavesdropping](https://threatpost.com/millions-connected-cameras-eavesdropping/166950/)
 <!-- THREAT:END -->
 ---
 
