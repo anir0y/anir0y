@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Avaddon Ransomware Gang Evaporates Amid Global Crackdowns](https://threatpost.com/avaddon-ransomware-global-crackdowns/166968/)
+- [Researchers: Booming Cyber-Underground Market for Initial-Access Brokers](https://threatpost.com/booming-cyber-underground-market-initial-access-brokers/166965/)
+- [Peloton Bike+ Bug Gives Hackers Complete Control](https://threatpost.com/peloton-bike-bug-hackers-control/166960/)
 - [Millions of Connected Cameras Open to Eavesdropping](https://threatpost.com/millions-connected-cameras-eavesdropping/166950/)
 - [Malicious PDFs Flood the Web, Lead to Password-Snarfing](https://threatpost.com/rotten-pdfs-flood-web-password-snarfing/166932/)
-- [Microsoft Disrupts Large-Scale, Cloud-Based BEC Campaign](https://threatpost.com/microsoft-disrupts-cloud-bec-campaign/166937/)
-- [Insider Risks In the Work-From-Home World](https://threatpost.com/insider-risks-work-from-home/166874/)
-- [SASE & Zero Trust: The Dream Team](https://threatpost.com/sase-zero-trust-the-dream-team/166880/)
 <!-- THREAT:END -->
 ---
 
