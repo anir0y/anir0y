@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Clop Raid: A Big Win in the War on Ransomware?](https://threatpost.com/clop-raid-big-win-war-ransomware/167036/)
 - [Cisco Smart Switches Riddled with Severe Security Holes](https://threatpost.com/cisco-smart-switches-security-holes/167031/)
 - [Geek Squad Vishing Attack Bypasses Email Security to Hit 25K Mailboxes](https://threatpost.com/geek-squad-vishing-bypasses-email-security/167014/)
 - [CVS Health Records for 1.1 Billion Customers Exposed](https://threatpost.com/cvs-health-records-billion-customers-exposed/167011/)
 - [Threat Actors Use Google Docs to Host Phishing Attacks](https://threatpost.com/google-docs-host-attack/166998/)
-- [Hiccup in Akamai’s DDoS Mitigation Service Triggers Massive String of Outages](https://threatpost.com/hiccup-akamais-ddos-outages/167004/)
 <!-- THREAT:END -->
 ---
 
