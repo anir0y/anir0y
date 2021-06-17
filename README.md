@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Threat Actors Use Google Docs to Host Phishing Attacks](https://threatpost.com/google-docs-host-attack/166998/)
+- [Hiccup in Akamai’s DDoS Mitigation Service Triggers Massive String of Outages](https://threatpost.com/hiccup-akamais-ddos-outages/167004/)
 - [IKEA Fined $1.2M for Elaborate ‘Spying System’](https://threatpost.com/ikea-fined-spying-system/166991/)
-- [Ransomware Poll: 80% of Victims Don’t Pay Up](https://threatpost.com/ransomware-victims-dont-pay-up/166989/)
+- [Exclusive Ransomware Poll: 80% of Victims Don’t Pay Up](https://threatpost.com/ransomware-victims-dont-pay-up/166989/)
 - [Takeaways from the Colonial Pipeline Ransomware Attack](https://threatpost.com/takeaways-colonial-pipeline-ransomware/166980/)
-- [Euros-Driven Football Fever Nets Dumb Passwords](https://threatpost.com/euros-football-fever-dumb-passwords/166974/)
-- [5 Tips to Prevent and Mitigate Ransomware Attacks](https://threatpost.com/5-tips-to-prevent-and-mitigate-ransomware-attacks/166847/)
 <!-- THREAT:END -->
 ---
 
