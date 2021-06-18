@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Insider Versus Outsider: Navigating Top Data Loss Threats](https://threatpost.com/insider-outsider-data-loss-threats/167063/)
 - [‘Oddball’ Malware Blocks Access to Pirated Software](https://threatpost.com/oddball-malware-blocks-pirated-software/167060/)
 - [Faux ‘DarkSide’ Gang Takes Aim at Global Energy, Food Sectors](https://threatpost.com/darkside-global-energy-food/167056/)
 - [Clop Raid: A Big Win in the War on Ransomware?](https://threatpost.com/clop-raid-big-win-war-ransomware/167036/)
 - [Cisco Smart Switches Riddled with Severe Security Holes](https://threatpost.com/cisco-smart-switches-security-holes/167031/)
-- [Geek Squad Vishing Attack Bypasses Email Security to Hit 25K Mailboxes](https://threatpost.com/geek-squad-vishing-bypasses-email-security/167014/)
 <!-- THREAT:END -->
 ---
 
