@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Bugs in NVIDIA’s Jetson Chipset Opens Door to DoS Attacks, Data Theft](https://threatpost.com/nvidia-jetson-chipset-dos-data-theft/167093/)
 - [Embryology Data Breach Follows Fertility Clinic Ransomware Hit](https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/)
 - [Agent Tesla RAT Returns in COVID-19 Vax Phish](https://threatpost.com/agent-tesla-covid-vax-phish/167082/)
 - [iPhone Wi-Fi Crushed by Weird Network](https://threatpost.com/iphone-wi-fi-weird-network/167075/)
 - [What’s Making Your Company a Ransomware Sitting Duck](https://threatpost.com/ransomware-sitting-duck/167040/)
-- [Carnival Cruise Cyber-Torpedoed by Cyberattack](https://threatpost.com/carnival-cruise-cyberattack/167065/)
 <!-- THREAT:END -->
 ---
 
