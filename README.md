@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Six Flags to Pay $36M Over Collection of Fingerprints](https://threatpost.com/six-flags-to-pay-36m-over-collection-of-fingerprints/167103/)
 - [Wegmans Exposes Customer Data in Misconfigured Databases](https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/)
 - [Bugs in NVIDIA’s Jetson Chipset Opens Door to DoS Attacks, Data Theft](https://threatpost.com/nvidia-jetson-chipset-dos-data-theft/167093/)
 - [Embryology Data Breach Follows Fertility Clinic Ransomware Hit](https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/)
 - [Agent Tesla RAT Returns in COVID-19 Vax Phish](https://threatpost.com/agent-tesla-covid-vax-phish/167082/)
-- [iPhone Wi-Fi Crushed by Weird Network](https://threatpost.com/iphone-wi-fi-weird-network/167075/)
 <!-- THREAT:END -->
 ---
 
