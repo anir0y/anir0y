@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Email Bug Allows Message Snooping, Credential Theft](https://threatpost.com/email-bug-message-snooping-credential-theft/167125/)
 - [Kids’ Apps on Google Play Rife with Privacy Violations](https://threatpost.com/kids-apps-google-play-privacy-violations/167110/)
 - [Lexmark Printers Open to Arbitrary Code-Execution Zero-Day](https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/)
 - [Six Flags to Pay $36M Over Collection of Fingerprints](https://threatpost.com/six-flags-to-pay-36m-over-collection-of-fingerprints/167103/)
 - [Wegmans Exposes Customer Data in Misconfigured Databases](https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/)
-- [Bugs in NVIDIA’s Jetson Chipset Opens Door to DoS Attacks, Data Theft](https://threatpost.com/nvidia-jetson-chipset-dos-data-theft/167093/)
 <!-- THREAT:END -->
 ---
 
