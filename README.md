@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cryptominers Slither into Python Projects in Supply-Chain Campaign](https://threatpost.com/cryptominers-python-supply-chain/167135/)
 - [Email Bug Allows Message Snooping, Credential Theft](https://threatpost.com/email-bug-message-snooping-credential-theft/167125/)
 - [Kids’ Apps on Google Play Rife with Privacy Violations](https://threatpost.com/kids-apps-google-play-privacy-violations/167110/)
 - [Lexmark Printers Open to Arbitrary Code-Execution Zero-Day](https://threatpost.com/lexmark-printers-code-execution-zero-day/167111/)
 - [Six Flags to Pay $36M Over Collection of Fingerprints](https://threatpost.com/six-flags-to-pay-36m-over-collection-of-fingerprints/167103/)
-- [Wegmans Exposes Customer Data in Misconfigured Databases](https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/)
 <!-- THREAT:END -->
 ---
 
