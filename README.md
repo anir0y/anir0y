@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Pandemic-Bored Attackers Pummeled Gaming Industry](https://threatpost.com/attackers-gaming-industry/167183/)
 - [Critical Palo Alto Cyber-Defense Bug Allows Remote ‘War Room’ Access](https://threatpost.com/critical-palo-alto-bug-remote-war-room/167169/)
 - [REvil Ransomware Code Ripped Off by Rivals](https://threatpost.com/revil-ransomware-code-rivals/167167/)
 - [Unpatched Linux Marketplace Bugs Allow Wormable Attacks, Drive-By RCE](https://threatpost.com/unpatched-linux-marketplace-bugs-rce/167155/)
-- [SonicWall ‘Botches’ October Patch for Critical VPN Bug](https://threatpost.com/sonicwall-botches-critical-vpn-bug/167152/)
-- [BEC Losses Top $1.8B as Tactics Evolve](https://threatpost.com/bec-losses-top-18b/167148/)
+- [SonicWall ‘Botches’ October Patch for VPN Bug](https://threatpost.com/sonicwall-botches-critical-vpn-bug/167152/)
 <!-- THREAT:END -->
 ---
 
