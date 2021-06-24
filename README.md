@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Oh FCUK! Fashion Label, Medical Diagnostics Firm Latest REvil Victims](https://threatpost.com/fcuk-fashion-medical-diagnostics-revil/167245/)
 - [Musk-Themed ‘$SpaceX’ Cryptoscam Invades YouTube Advertising](https://threatpost.com/musk-spacex-cryptoscam-youtube-advertising/167219/)
 - [Critical VMware Carbon Black Bug Allows Authentication Bypass](https://threatpost.com/vmware-carbon-black-authentication-bypass/167226/)
 - [Tulsa’s Police-Citation Data Leaked by Conti Gang](https://threatpost.com/tulsa-police-data-leaked-conti-ransomware/167220/)
 - [Atlassian Bugs Could Have Led to 1-Click Takeover](https://threatpost.com/atlassian-bugs-could-have-led-to-1-click-takeover/167203/)
-- [30M Dell Devices at Risk for Remote BIOS Attacks, RCE](https://threatpost.com/dell-bios-attacks-rce/167195/)
 <!-- THREAT:END -->
 ---
 
