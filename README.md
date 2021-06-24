@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Tulsa’s Police-Citation Data Leaked by Conti Gang](https://threatpost.com/tulsa-police-data-leaked-conti-ransomware/167220/)
 - [Atlassian Bugs Could Have Led to 1-Click Takeover](https://threatpost.com/atlassian-bugs-could-have-led-to-1-click-takeover/167203/)
 - [30M Dell Devices at Risk for Remote BIOS Attacks, RCE](https://threatpost.com/dell-bios-attacks-rce/167195/)
 - [Iran Media Websites Seized by U.S. in Disinformation Campaign](https://threatpost.com/iran-media-websites-seized-disinformation/167198/)
 - [Pandemic-Bored Attackers Pummeled Gaming Industry](https://threatpost.com/attackers-gaming-industry/167183/)
-- [Critical Palo Alto Cyber-Defense Bug Allows Remote ‘War Room’ Access](https://threatpost.com/critical-palo-alto-bug-remote-war-room/167169/)
 <!-- THREAT:END -->
 ---
 
