@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [FIN7 ‘Pen Tester’ Headed to Jail Amid $1B in Payment-Card Losses](https://threatpost.com/fin7-pen-tester-jail/167293/)
 - [Cisco ASA Bug Now Actively Exploited as PoC Drops](https://threatpost.com/cisco-asa-bug-exploited-poc/167274/)
 - [My Book Live Users Wake Up to Wiped Devices, Active RCE Attacks](https://threatpost.com/my-book-live-wiped-rce-attacks/167270/)
 - [Hackers Crack Pirated Games with Cryptojacking Malware](https://threatpost.com/hackers-crack-pirated-games-malware/167263/)
 - [Spam Downpour Drips New IcedID Banking Trojan Variant](https://threatpost.com/spam-icedid-banking-trojan-variant/167250/)
-- [Oh FCUK! Fashion Label, Medical Diagnostics Firm Latest REvil Victims](https://threatpost.com/fcuk-fashion-medical-diagnostics-revil/167245/)
 <!-- THREAT:END -->
 ---
 
