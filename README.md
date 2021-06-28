@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical CISO Initiatives for the Second Half of 2021](https://threatpost.com/critical-ciso-initiatives-2021/167309/)
 - [Mercedes-Benz Customer Data Flies Out the Window](https://threatpost.com/mercedes-benz-customer-data-flies-out-the-window/167302/)
 - [PS3 Players Ban: Latest Victims of Surging Attacks on Gaming Industry](https://threatpost.com/ps3-players-ban-attacks-gaming/167303/)
 - [FIN7 ‘Pen Tester’ Headed to Jail Amid $1B in Payment-Card Losses](https://threatpost.com/fin7-pen-tester-jail/167293/)
 - [Cisco ASA Bug Now Actively Exploited as PoC Drops](https://threatpost.com/cisco-asa-bug-exploited-poc/167274/)
-- [My Book Live Users Wake Up to Wiped Devices, Active RCE Attacks](https://threatpost.com/my-book-live-wiped-rce-attacks/167270/)
 <!-- THREAT:END -->
 ---
 
