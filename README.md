@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [5G Security Vulnerabilities Fluster Mobile Operators](https://threatpost.com/mobile-operators-5g-security-vulnerabilities/167354/)
 - [NVIDIA Patches High-Severity GeForce Spoof-Attack Bug](https://threatpost.com/nvidia-high-severity-geforce-spoof-bug/167345/)
 - [Attackers Breach Microsoft Customer Service Accounts](https://threatpost.com/russian-attackers-breach-microsoft/167340/)
 - [Microsoft Signs Malware That Spreads Through Gaming](https://threatpost.com/microsoft-malicious-rootkit-gaming/167323/)
 - [Critical CISO Initiatives for the Second Half of 2021](https://threatpost.com/critical-ciso-initiatives-2021/167309/)
-- [Mercedes-Benz Customer Data Flies Out the Window](https://threatpost.com/mercedes-benz-customer-data-flies-out-the-window/167302/)
 <!-- THREAT:END -->
 ---
 
