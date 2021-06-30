@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Why MTTR is Bad for SecOps](https://threatpost.com/mttr-bad-secops/167440/)
 - [Zero-Day Used to Wipe My Book Live Devices](https://threatpost.com/zero-day-wipe-my-book-live/167422/)
 - [PoC Exploit Circulating for Critical Windows Print Spooler Bug](https://threatpost.com/poc-exploit-windows-print-spooler-bug/167430/)
 - [Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns](https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/)
 - [Users Clueless About Cybersecurity Risks: Study](https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/)
-- [Microsoft Translation Bugs Open Edge Browser to Trivial UXSS Attacks](https://threatpost.com/microsoft-edge-browser-uxss-attacks/167389/)
 <!-- THREAT:END -->
 ---
 
