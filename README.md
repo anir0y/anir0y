@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Indexsinas SMB Worm Campaign Infests Whole Enterprises](https://threatpost.com/indexsinas-smb-worm-enterprises/167455/)
 - [Why MTTR is Bad for SecOps](https://threatpost.com/mttr-bad-secops/167440/)
 - [Zero-Day Used to Wipe My Book Live Devices](https://threatpost.com/zero-day-wipe-my-book-live/167422/)
 - [PoC Exploit Circulating for Critical Windows Print Spooler Bug](https://threatpost.com/poc-exploit-windows-print-spooler-bug/167430/)
 - [Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns](https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/)
-- [Users Clueless About Cybersecurity Risks: Study](https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/)
 <!-- THREAT:END -->
 ---
 
