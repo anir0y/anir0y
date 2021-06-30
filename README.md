@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Zero-Day Used to Wipe My Book Live Devices](https://threatpost.com/zero-day-wipe-my-book-live/167422/)
+- [PoC Exploit Circulating for Critical Windows Print Spooler Bug](https://threatpost.com/poc-exploit-windows-print-spooler-bug/167430/)
 - [Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns](https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/)
 - [Users Clueless About Cybersecurity Risks: Study](https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/)
 - [Microsoft Translation Bugs Open Edge Browser to Trivial UXSS Attacks](https://threatpost.com/microsoft-edge-browser-uxss-attacks/167389/)
-- [Details of RCE Bug in Adobe Experience Manager Revealed](https://threatpost.com/rce-bug-in-adobe-revealed/167382/)
-- [Cobalt Strike Usage Explodes Among Cybercrooks](https://threatpost.com/cobalt-strike-cybercrooks/167368/)
 <!-- THREAT:END -->
 ---
 
