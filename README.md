@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns](https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/)
 - [Users Clueless About Cybersecurity Risks: Study](https://threatpost.com/users-clueless-cybersecurity-risks-study/167404/)
 - [Microsoft Translation Bugs Open Edge Browser to Trivial UXSS Attacks](https://threatpost.com/microsoft-edge-browser-uxss-attacks/167389/)
 - [Details of RCE Bug in Adobe Experience Manager Revealed](https://threatpost.com/rce-bug-in-adobe-revealed/167382/)
 - [Cobalt Strike Usage Explodes Among Cybercrooks](https://threatpost.com/cobalt-strike-cybercrooks/167368/)
-- [Data for 700M LinkedIn Users Posted for Sale in Cyber-Underground](https://threatpost.com/data-700m-linkedin-users-cyber-underground/167362/)
 <!-- THREAT:END -->
 ---
 
