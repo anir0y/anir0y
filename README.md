@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Room Ice](https://classroom.anir0y.in/post/thm-room-ice/)
 - [TryHackMe Room Hackpark](https://classroom.anir0y.in/post/thm-room-hackpark/)
 - [TryHackME Room Kenobi](https://classroom.anir0y.in/post/thm-room-kenobi/)
 - [TryHackMe Room Vulnversity](https://classroom.anir0y.in/post/thm-room-vulnversity/)
 - [Thm Room Web Fundamentals](https://classroom.anir0y.in/post/thm-room-webfundamentals/)
-- [Backdooring EXE Files](https://classroom.anir0y.in/post/cs-hijackputty-msfvenom/)
 <!-- CLASS:END -->
 
 ## Threat Post:
