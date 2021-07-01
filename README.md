@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Linux Variant of REvil Ransomware Targets VMware’s ESXi, NAS Devices](https://threatpost.com/linux-variant-ransomware-vmwares-nas/167511/)
 - [Defeating Ransomware-as-a-Service? Think Intel-Sharing](https://threatpost.com/ransomware-as-a-service-intel-sharing/167508/)
 - [Hacked Data for 69K LimeVPN Users Up for Sale on Dark Web](https://threatpost.com/hacked-data-limevpn-dark-web/167492/)
 - [Babuk Ransomware Builder Mysteriously Appears in VirusTotal](https://threatpost.com/babuk-ransomware-builder-virustotal/167481/)
 - [Data Exfiltration: What You Should Know to Prevent It](https://threatpost.com/data-exfiltration-prevent-it/167413/)
-- [LinkedIn’s 1.2B Data-Scrape Victims Already Being Targeted by Attackers](https://threatpost.com/linkedin-data-scrape-victims-targeted-attackers/167473/)
 <!-- THREAT:END -->
 ---
 
