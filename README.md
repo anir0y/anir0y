@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [LinkedIn’s 1.2B Data-Scrape Victims Already Being Targeted by Attackers](https://threatpost.com/linkedin-data-scrape-victims-targeted-attackers/167473/)
+- [Netgear Authentication Bypass Allows Router Takeover](https://threatpost.com/netgear-authentication-bypass-router-takeover/167469/)
+- [Dropbox Used to Mask Malware Movement in Cyberespionage Campaign](https://threatpost.com/dropbox-malware-ongoing-spearphishing-cyberespionage/167402/)
 - [Indexsinas SMB Worm Campaign Infests Whole Enterprises](https://threatpost.com/indexsinas-smb-worm-enterprises/167455/)
 - [Why MTTR is Bad for SecOps](https://threatpost.com/mttr-bad-secops/167440/)
-- [Zero-Day Used to Wipe My Book Live Devices](https://threatpost.com/zero-day-wipe-my-book-live/167422/)
-- [PoC Exploit Circulating for Critical Windows Print Spooler Bug](https://threatpost.com/poc-exploit-windows-print-spooler-bug/167430/)
-- [Feds Told to Better Manage Facial Recognition, Amid Privacy Concerns](https://threatpost.com/feds-manage-facial-recognition-privacy-concerns/167419/)
 <!-- THREAT:END -->
 ---
 
