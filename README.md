@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Data Exfiltration: What You Should Know to Prevent It](https://threatpost.com/data-exfiltration-prevent-it/167413/)
 - [LinkedIn’s 1.2B Data-Scrape Victims Already Being Targeted by Attackers](https://threatpost.com/linkedin-data-scrape-victims-targeted-attackers/167473/)
 - [Netgear Authentication Bypass Allows Router Takeover](https://threatpost.com/netgear-authentication-bypass-router-takeover/167469/)
 - [Dropbox Used to Mask Malware Movement in Cyberespionage Campaign](https://threatpost.com/dropbox-malware-ongoing-spearphishing-cyberespionage/167402/)
 - [Indexsinas SMB Worm Campaign Infests Whole Enterprises](https://threatpost.com/indexsinas-smb-worm-enterprises/167455/)
-- [Why MTTR is Bad for SecOps](https://threatpost.com/mttr-bad-secops/167440/)
 <!-- THREAT:END -->
 ---
 
