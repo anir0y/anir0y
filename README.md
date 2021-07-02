@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [TrickBot Spruces Up Its Banking Trojan Module](https://threatpost.com/trickbot-banking-trojan-module/167521/)
+- [Widespread Brute-Force Attacks Tied to Russia’s APT28](https://threatpost.com/kubernetes-brute-force-attacks-russia-apt28/167518/)
+- [Why Healthcare Keeps Falling Prey to Ransomware and Other Cyberattacks](https://threatpost.com/healthcare-prey-ransomware-cyberattacks/167525/)
 - [CISA Offers New Mitigation for PrintNightmare Bug](https://threatpost.com/cisa-mitigation-printnightmare-bug/167515/)
 - [Linux Variant of REvil Ransomware Targets VMware’s ESXi, NAS Devices](https://threatpost.com/linux-variant-ransomware-vmwares-nas/167511/)
-- [Defeating Ransomware-as-a-Service? Think Intel-Sharing](https://threatpost.com/ransomware-as-a-service-intel-sharing/167508/)
-- [Hacked Data for 69K LimeVPN Users Up for Sale on Dark Web](https://threatpost.com/hacked-data-limevpn-dark-web/167492/)
-- [Babuk Ransomware Builder Mysteriously Appears in VirusTotal](https://threatpost.com/babuk-ransomware-builder-virustotal/167481/)
 <!-- THREAT:END -->
 ---
 
