@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ransomware Defense: Top 5 Things to Do Right Now](https://threatpost.com/ransomware-defense-top-5-tips/167536/)
 - [TrickBot Spruces Up Its Banking Trojan Module](https://threatpost.com/trickbot-banking-trojan-module/167521/)
 - [Widespread Brute-Force Attacks Tied to Russia’s APT28](https://threatpost.com/kubernetes-brute-force-attacks-russia-apt28/167518/)
 - [Why Healthcare Keeps Falling Prey to Ransomware and Other Cyberattacks](https://threatpost.com/healthcare-prey-ransomware-cyberattacks/167525/)
 - [CISA Offers New Mitigation for PrintNightmare Bug](https://threatpost.com/cisa-mitigation-printnightmare-bug/167515/)
-- [Linux Variant of REvil Ransomware Targets VMware’s ESXi, NAS Devices](https://threatpost.com/linux-variant-ransomware-vmwares-nas/167511/)
 <!-- THREAT:END -->
 ---
 
