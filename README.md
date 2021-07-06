@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Kaseya Patches Imminent After Zero-Day Exploits, 1,500 Impacted](https://threatpost.com/kaseya-patches-zero-day-exploits/167548/)
 - [Kaseya Attack Fallout: CISA, FBI Offer Guidance](https://threatpost.com/kaseya-attack-fallout/167541/)
 - [Ransomware Defense: Top 5 Things to Do Right Now](https://threatpost.com/ransomware-defense-top-5-tips/167536/)
 - [TrickBot Spruces Up Its Banking Trojan Module](https://threatpost.com/trickbot-banking-trojan-module/167521/)
 - [Widespread Brute-Force Attacks Tied to Russia’s APT28](https://threatpost.com/kubernetes-brute-force-attacks-russia-apt28/167518/)
-- [Why Healthcare Keeps Falling Prey to Ransomware and Other Cyberattacks](https://threatpost.com/healthcare-prey-ransomware-cyberattacks/167525/)
 <!-- THREAT:END -->
 ---
 
