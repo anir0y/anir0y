@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe RootMe](https://classroom.anir0y.in/post/tryhackme-rrootme/)
 - [TryHackMe Gitandcrumpets](https://classroom.anir0y.in/post/tryhackme-gitandcrumpets/)
 - [TryHackMe Postexploit](https://classroom.anir0y.in/post/tryhackme-postexploit/)
 - [TryHackMe Hydra](https://classroom.anir0y.in/post/tryhackme-hydra/)
 - [python pip2 Install](https://classroom.anir0y.in/post/pip2-install/)
-- [TryHackMe Room Ice](https://classroom.anir0y.in/post/thm-room-ice/)
 <!-- CLASS:END -->
 
 ## Threat Post:
