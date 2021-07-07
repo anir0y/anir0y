@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical Sage X3 RCE Bug Allows Full System Takeovers](https://threatpost.com/critical-sage-x3-rce-bug-allows-full-system-takeovers/167612/)
 - [MacOS Targeted in WildPressure APT Malware Campaign](https://threatpost.com/macos-wildpressure-apt/167606/)
 - [Suspected ‘Dr HeX’ Hacker Busted for 9 Years of Phishing](https://threatpost.com/dr-hex-hacker-busted-phishing/167597/)
 - [Fake Kaseya VSA Security Update Drops Cobalt Strike](https://threatpost.com/fake-kaseya-vsa-update-cobalt-strike/167587/)
 - [Why I Love (Breaking Into) Your Security Appliances](https://threatpost.com/breaking-into-security-appliances/167584/)
-- [Cloud Cryptomining Swindle in Google Play Rakes in Cash](https://threatpost.com/cloud-cryptomining-swindle-google-play/167581/)
 <!-- THREAT:END -->
 ---
 
