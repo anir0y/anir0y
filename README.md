@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Releases Emergency Patch for PrintNightmare Bugs](https://threatpost.com/microsoft-emergency-patch-printnightmare/167578/)
 - [Pro-Trump ‘Gettr’ Social Platform Hacked On Day One](https://threatpost.com/trump-gettr-social-media-hacked-day-1/167574/)
 - [Android Apps in Google Play Harvest Facebook Credentials](https://threatpost.com/android-apps-google-play-facebook-credentials/167563/)
 - [Western Digital Users Face Another RCE](https://threatpost.com/rce-0-day-western-digital-users/167547/)
 - [Kaseya Patches Imminent After Zero-Day Exploits, 1,500 Impacted](https://threatpost.com/kaseya-patches-zero-day-exploits/167548/)
-- [Kaseya Attack Fallout: CISA, FBI Offer Guidance](https://threatpost.com/kaseya-attack-fallout/167541/)
 <!-- THREAT:END -->
 ---
 
