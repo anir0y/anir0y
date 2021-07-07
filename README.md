@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Why I Love (Breaking Into) Your Security Appliances](https://threatpost.com/breaking-into-security-appliances/167584/)
 - [Cloud Cryptomining Swindle in Google Play Rakes in Cash](https://threatpost.com/cloud-cryptomining-swindle-google-play/167581/)
 - [Microsoft Releases Emergency Patch for PrintNightmare Bugs](https://threatpost.com/microsoft-emergency-patch-printnightmare/167578/)
 - [Pro-Trump ‘Gettr’ Social Platform Hacked On Day One](https://threatpost.com/trump-gettr-social-media-hacked-day-1/167574/)
 - [Android Apps in Google Play Harvest Facebook Credentials](https://threatpost.com/android-apps-google-play-facebook-credentials/167563/)
-- [Western Digital Users Face Another RCE](https://threatpost.com/rce-0-day-western-digital-users/167547/)
 <!-- THREAT:END -->
 ---
 
