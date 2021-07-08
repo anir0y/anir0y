@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Coursera Flunks API Security Test in Researchers’ Exam](https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/)
 - [How Fake Accounts and Sneaker-Bots Took Over the Internet](https://threatpost.com/fake-accounts-sneaker-bots-internet/167626/)
 - [Critical Sage X3 RCE Bug Allows Full System Takeovers](https://threatpost.com/critical-sage-x3-rce-bug-allows-full-system-takeovers/167612/)
 - [MacOS Targeted in WildPressure APT Malware Campaign](https://threatpost.com/macos-wildpressure-apt/167606/)
 - [Suspected ‘Dr HeX’ Hacker Busted for 9 Years of Phishing](https://threatpost.com/dr-hex-hacker-busted-phishing/167597/)
-- [Fake Kaseya VSA Security Update Drops Cobalt Strike](https://threatpost.com/fake-kaseya-vsa-update-cobalt-strike/167587/)
 <!-- THREAT:END -->
 ---
 
