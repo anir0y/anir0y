@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Crisis](https://classroom.anir0y.in/post/tryhackme-crisis/)
 - [TryHackMe Couch](https://classroom.anir0y.in/post/tryhackme-couch/)
 - [TryHackMe Inclusion](https://classroom.anir0y.in/post/tryhackme-inclusion/)
 - [TryHackMe RootMe](https://classroom.anir0y.in/post/tryhackme-rrootme/)
 - [TryHackMe Gitandcrumpets](https://classroom.anir0y.in/post/tryhackme-gitandcrumpets/)
-- [TryHackMe Postexploit](https://classroom.anir0y.in/post/tryhackme-postexploit/)
 <!-- CLASS:END -->
 
 ## Threat Post:
