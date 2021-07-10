@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cyber Polygon 2021: Towards Secure Development of Digital Ecosystems](https://threatpost.com/cyber-polygon-2021-towards-secure-development-of-digital-ecosystems/167661/)
 - [Microsoft Office Users Warned on New Malware-Protection Bypass](https://threatpost.com/microsoft-office-malware-protection-bypass/167652/)
 - [Cisco BPA, WSA Bugs Allow Remote Cyberattacks](https://threatpost.com/cisco-bpa-wsa-bugs-cyberattacks/167654/)
 - [Lazarus Targets Job-Seeking Engineers with Malicious Documents](https://threatpost.com/lazarus-engineers-malicious-docs/167647/)
 - [Oil & Gas Targeted in Year-Long Cyber-Espionage Campaign](https://threatpost.com/oil-gas-cyber-espionage-campaign/167639/)
-- [Coursera Flunks API Security Test in Researchers’ Exam](https://threatpost.com/coursera-flunks-api-security-test-in-researchers-exam/167630/)
 <!-- THREAT:END -->
 ---
 
