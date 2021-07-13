@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [SolarWinds Issues Hotfix for Zero-Day Flaw Under Active Attack](https://threatpost.com/solarwinds-hotfix-zero-day-active-attack/167704/)
 - [BIOPASS RAT Uses Live Streaming Steal Victims’ Data](https://threatpost.com/biopass-rat-live-streaming/167695/)
 - [WordPress File Management Plugin Riddled with Critical Bugs](https://threatpost.com/frontend-file-manager-wordpress-bugs/167687/)
 - [Critical RCE Vulnerability in ForgeRock OpenAM Under Active Attack](https://threatpost.com/critical-vulnerability-rce-forgerock-openam/167679/)
 - [Kaseya Patches Zero-Days Used in REvil Attacks](https://threatpost.com/kaseya-patches-zero-days-revil-attacks/167670/)
-- [Cyber Polygon 2021: Towards Secure Development of Digital Ecosystems](https://threatpost.com/cyber-polygon-2021-towards-secure-development-of-digital-ecosystems/167661/)
 <!-- THREAT:END -->
 ---
 
