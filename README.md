@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Guess Fashion Brand Deals With Data Loss After Ransomware Attack](https://threatpost.com/guess-fashion-data-loss-ransomware/167754/)
+- [Unpatched Critical RCE Bug Allows Industrial, Utility Takeovers](https://threatpost.com/unpatched-critical-rce-industrial-utility-takeovers/167751/)
 - [Adobe Patches 11 Critical Bugs in Popular Acrobat PDF Reader](https://threatpost.com/adobe-patches-critical-acrobat/167743/)
 - [‘Charming Kitten’ APT Siphons Intel From Mid-East Scholars](https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/)
 - [Is Remote Desktop Protocol Secure? It Can Be](https://threatpost.com/remote-desktop-protocol-secure/167719/)
-- [New CISA Director Confirmed, White House Gains Cyber-Director](https://threatpost.com/cisa-director-confirmed-white-house-cyber-director/167710/)
-- [SolarWinds Issues Hotfix for Zero-Day Flaw Under Active Attack](https://threatpost.com/solarwinds-hotfix-zero-day-active-attack/167704/)
 <!-- THREAT:END -->
 ---
 
