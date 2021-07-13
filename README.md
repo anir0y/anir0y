@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Crushes 116 Bugs, Three Actively Exploited](https://threatpost.com/microsoft-crushes-116-bugs/167764/)
 - [Ransomware Giant REvil’s Sites Disappear](https://threatpost.com/ransomware-revil-sites-disappears/167745/)
 - [Guess Fashion Brand Deals With Data Loss After Ransomware Attack](https://threatpost.com/guess-fashion-data-loss-ransomware/167754/)
 - [Unpatched Critical RCE Bug Allows Industrial, Utility Takeovers](https://threatpost.com/unpatched-critical-rce-industrial-utility-takeovers/167751/)
 - [Adobe Patches 11 Critical Bugs in Popular Acrobat PDF Reader](https://threatpost.com/adobe-patches-critical-acrobat/167743/)
-- [‘Charming Kitten’ APT Siphons Intel From Mid-East Scholars](https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/)
 <!-- THREAT:END -->
 ---
 
