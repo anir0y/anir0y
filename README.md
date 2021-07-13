@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Adobe Patches 11 Critical Bugs in Popular Acrobat PDF Reader](https://threatpost.com/adobe-patches-critical-acrobat/167743/)
 - [‘Charming Kitten’ APT Siphons Intel From Mid-East Scholars](https://threatpost.com/apt-ta453-siphons-intel-mideast/167715/)
 - [Is Remote Desktop Protocol Secure? It Can Be](https://threatpost.com/remote-desktop-protocol-secure/167719/)
 - [New CISA Director Confirmed, White House Gains Cyber-Director](https://threatpost.com/cisa-director-confirmed-white-house-cyber-director/167710/)
 - [SolarWinds Issues Hotfix for Zero-Day Flaw Under Active Attack](https://threatpost.com/solarwinds-hotfix-zero-day-active-attack/167704/)
-- [BIOPASS RAT Uses Live Streaming Steal Victims’ Data](https://threatpost.com/biopass-rat-live-streaming/167695/)
 <!-- THREAT:END -->
 ---
 
