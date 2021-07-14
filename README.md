@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Try Hack Me Web Scanning](https://classroom.anir0y.in/post/tryhackme-rpwebscanning/)
 - [Awesome Red Teaming](https://classroom.anir0y.in/post/post-awesome-red-teaming/)
 - [TryHackMe The find command](https://classroom.anir0y.in/post/tryhackme-thefindcommand/)
 - [TryHackMe Tmux](https://classroom.anir0y.in/post/tryhackme-rptmux/)
 - [TryHackMe Crisis](https://classroom.anir0y.in/post/tryhackme-crisis/)
-- [TryHackMe Couch](https://classroom.anir0y.in/post/tryhackme-couch/)
 <!-- CLASS:END -->
 
 ## Threat Post:
