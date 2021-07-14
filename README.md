@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Trickbot Malware Rebounds with Virtual-Desktop Espionage Module](https://threatpost.com/trickbot-malware-virtual-desktop-espionage/167789/)
 - [Updated Joker Malware Floods into Android Apps](https://threatpost.com/updated-joker-malware-android-apps/167776/)
 - [Windows Hello Bypass Fools Biometrics Safeguards in PCs](https://threatpost.com/windows-hello-bypass-biometrics-pcs/167771/)
 - [Microsoft Crushes 116 Bugs, Three Actively Exploited](https://threatpost.com/microsoft-crushes-116-bugs/167764/)
 - [Ransomware Giant REvil’s Sites Disappear](https://threatpost.com/ransomware-revil-sites-disappears/167745/)
-- [Guess Fashion Brand Deals With Data Loss After Ransomware Attack](https://threatpost.com/guess-fashion-data-loss-ransomware/167754/)
 <!-- THREAT:END -->
 ---
 
