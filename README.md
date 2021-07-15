@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Safari Zero-Day Used in Malicious LinkedIn Campaign](https://threatpost.com/safari-zero-day-linkedin/167814/)
 - [Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine](https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/)
 - [Linux-Focused Cryptojacking Gang Tracked to Romania](https://threatpost.com/linux-cryptojacking-gang-romania/167783/)
 - [Apps Built Better: Why DevSecOps is Your Security Team’s Silver Bullet](https://threatpost.com/apps-built-better-devsecops-security-silver-bullet/167793/)
 - [Trickbot Malware Rebounds with Virtual-Desktop Espionage Module](https://threatpost.com/trickbot-malware-virtual-desktop-espionage/167789/)
-- [Updated Joker Malware Floods into Android Apps](https://threatpost.com/updated-joker-malware-android-apps/167776/)
 <!-- THREAT:END -->
 ---
 
