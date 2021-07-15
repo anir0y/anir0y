@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Zero-Day Attacks on Critical WooCommerce Bug Threaten Databases](https://threatpost.com/zero-day-attacks-woocommerce-databases/167846/)
 - [Fake Zoom App Dropped by New APT ‘LuminousMoth’](https://threatpost.com/zoom-apt-luminous-moth/167822/)
 - [SonicWall Warns Secure VPN Hardware Bugs Under Attack](https://threatpost.com/sonicwall-vpn-bugs-attack/167824/)
 - [Safari Zero-Day Used in Malicious LinkedIn Campaign](https://threatpost.com/safari-zero-day-linkedin/167814/)
 - [Cryptominer Farm Rigged with 3,800 PS4s Busted in Ukraine](https://threatpost.com/cryptominer-farm-ps4s-busted-ukraine/167809/)
-- [Linux-Focused Cryptojacking Gang Tracked to Romania](https://threatpost.com/linux-cryptojacking-gang-romania/167783/)
 <!-- THREAT:END -->
 ---
 
