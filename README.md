@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Linux Variant of HelloKitty Ransomware Targets VMware ESXi Servers](https://threatpost.com/linux-variant-of-hellokitty-ransomware-targets-vmware-esxi-servers/167883/)
+- [Top CVEs Trending with Cybercriminals](https://threatpost.com/top-cves-trending-with-cybercriminals/167889/)
 - [The Evolving Role of the CISO](https://threatpost.com/evolving-role-ciso/167873/)
 - [Critical Juniper Bug Allows DoS, RCE Against Carrier Networks](https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/)
 - [Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware](https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/)
-- [Microsoft: New Unpatched Bug in Windows Print Spooler](https://threatpost.com/microsoft-unpatched-bug-windows-print-spooler/167855/)
-- [Zero-Day Attacks on Critical WooCommerce Bug Threaten Databases](https://threatpost.com/zero-day-attacks-woocommerce-databases/167846/)
 <!-- THREAT:END -->
 ---
 
