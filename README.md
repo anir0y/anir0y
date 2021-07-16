@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical Juniper Bug Allows DoS, RCE Against Carrier Networks](https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/)
 - [Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware](https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/)
 - [Microsoft: New Unpatched Bug in Windows Print Spooler](https://threatpost.com/microsoft-unpatched-bug-windows-print-spooler/167855/)
 - [Zero-Day Attacks on Critical WooCommerce Bug Threaten Databases](https://threatpost.com/zero-day-attacks-woocommerce-databases/167846/)
 - [Fake Zoom App Dropped by New APT ‘LuminousMoth’](https://threatpost.com/zoom-apt-luminous-moth/167822/)
-- [SonicWall Warns Secure VPN Hardware Bugs Under Attack](https://threatpost.com/sonicwall-vpn-bugs-attack/167824/)
 <!-- THREAT:END -->
 ---
 
