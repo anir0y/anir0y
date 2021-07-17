@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Linux Function Hooking](https://classroom.anir0y.in/post/tryhackme-linuxfunctionhooking/)
 - [TryHackMe Ffuf](https://classroom.anir0y.in/post/tryhackme-ffuf/)
 - [Try Hack Me Web Scanning](https://classroom.anir0y.in/post/tryhackme-rpwebscanning/)
 - [Awesome Red Teaming](https://classroom.anir0y.in/post/post-awesome-red-teaming/)
 - [TryHackMe The find command](https://classroom.anir0y.in/post/tryhackme-thefindcommand/)
-- [TryHackMe Tmux](https://classroom.anir0y.in/post/tryhackme-rptmux/)
 <!-- CLASS:END -->
 
 ## Threat Post:
