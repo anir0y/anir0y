@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Leaked NSO Group Data Hints at Widespread Pegasus Spyware Infections](https://threatpost.com/nso-group-data-pegasus/167897/)
 - [Linux Variant of HelloKitty Ransomware Targets VMware ESXi Servers](https://threatpost.com/linux-variant-of-hellokitty-ransomware-targets-vmware-esxi-servers/167883/)
 - [Top CVEs Trending with Cybercriminals](https://threatpost.com/top-cves-trending-with-cybercriminals/167889/)
 - [The Evolving Role of the CISO](https://threatpost.com/evolving-role-ciso/167873/)
 - [Critical Juniper Bug Allows DoS, RCE Against Carrier Networks](https://threatpost.com/critical-juniper-bug-dos-rce-carrier/167869/)
-- [Windows 0-Days Used Against Dissidents in Israeli Broker’s Spyware](https://threatpost.com/windows-zero-days-israeli-spyware-dissidents/167865/)
 <!-- THREAT:END -->
 ---
 
