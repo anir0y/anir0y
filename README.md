@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Researchers: NSO Group’s Pegasus Spyware Should Spark Bans, Apple Accountability](https://threatpost.com/nso-pegasus-spyware-bans-apple-accountability/167965/)
 - [Law Firm to the Fortune 500 Breached with Ransomware](https://threatpost.com/law-firm-fortune-500-breach-ransomware/167951/)
 - [Why Your Business Needs a Long-Term Remote Security Strategy](https://threatpost.com/business-long-term-remote-security-strategy/167950/)
 - [16-Year-Old HP Printer-Driver Bug Impacts Millions of Windows Machines](https://threatpost.com/hp-printer-driver-bug-windows/167944/)
 - [A New Security Paradigm: External Attack Surface Management](https://threatpost.com/external-attack-surface-management/167732/)
-- [MosaicLoader Malware Delivers Facebook Stealers, RATs](https://threatpost.com/mosaicloader-malware-facebook-stealers/167939/)
 <!-- THREAT:END -->
 ---
 
