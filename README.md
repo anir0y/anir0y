@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [A New Security Paradigm: External Attack Surface Management](https://threatpost.com/external-attack-surface-management/167732/)
+- [MosaicLoader Malware Delivers Facebook Stealers, RATs](https://threatpost.com/mosaicloader-malware-facebook-stealers/167939/)
 - [What’s Next for REvil’s Victims?](https://threatpost.com/whats-next-revil-victims/167926/)
 - [Unpatched iPhone Bug Allows Remote Device Takeover](https://threatpost.com/unpatched-iphone-bug-remote-takeover/167922/)
 - [Ruthless Attackers Target Florida Condo Collapse Victims](https://threatpost.com/attackers-target-florida-condo-collapse-victims/167917/)
-- [Protecting Phones From Pegasus-Like Spyware Attacks](https://threatpost.com/protecting-phones-from-pegasus-like-spyware-attacks/167909/)
-- [Leaked NSO Group Data Hints at Widespread Pegasus Spyware Infections](https://threatpost.com/nso-group-data-pegasus/167897/)
 <!-- THREAT:END -->
 ---
 
