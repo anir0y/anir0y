@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [NPM Package Steals Passwords via Chrome’s Account-Recovery Tool](https://threatpost.com/npm-package-steals-chrome-passwords/168004/)
+- [Indictments, Attribution Unlikely to Deter Chinese Hacking, Researchers Say](https://threatpost.com/indictments-attribution-chinese-hacking/168005/)
 - [Kubernetes Cloud Clusters Face Cyberattacks via Argo Workflows](https://threatpost.com/kubernetes-cyberattacks-argo-workflows/167997/)
 - [French Launch NSO Probe After Macron Believed Spyware Target](https://threatpost.com/french-launch-nso-probe-after-macron-believed-spyware-targe/167986/)
 - [Tracking Malware and Ransomware Domains in 2021](https://threatpost.com/tracking-malware-and-ransomware-domains-2021/167933/)
-- [MacOS Being Picked Apart by $49 XLoader Data Stealer](https://threatpost.com/macos-49-xloader-data-stealer/167971/)
-- [Researchers: NSO Group’s Pegasus Spyware Should Spark Bans, Apple Accountability](https://threatpost.com/nso-pegasus-spyware-bans-apple-accountability/167965/)
 <!-- THREAT:END -->
 ---
 
