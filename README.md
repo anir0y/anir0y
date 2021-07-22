@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Industrial Networks Exposed Through Cloud-Based Operational Tech](https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/)
 - [Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day](https://threatpost.com/apple-iphone-pegasus-zero-day/168040/)
 - [Microsoft Issues Windows 10 Workaround Fix for ‘SeriousSAM’ Bug](https://threatpost.com/win-10-serioussam/168034/)
 - [NPM Package Steals Passwords via Chrome’s Account-Recovery Tool](https://threatpost.com/npm-package-steals-chrome-passwords/168004/)
 - [Indictments, Attribution Unlikely to Deter Chinese Hacking, Researchers Say](https://threatpost.com/indictments-attribution-chinese-hacking/168005/)
-- [Kubernetes Cloud Clusters Face Cyberattacks via Argo Workflows](https://threatpost.com/kubernetes-cyberattacks-argo-workflows/167997/)
 <!-- THREAT:END -->
 ---
 
