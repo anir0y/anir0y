@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics](https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/)
+- [Phish Swims Past Email Security With Milanote Pages](https://threatpost.com/phish-email-security-milanote/168021/)
+- [Critical Jira Flaw in Atlassian Could Lead to RCE](https://threatpost.com/atlassian-critical-jira-flaw/168053/)
 - [Industrial Networks Exposed Through Cloud-Based Operational Tech](https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/)
 - [Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day](https://threatpost.com/apple-iphone-pegasus-zero-day/168040/)
-- [Microsoft Issues Windows 10 Workaround Fix for ‘SeriousSAM’ Bug](https://threatpost.com/win-10-serioussam/168034/)
-- [NPM Package Steals Passwords via Chrome’s Account-Recovery Tool](https://threatpost.com/npm-package-steals-chrome-passwords/168004/)
-- [Indictments, Attribution Unlikely to Deter Chinese Hacking, Researchers Say](https://threatpost.com/indictments-attribution-chinese-hacking/168005/)
 <!-- THREAT:END -->
 ---
 
