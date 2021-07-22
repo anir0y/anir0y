@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Baron Samedit](https://classroom.anir0y.in/post/tryhackme-sudovulnssamedit/)
 - [TryHackMe Metamorphosis](https://classroom.anir0y.in/post/tryhackme-metamorphosis/)
 - [TryHackMe Crack the hash](https://classroom.anir0y.in/post/tryhackme-crackthehash/)
 - [TryHackMe Simple CTF](https://classroom.anir0y.in/post/tryhackme-easyctf/)
 - [TryHackMe RazorBlack](https://classroom.anir0y.in/post/tryhackme-raz0rblack/)
-- [TryHackMe Linux Function Hooking](https://classroom.anir0y.in/post/tryhackme-linuxfunctionhooking/)
 <!-- CLASS:END -->
 
 ## Threat Post:
