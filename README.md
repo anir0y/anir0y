@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Kaseya Obtains Universal Decryptor for REvil Ransomware](https://threatpost.com/kaseya-universal-decryptor-revil-ransomware/168070/)
 - [FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics](https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/)
 - [Phish Swims Past Email Security With Milanote Pages](https://threatpost.com/phish-email-security-milanote/168021/)
 - [Critical Jira Flaw in Atlassian Could Lead to RCE](https://threatpost.com/atlassian-critical-jira-flaw/168053/)
 - [Industrial Networks Exposed Through Cloud-Based Operational Tech](https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/)
-- [Apple Issues Urgent iPhone Updates; None for Pegasus Zero-Day](https://threatpost.com/apple-iphone-pegasus-zero-day/168040/)
 <!-- THREAT:END -->
 ---
 
