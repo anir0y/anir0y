@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [FIN7’s Liquor Lure Compromises Law Firm with Backdoor](https://threatpost.com/fin7s-liquor-lure-law-firm-backdoor/168086/)
 - [Kaseya Obtains Universal Decryptor for REvil Ransomware](https://threatpost.com/kaseya-universal-decryptor-revil-ransomware/168070/)
 - [FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics](https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/)
 - [Phish Swims Past Email Security With Milanote Pages](https://threatpost.com/phish-email-security-milanote/168021/)
 - [Critical Jira Flaw in Atlassian Could Lead to RCE](https://threatpost.com/atlassian-critical-jira-flaw/168053/)
-- [Industrial Networks Exposed Through Cloud-Based Operational Tech](https://threatpost.com/industrial-networks-exposed-cloud-operational-tech/168024/)
 <!-- THREAT:END -->
 ---
 
