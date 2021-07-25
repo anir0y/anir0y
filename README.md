@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Agent Sudo](https://classroom.anir0y.in/post/tryhackme-agentsudoctf/)
 - [TryHackMe Overpass 2 - Hacked](https://classroom.anir0y.in/post/tryhackme-overpass2hacked/)
 - [TryHackMe Baron Samedit](https://classroom.anir0y.in/post/tryhackme-sudovulnssamedit/)
 - [TryHackMe Metamorphosis](https://classroom.anir0y.in/post/tryhackme-metamorphosis/)
 - [TryHackMe Crack the hash](https://classroom.anir0y.in/post/tryhackme-crackthehash/)
-- [TryHackMe Simple CTF](https://classroom.anir0y.in/post/tryhackme-easyctf/)
 <!-- CLASS:END -->
 
 ## Threat Post:
