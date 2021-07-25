@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Giveaway July 2021](https://classroom.anir0y.in/post/giveaway-1/)
 - [TryHackMe Agent Sudo](https://classroom.anir0y.in/post/tryhackme-agentsudoctf/)
 - [TryHackMe Overpass 2 - Hacked](https://classroom.anir0y.in/post/tryhackme-overpass2hacked/)
 - [TryHackMe Baron Samedit](https://classroom.anir0y.in/post/tryhackme-sudovulnssamedit/)
 - [TryHackMe Metamorphosis](https://classroom.anir0y.in/post/tryhackme-metamorphosis/)
-- [TryHackMe Crack the hash](https://classroom.anir0y.in/post/tryhackme-crackthehash/)
 <!-- CLASS:END -->
 
 ## Threat Post:
