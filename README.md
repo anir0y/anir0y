@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [The True Impact of Ransomware Attacks](https://threatpost.com/true-impact-of-ransomware-attacks/168029/)
 - [Discord CDN and API Abuses Drive Wave of Malware Detections](https://threatpost.com/discord-malware-researchers/168096/)
 - [5 Steps to Improving Ransomware Resiliency](https://threatpost.com/improving-ransomware-resiliency/168091/)
 - [FIN7’s Liquor Lure Compromises Law Firm with Backdoor](https://threatpost.com/fin7s-liquor-lure-law-firm-backdoor/168086/)
 - [Kaseya Obtains Universal Decryptor for REvil Ransomware](https://threatpost.com/kaseya-universal-decryptor-revil-ransomware/168070/)
-- [FBI: Cybercriminals Eyeing Broadcast Disruption at Tokyo Olympics](https://threatpost.com/fbi-cybercriminals-broadcast-disruption-tokyo-olympics/168063/)
 <!-- THREAT:END -->
 ---
 
