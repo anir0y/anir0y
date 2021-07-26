@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Babuk Ransomware Gang Ransomed, New Forum Stuffed With Porn](https://threatpost.com/babuk-ransomware-gang-ransomed-forum-stuffed-porn/168169/)
 - [Microsoft Rushes Fix for ‘PetitPotam’ Attack PoC](https://threatpost.com/microsoft-petitpotam-poc/168163/)
 - [Malware Makers Using ‘Exotic’ Programming Languages](https://threatpost.com/malware-makers-using-exotic-programming-languages/168117/)
 - [The True Impact of Ransomware Attacks](https://threatpost.com/true-impact-of-ransomware-attacks/168029/)
 - [Discord CDN and API Abuses Drive Wave of Malware Detections](https://threatpost.com/discord-malware-researchers/168096/)
-- [5 Steps to Improving Ransomware Resiliency](https://threatpost.com/improving-ransomware-resiliency/168091/)
 <!-- THREAT:END -->
 ---
 
