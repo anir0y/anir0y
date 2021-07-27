@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Zimbra Server Bugs Could Lead to Email Plundering](https://threatpost.com/zimbra-server-bugs-email-plundering/168188/)
 - [Three Zero-Day Bugs Plague Kaseya Unitrends Backup Servers](https://threatpost.com/zero-days-kaseya-unitrends-backup-servers/168180/)
 - [Apple Patches Actively Exploited Zero-Day in iOS, MacOS](https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/)
 - [Podcast: IoT Piranhas Are Swarming Industrial Controls](https://threatpost.com/podcast-iot-industrial-controls/168078/)
 - [Babuk Ransomware Gang Ransomed, New Forum Stuffed With Porn](https://threatpost.com/babuk-ransomware-gang-ransomed-forum-stuffed-porn/168169/)
-- [Microsoft Rushes Fix for ‘PetitPotam’ Attack PoC](https://threatpost.com/microsoft-petitpotam-poc/168163/)
 <!-- THREAT:END -->
 ---
 
