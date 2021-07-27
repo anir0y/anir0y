@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Apple Patches Actively Exploited Zero-Day in iOS, MacOS](https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/)
 - [Podcast: IoT Piranhas Are Swarming Industrial Controls](https://threatpost.com/podcast-iot-industrial-controls/168078/)
 - [Babuk Ransomware Gang Ransomed, New Forum Stuffed With Porn](https://threatpost.com/babuk-ransomware-gang-ransomed-forum-stuffed-porn/168169/)
 - [Microsoft Rushes Fix for ‘PetitPotam’ Attack PoC](https://threatpost.com/microsoft-petitpotam-poc/168163/)
 - [Malware Makers Using ‘Exotic’ Programming Languages](https://threatpost.com/malware-makers-using-exotic-programming-languages/168117/)
-- [The True Impact of Ransomware Attacks](https://threatpost.com/true-impact-of-ransomware-attacks/168029/)
 <!-- THREAT:END -->
 ---
 
