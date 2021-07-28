@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Podcast: Why Securing Active Directory Is a Nightmare](https://threatpost.com/podcast-securing-active-directory-nightmare/168203/)
 - [No More Ransom Saves Victims Nearly €1 billion Over 5 Years](https://threatpost.com/no-more-ransom-saves-victims-e1-5-years/168192/)
 - [Zimbra Server Bugs Could Lead to Email Plundering](https://threatpost.com/zimbra-server-bugs-email-plundering/168188/)
 - [Three Zero-Day Bugs Plague Kaseya Unitrends Backup Servers](https://threatpost.com/zero-days-kaseya-unitrends-backup-servers/168180/)
 - [Apple Patches Actively Exploited Zero-Day in iOS, MacOS](https://threatpost.com/apple-patches-actively-exploited-zero-day-in-ios-macos/168177/)
-- [Podcast: IoT Piranhas Are Swarming Industrial Controls](https://threatpost.com/podcast-iot-industrial-controls/168078/)
 <!-- THREAT:END -->
 ---
 
