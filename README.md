@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Six Malicious Linux Shell Scripts Used to Evade Defenses and How to Stop Them](https://threatpost.com/six-malicious-linux-shell-scripts-how-to-stop-them/168127/)
 - [BlackMatter & Haron: Evil Ransomware Newborns or Rebirths](https://threatpost.com/ransomware-gangs-haron-blackmatter/168212/)
 - [Reboot of PunkSpider Tool at DEF CON Stirs Debate](https://threatpost.com/punkspider-def-con-debate/168223/)
 - [Podcast: Why Securing Active Directory Is a Nightmare](https://threatpost.com/podcast-securing-active-directory-nightmare/168203/)
 - [No More Ransom Saves Victims Nearly €1 billion Over 5 Years](https://threatpost.com/no-more-ransom-saves-victims-e1-5-years/168192/)
-- [Zimbra Server Bugs Could Lead to Email Plundering](https://threatpost.com/zimbra-server-bugs-email-plundering/168188/)
 <!-- THREAT:END -->
 ---
 
