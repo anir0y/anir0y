@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [CISA’s Top 30 Bugs: One’s Old Enough to Buy Beer](https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/)
 - [Israeli Government Agencies Visit NSO Group Offices](https://threatpost.com/government-nso-offices/168241/)
 - [Six Malicious Linux Shell Scripts Used to Evade Defenses and How to Stop Them](https://threatpost.com/six-malicious-linux-shell-scripts-how-to-stop-them/168127/)
 - [BlackMatter & Haron: Evil Ransomware Newborns or Rebirths](https://threatpost.com/ransomware-gangs-haron-blackmatter/168212/)
 - [Reboot of PunkSpider Tool at DEF CON Stirs Debate](https://threatpost.com/punkspider-def-con-debate/168223/)
-- [Podcast: Why Securing Active Directory Is a Nightmare](https://threatpost.com/podcast-securing-active-directory-nightmare/168203/)
 <!-- THREAT:END -->
 ---
 
