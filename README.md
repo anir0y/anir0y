@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [NSA Warns Public Networks are Hacker Hotbeds](https://threatpost.com/nsa-warns-public-networks-are-hacker-hotbeds/168268/)
 - [Novel Meteor Wiper Used in Attack that Crippled Iranian Train System](https://threatpost.com/novel-meteor-wiper-used-in-attack-that-crippled-iranian-train-system/168262/)
 - [UC San Diego Health Breach Tied to Phishing Attack](https://threatpost.com/uc-san-diego-health-breach/168250/)
 - [CISA’s Top 30 Bugs: One’s Old Enough to Buy Beer](https://threatpost.com/cisa-top-bugs-old-enough-to-buy-beer/168247/)
 - [Israeli Government Agencies Visit NSO Group Offices](https://threatpost.com/government-nso-offices/168241/)
-- [Six Malicious Linux Shell Scripts Used to Evade Defenses and How to Stop Them](https://threatpost.com/six-malicious-linux-shell-scripts-how-to-stop-them/168127/)
 <!-- THREAT:END -->
 ---
 
