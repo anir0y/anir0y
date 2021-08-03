@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [‘DeadRinger’ Targeted Exchange Servers Long Before Discovery](https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/)
 - [‘PwnedPiper’: Devastating Bugs in >80% of Hospital Pneumatics](https://threatpost.com/pwnedpiper-bugs-hospital-pneumatics/168277/)
 - [Chipotle Emails Serve Up Phishing Lures](https://threatpost.com/chipotle-serves-up-lures/168279/)
 - [NSA Warns Public Networks are Hacker Hotbeds](https://threatpost.com/nsa-warns-public-networks-are-hacker-hotbeds/168268/)
 - [Novel Meteor Wiper Used in Attack that Crippled Iranian Train System](https://threatpost.com/novel-meteor-wiper-used-in-attack-that-crippled-iranian-train-system/168262/)
-- [UC San Diego Health Breach Tied to Phishing Attack](https://threatpost.com/uc-san-diego-health-breach/168250/)
 <!-- THREAT:END -->
 ---
 
