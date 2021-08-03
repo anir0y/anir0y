@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Iranian APT Lures Defense Contractor in Catfishing-Malware Scam](https://threatpost.com/iranian-apt-defense-contractor-catfish/168332/)
+- [Ransomware Volumes Hit Record Highs as 2021 Wears On](https://threatpost.com/ransomware-volumes-record-highs-2021/168327/)
 - [Raccoon Stealer Bundles Malware, Propagates Via Google SEO](https://threatpost.com/raccoon-stealer-google-seo/168301/)
 - [‘DeadRinger’ Targeted Exchange Servers Long Before Discovery](https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/)
 - [‘PwnedPiper’: Devastating Bugs in >80% of Hospital Pneumatics](https://threatpost.com/pwnedpiper-bugs-hospital-pneumatics/168277/)
-- [Chipotle Emails Serve Up Phishing Lures](https://threatpost.com/chipotle-serves-up-lures/168279/)
-- [NSA Warns Public Networks are Hacker Hotbeds](https://threatpost.com/nsa-warns-public-networks-are-hacker-hotbeds/168268/)
 <!-- THREAT:END -->
 ---
 
