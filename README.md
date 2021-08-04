@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [‘I’m Calling About Your Car Warranty’, aka PII Hijinx](https://threatpost.com/im-calling-about-your-car-warranty-aka-pii-hijinx/168375/)
 - [Black Hat: Security Bugs Allow Takeover of Capsule Hotel Rooms](https://threatpost.com/security-bugs-takeover-capsule-hotel/168376/)
 - [Black Hat: Let’s All Help Cyber-Immunize Each Other](https://threatpost.com/black-hat-usa-2021-mitigating-cyber-and-covid/168361/)
 - [Phishing Campaign Dangles SharePoint File-Shares](https://threatpost.com/phishing-sharepoint-file-shares/168356/)
 - [We COVID-Clicked on Garbage, Report Finds: Podcast](https://threatpost.com/we-covid-clicked-on-garbage-report-podcast/168340/)
-- [Iranian APT Lures Defense Contractor in Catfishing-Malware Scam](https://threatpost.com/iranian-apt-defense-contractor-catfish/168332/)
 <!-- THREAT:END -->
 ---
 
