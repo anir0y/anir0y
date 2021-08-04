@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Phishing Campaign Dangles SharePoint File-Shares](https://threatpost.com/phishing-sharepoint-file-shares/168356/)
 - [We COVID-Clicked on Garbage, Report Finds: Podcast](https://threatpost.com/we-covid-clicked-on-garbage-report-podcast/168340/)
 - [Iranian APT Lures Defense Contractor in Catfishing-Malware Scam](https://threatpost.com/iranian-apt-defense-contractor-catfish/168332/)
 - [Ransomware Volumes Hit Record Highs as 2021 Wears On](https://threatpost.com/ransomware-volumes-record-highs-2021/168327/)
 - [Raccoon Stealer Bundles Malware, Propagates Via Google SEO](https://threatpost.com/raccoon-stealer-google-seo/168301/)
-- [‘DeadRinger’ Targeted Exchange Servers Long Before Discovery](https://threatpost.com/deadringer-targeted-exchange-servers-before-discovery/168300/)
 <!-- THREAT:END -->
 ---
 
