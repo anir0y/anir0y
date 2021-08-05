@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Mobile Malware Analysis](https://classroom.anir0y.in/post/tryhackme-mma/)
 - [TryHackMe Relevant](https://classroom.anir0y.in/post/tryhackme-relevant/)
 - [TryHackMe Linux Strength Training](https://classroom.anir0y.in/post/tryhackme-linuxstrengthtraining/)
 - [TryHackMe Sweettooth Inc.](https://classroom.anir0y.in/post/tryhackme-sweettoothinc/)
 - [Giveaway July 2021](https://classroom.anir0y.in/post/giveaway-1/)
-- [TryHackMe Agent Sudo](https://classroom.anir0y.in/post/tryhackme-agentsudoctf/)
 <!-- CLASS:END -->
 
 ## Threat Post:
