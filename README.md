@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Auditors: Feds’ Cybersecurity Gets the Dunce Cap](https://threatpost.com/auditors-feds-poor-cybersecurity-dunce-cap/168418/)
 - [MacOS Flaw in Telegram Retrieves Deleted Messages](https://threatpost.com/macos-flaw-in-telegram-retrieves-deleted-messages/168412/)
 - [Black Hat: Microsoft’s Patch for Windows Hello Bypass Bug is Faulty, Researchers Say](https://threatpost.com/microsofts-patch-windows-hello-faulty/168392/)
 - [Black Hat: Charming Kitten  Leaves More Paw Prints](https://threatpost.com/black-hat-charming-kitten-opsec-goofs-training-videos/168394/)
 - [‘I’m Calling About Your Car Warranty’, aka PII Hijinx](https://threatpost.com/im-calling-about-your-car-warranty-aka-pii-hijinx/168375/)
-- [Black Hat: Security Bugs Allow Takeover of Capsule Hotel Rooms](https://threatpost.com/security-bugs-takeover-capsule-hotel/168376/)
 <!-- THREAT:END -->
 ---
 
