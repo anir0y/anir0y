@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Zoom Settlement: An $85M Business Case for Security Investment](https://threatpost.com/zoom-settlement-85m-security-investment/168445/)
+- [Angry Affiliate Leaks Conti Ransomware Gang Playbook](https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442/)
 - [Black Hat: New CISA Head Woos Crowd With Public-Private Task Force](https://threatpost.com/cisa-head-woos-security-crowd/168426/)
 - [Auditors: Feds’ Cybersecurity Gets the Dunce Cap](https://threatpost.com/auditors-feds-poor-cybersecurity-dunce-cap/168418/)
 - [MacOS Flaw in Telegram Retrieves Deleted Messages](https://threatpost.com/macos-flaw-in-telegram-retrieves-deleted-messages/168412/)
-- [Black Hat: Microsoft’s Patch for Windows Hello Bypass Bug is Faulty, Researchers Say](https://threatpost.com/microsofts-patch-windows-hello-faulty/168392/)
-- [Black Hat: Charming Kitten  Leaves More Paw Prints](https://threatpost.com/black-hat-charming-kitten-opsec-goofs-training-videos/168394/)
 <!-- THREAT:END -->
 ---
 
