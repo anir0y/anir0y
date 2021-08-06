@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Amazon Kindle Vulnerable to Malicious EBooks](https://threatpost.com/amazon-kindle-malicious-ebooks/168454/)
 - [Critical Cisco Bug in VPN Routers Allows Remote Takeover](https://threatpost.com/critical-cisco-bug-vpn-routers/168449/)
 - [Zoom Settlement: An $85M Business Case for Security Investment](https://threatpost.com/zoom-settlement-85m-security-investment/168445/)
 - [Angry Affiliate Leaks Conti Ransomware Gang Playbook](https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442/)
 - [Black Hat: New CISA Head Woos Crowd With Public-Private Task Force](https://threatpost.com/cisa-head-woos-security-crowd/168426/)
-- [Auditors: Feds’ Cybersecurity Gets the Dunce Cap](https://threatpost.com/auditors-feds-poor-cybersecurity-dunce-cap/168418/)
 <!-- THREAT:END -->
 ---
 
