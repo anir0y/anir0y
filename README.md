@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cutting Through the Noise from Daily Alerts](https://threatpost.com/cutting-through-the-noise-from-daily-alerts/168319/)
 - [Golang Cryptomining Worm Offers 15% Speed Boost](https://threatpost.com/golang-cryptomining-worm-speed-boost/168456/)
 - [Amazon Kindle Vulnerable to Malicious EBooks](https://threatpost.com/amazon-kindle-malicious-ebooks/168454/)
 - [Critical Cisco Bug in VPN Routers Allows Remote Takeover](https://threatpost.com/critical-cisco-bug-vpn-routers/168449/)
 - [Zoom Settlement: An $85M Business Case for Security Investment](https://threatpost.com/zoom-settlement-85m-security-investment/168445/)
-- [Angry Affiliate Leaks Conti Ransomware Gang Playbook](https://threatpost.com/affiliate-leaks-conti-ransomware-playbook/168442/)
 <!-- THREAT:END -->
 ---
 
