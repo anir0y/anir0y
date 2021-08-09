@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [‘Glowworm’ Attack Turns Power Light Flickers into Audio](https://threatpost.com/glowworm-attack-light-flickers-audio/168501/)
 - [Black Hat: Scaling Automated Disinformation for Misery and Profit](https://threatpost.com/scaling-automated-disinformation/168484/)
 - [Auth Bypass Bug Exploited, Affecting Millions of Routers](https://threatpost.com/auth-bypass-bug-routers-exploited/168491/)
 - [Android Malware ‘FlyTrap’ Hijacks Facebook Accounts](https://threatpost.com/android-malware-flytrap-facebook/168463/)
 - [Cutting Through the Noise from Daily Alerts](https://threatpost.com/cutting-through-the-noise-from-daily-alerts/168319/)
-- [Golang Cryptomining Worm Offers 15% Speed Boost](https://threatpost.com/golang-cryptomining-worm-speed-boost/168456/)
 <!-- THREAT:END -->
 ---
 
