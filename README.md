@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Black Hat: Scaling Automated Disinformation for Misery and Profit](https://threatpost.com/scaling-automated-disinformation/168484/)
+- [Auth Bypass Bug Exploited, Affecting Millions of Routers](https://threatpost.com/auth-bypass-bug-routers-exploited/168491/)
 - [Android Malware ‘FlyTrap’ Hijacks Facebook Accounts](https://threatpost.com/android-malware-flytrap-facebook/168463/)
 - [Cutting Through the Noise from Daily Alerts](https://threatpost.com/cutting-through-the-noise-from-daily-alerts/168319/)
 - [Golang Cryptomining Worm Offers 15% Speed Boost](https://threatpost.com/golang-cryptomining-worm-speed-boost/168456/)
-- [Amazon Kindle Vulnerable to Malicious EBooks](https://threatpost.com/amazon-kindle-malicious-ebooks/168454/)
-- [Critical Cisco Bug in VPN Routers Allows Remote Takeover](https://threatpost.com/critical-cisco-bug-vpn-routers/168449/)
 <!-- THREAT:END -->
 ---
 
