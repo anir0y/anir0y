@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Fuzz Off: How to Shake Up Code to Get It Right – Podcast](https://threatpost.com/fuzz-off-how-to-shake-up-code-to-get-it-right-podcast/168487/)
 - [1M Stolen Credit Cards Hit Dark Web for Free](https://threatpost.com/1m-stolen-credit-cards-dark-web/168514/)
 - [‘Glowworm’ Attack Turns Power Light Flickers into Audio](https://threatpost.com/glowworm-attack-light-flickers-audio/168501/)
 - [Black Hat: Scaling Automated Disinformation for Misery and Profit](https://threatpost.com/scaling-automated-disinformation/168484/)
 - [Auth Bypass Bug Exploited, Affecting Millions of Routers](https://threatpost.com/auth-bypass-bug-routers-exploited/168491/)
-- [Android Malware ‘FlyTrap’ Hijacks Facebook Accounts](https://threatpost.com/android-malware-flytrap-facebook/168463/)
 <!-- THREAT:END -->
 ---
 
