@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [eCh0raix Ransomware Variant Targets QNAP, Synology NAS Devices](https://threatpost.com/ech0raix-ransomware-variant-qnap-synology-nas-devices/168516/)
 - [Chaos Malware Walks Line Between Ransomware and Wiper](https://threatpost.com/chaos-malware-ransomware-wiper/168520/)
 - [Fuzz Off: How to Shake Up Code to Get It Right – Podcast](https://threatpost.com/fuzz-off-how-to-shake-up-code-to-get-it-right-podcast/168487/)
 - [1M Stolen Credit Cards Hit Dark Web for Free](https://threatpost.com/1m-stolen-credit-cards-dark-web/168514/)
 - [‘Glowworm’ Attack Turns Power Light Flickers into Audio](https://threatpost.com/glowworm-attack-light-flickers-audio/168501/)
-- [Black Hat: Scaling Automated Disinformation for Misery and Profit](https://threatpost.com/scaling-automated-disinformation/168484/)
 <!-- THREAT:END -->
 ---
 
