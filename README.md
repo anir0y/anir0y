@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Accenture Confirms LockBit Ransomware Attack](https://threatpost.com/accenture-lockbit-ransomware-attack/168594/)
 - [NSA Watchdog Will Review Tucker Carlson Spying Claims](https://threatpost.com/nsa-watchdog-review-tucker-carlson-spying/168590/)
 - [‘Friends’ Reunion Anchors Video Swindle](https://threatpost.com/friends-reunion-video-swindle/168583/)
 - [Kaseya’s ‘Master Key’ to REvil Attack Leaked Online](https://threatpost.com/kaseyas-master-key-to-revil-attack-leaked-online/168565/)
 - [SAP Patches Nine Critical & High-Severity Bugs](https://threatpost.com/sap-patches-critical-bugs/168558/)
-- [Crypto Hack Earned Crooks $600 Million](https://threatpost.com/crypto-hack-600-million/168554/)
 <!-- THREAT:END -->
 ---
 
