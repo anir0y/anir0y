@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [‘Friends’ Reunion Anchors Video Swindle](https://threatpost.com/friends-reunion-video-swindle/168583/)
 - [Kaseya’s ‘Master Key’ to REvil Attack Leaked Online](https://threatpost.com/kaseyas-master-key-to-revil-attack-leaked-online/168565/)
 - [SAP Patches Nine Critical & High-Severity Bugs](https://threatpost.com/sap-patches-critical-bugs/168558/)
 - [Crypto Hack Earned Crooks $600 Million](https://threatpost.com/crypto-hack-600-million/168554/)
 - [Connected Farms Easy Pickings for Global Food Supply-Chain Hack](https://threatpost.com/connected-farms-food-supply-chain-hack/168547/)
-- [Actively Exploited Windows Zero-Day Gets a Patch](https://threatpost.com/exploited-windows-zero-day-patch/168539/)
 <!-- THREAT:END -->
 ---
 
