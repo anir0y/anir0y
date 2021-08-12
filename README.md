@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ransomware Payments Explode Amid ‘Quadruple Extortion’](https://threatpost.com/ransomware-payments-quadruple-extortion/168622/)
 - [QR Code Scammers Get Creative with Bitcoin ATMs](https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/)
 - [Microsoft Warns: Another Unpatched PrintNightmare Zero-Day](https://threatpost.com/microsoft-unpatched-printnightmare-zero-day/168613/)
 - [Accenture Confirms LockBit Ransomware Attack](https://threatpost.com/accenture-lockbit-ransomware-attack/168594/)
 - [NSA Watchdog Will Review Tucker Carlson Spying Claims](https://threatpost.com/nsa-watchdog-review-tucker-carlson-spying/168590/)
-- [‘Friends’ Reunion Anchors Video Swindle](https://threatpost.com/friends-reunion-video-swindle/168583/)
 <!-- THREAT:END -->
 ---
 
