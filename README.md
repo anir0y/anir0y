@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [AdLoad Malware 2021 Samples Skate Past Apple XProtect](https://threatpost.com/adload-malware-apple-xprotect/168634/)
 - [Ransomware Payments Explode Amid ‘Quadruple Extortion’](https://threatpost.com/ransomware-payments-quadruple-extortion/168622/)
 - [QR Code Scammers Get Creative with Bitcoin ATMs](https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/)
 - [Microsoft Warns: Another Unpatched PrintNightmare Zero-Day](https://threatpost.com/microsoft-unpatched-printnightmare-zero-day/168613/)
 - [Accenture Confirms LockBit Ransomware Attack](https://threatpost.com/accenture-lockbit-ransomware-attack/168594/)
-- [NSA Watchdog Will Review Tucker Carlson Spying Claims](https://threatpost.com/nsa-watchdog-review-tucker-carlson-spying/168590/)
 <!-- THREAT:END -->
 ---
 
