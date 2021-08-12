@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [QR Code Scammers Get Creative with Bitcoin ATMs](https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/)
 - [Microsoft Warns: Another Unpatched PrintNightmare Zero-Day](https://threatpost.com/microsoft-unpatched-printnightmare-zero-day/168613/)
 - [Accenture Confirms LockBit Ransomware Attack](https://threatpost.com/accenture-lockbit-ransomware-attack/168594/)
 - [NSA Watchdog Will Review Tucker Carlson Spying Claims](https://threatpost.com/nsa-watchdog-review-tucker-carlson-spying/168590/)
 - [‘Friends’ Reunion Anchors Video Swindle](https://threatpost.com/friends-reunion-video-swindle/168583/)
-- [Kaseya’s ‘Master Key’ to REvil Attack Leaked Online](https://threatpost.com/kaseyas-master-key-to-revil-attack-leaked-online/168565/)
 <!-- THREAT:END -->
 ---
 
