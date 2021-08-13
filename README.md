@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Amazon’s Plan to Track Worker Keystrokes: A Sign of Controls to Come?](https://threatpost.com/amazons-track-worker-keystrokes/168687/)
 - [Cyberattackers Embrace CAPTCHAs to Hide Phishing, Malware](https://threatpost.com/cyberattackers-captchas-phishing-malware/168684/)
 - [SolarWinds 2.0 Could Ignite Financial Crisis – Podcast](https://threatpost.com/solarwinds-financial-crisis-podcast/168677/)
 - [Exchange Servers Under Active Attack via ProxyShell Bugs](https://threatpost.com/exchange-servers-attack-proxyshell/168661/)
 - [WordPress Sites Abused in Aggah Spear-Phishing Campaign](https://threatpost.com/aggah-wordpress-spearphishing/168657/)
-- [Rogue Marketplace AlphaBay Reboots](https://threatpost.com/rogue-marketplace-alphabay-reboots/168648/)
 <!-- THREAT:END -->
 ---
 
