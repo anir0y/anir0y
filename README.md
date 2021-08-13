@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [WordPress Sites Abused in Aggah Spear-Phishing Campaign](https://threatpost.com/aggah-wordpress-spearphishing/168657/)
 - [Rogue Marketplace AlphaBay Reboots](https://threatpost.com/rogue-marketplace-alphabay-reboots/168648/)
 - [Black Hat: Novel DNS Hack Spills Confidential Corp Data](https://threatpost.com/black-hat-novel-dns-hack/168636/)
 - [AdLoad Malware 2021 Samples Skate Past Apple XProtect](https://threatpost.com/adload-malware-apple-xprotect/168634/)
 - [Ransomware Payments Explode Amid ‘Quadruple Extortion’](https://threatpost.com/ransomware-payments-quadruple-extortion/168622/)
-- [QR Code Scammers Get Creative with Bitcoin ATMs](https://threatpost.com/qr-code-scammers-bitcoin-atms/168621/)
 <!-- THREAT:END -->
 ---
 
