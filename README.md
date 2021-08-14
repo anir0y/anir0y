@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Super-Spam](https://classroom.anir0y.in/post/tryhackme-superspamr/)
 - [TryHackMe Internal](https://classroom.anir0y.in/post/tryhackme-internal/)
 - [TryHackMe Mobile Malware Analysis](https://classroom.anir0y.in/post/tryhackme-mma/)
 - [TryHackMe Relevant](https://classroom.anir0y.in/post/tryhackme-relevant/)
 - [TryHackMe Linux Strength Training](https://classroom.anir0y.in/post/tryhackme-linuxstrengthtraining/)
-- [TryHackMe Sweettooth Inc.](https://classroom.anir0y.in/post/tryhackme-sweettoothinc/)
 <!-- CLASS:END -->
 
 ## Threat Post:
