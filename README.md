@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets](https://threatpost.com/valve-bug-unlimited-funds/168710/)
 - [XSS Bug in SEOPress WordPress Plugin Allows Site Takeover](https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/)
 - [100m T-Mobile Customer Records Purportedly Up for Sale](https://threatpost.com/t-mobile-investigates-100m-records/168689/)
 - [Amazon’s Plan to Track Worker Keystrokes: A Sign of Controls to Come?](https://threatpost.com/amazons-track-worker-keystrokes/168687/)
 - [Cyberattackers Embrace CAPTCHAs to Hide Phishing, Malware](https://threatpost.com/cyberattackers-captchas-phishing-malware/168684/)
-- [SolarWinds 2.0 Could Ignite Financial Crisis – Podcast](https://threatpost.com/solarwinds-financial-crisis-podcast/168677/)
 <!-- THREAT:END -->
 ---
 
