@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How to Reduce Exchange Server Downtime in Case of a Disaster?](https://threatpost.com/how-to-reduce-exchange-server-downtime/168344/)
 - [Phishing Costs Nearly Quadrupled Over 6 Years](https://threatpost.com/phishing-costs-quadrupled/168716/)
 - [Critical Valve Bug Lets Gamers Add Unlimited Funds to Steam Wallets](https://threatpost.com/valve-bug-unlimited-funds/168710/)
 - [XSS Bug in SEOPress WordPress Plugin Allows Site Takeover](https://threatpost.com/xss-bug-seopress-wordpress-plugin/168702/)
 - [100m T-Mobile Customer Records Purportedly Up for Sale](https://threatpost.com/t-mobile-investigates-100m-records/168689/)
-- [Amazon’s Plan to Track Worker Keystrokes: A Sign of Controls to Come?](https://threatpost.com/amazons-track-worker-keystrokes/168687/)
 <!-- THREAT:END -->
 ---
 
