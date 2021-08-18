@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Kerberos Authentication Spoofing: Don’t Bypass the Spec](https://threatpost.com/kerberos-authentication-spoofing/168767/)
 - [Unpatched Fortinet Bug Allows Firewall Takeovers](https://threatpost.com/unpatched-fortinet-bug-firewall-takeovers/168764/)
 - [HolesWarm Malware Exploits Unpatched Windows, Linux Servers](https://threatpost.com/holeswarm-malware-windows-linux/168759/)
 - [The Overlooked Security Risks of The Cloud](https://threatpost.com/security-risks-cloud/168754/)
 - [LockBit 2.0 Ransomware Proliferates Globally](https://threatpost.com/lockbit-ransomware-proliferates-globally/168746/)
-- [Bug in Millions of Flawed IoT Devices Lets Attackers Eavesdrop](https://threatpost.com/bug-iot-millions-devices-attackers-eavesdrop/168729/)
 <!-- THREAT:END -->
 ---
 
