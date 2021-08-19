@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How Ready Are You for a Ransomware Attack?](https://threatpost.com/how-ready-ransomware-attack/168837/)
+- [Critical Cisco Bug in Small Business Routers to Remain Unpatched](https://threatpost.com/critical-cisco-bug-routers-unpatched/168831/)
+- [InkySquid State Actor Exploiting Known IE Bugs](https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/)
 - [Windows EoP Bug Detailed by Google Project Zero](https://threatpost.com/windows-eop-bug-detailed-by-google-project-zero/168823/)
 - [COVID-19 Contact-Tracing Data Exposed, Fake Vax Cards Circulate](https://threatpost.com/covid-contact-tracing-exposed-fake-vax-cards/168821/)
-- [Postmortem on U.S. Census Hack Exposes Cybersecurity Failures](https://threatpost.com/postmortem-on-u-s-census-hack-exposes-cybersecurity-failures/168814/)
-- [Bogus Cryptomining Apps Infest Google Play](https://threatpost.com/bogus-cryptomining-apps-google-play/168785/)
-- [T-Mobile: >40 Million Customers’ Data Stolen](https://threatpost.com/t-mobile-40-million-customers-data-stolen/168778/)
 <!-- THREAT:END -->
 ---
 
