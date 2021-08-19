@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Postmortem on U.S. Census Hack Exposes Cybersecurity Failures](https://threatpost.com/postmortem-on-u-s-census-hack-exposes-cybersecurity-failures/168814/)
 - [Bogus Cryptomining Apps Infest Google Play](https://threatpost.com/bogus-cryptomining-apps-google-play/168785/)
 - [T-Mobile: >40 Million Customers’ Data Stolen](https://threatpost.com/t-mobile-40-million-customers-data-stolen/168778/)
 - [Memory Bugs in BlackBerry’s QNX Embedded OS Open Devices to Attacks](https://threatpost.com/blackberrys-qnx-devices-attacks/168772/)
 - [Kerberos Authentication Spoofing: Don’t Bypass the Spec](https://threatpost.com/kerberos-authentication-spoofing/168767/)
-- [Unpatched Fortinet Bug Allows Firewall Takeovers](https://threatpost.com/unpatched-fortinet-bug-firewall-takeovers/168764/)
 <!-- THREAT:END -->
 ---
 
