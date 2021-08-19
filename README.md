@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [What’s Next for T-Mobile and Its Customers? – Podcast](https://threatpost.com/whats-next-for-t-mobile-and-its-customers-podcast/168813/)
 - [How Ready Are You for a Ransomware Attack?](https://threatpost.com/how-ready-ransomware-attack/168837/)
 - [Critical Cisco Bug in Small Business Routers to Remain Unpatched](https://threatpost.com/critical-cisco-bug-routers-unpatched/168831/)
 - [InkySquid State Actor Exploiting Known IE Bugs](https://threatpost.com/inkysquid-exploiting-ie-bugs/168833/)
 - [Windows EoP Bug Detailed by Google Project Zero](https://threatpost.com/windows-eop-bug-detailed-by-google-project-zero/168823/)
-- [COVID-19 Contact-Tracing Data Exposed, Fake Vax Cards Circulate](https://threatpost.com/covid-contact-tracing-exposed-fake-vax-cards/168821/)
 <!-- THREAT:END -->
 ---
 
