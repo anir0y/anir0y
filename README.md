@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Windows EoP Bug Detailed by Google Project Zero](https://threatpost.com/windows-eop-bug-detailed-by-google-project-zero/168823/)
+- [COVID-19 Contact-Tracing Data Exposed, Fake Vax Cards Circulate](https://threatpost.com/covid-contact-tracing-exposed-fake-vax-cards/168821/)
 - [Postmortem on U.S. Census Hack Exposes Cybersecurity Failures](https://threatpost.com/postmortem-on-u-s-census-hack-exposes-cybersecurity-failures/168814/)
 - [Bogus Cryptomining Apps Infest Google Play](https://threatpost.com/bogus-cryptomining-apps-google-play/168785/)
 - [T-Mobile: >40 Million Customers’ Data Stolen](https://threatpost.com/t-mobile-40-million-customers-data-stolen/168778/)
-- [Memory Bugs in BlackBerry’s QNX Embedded OS Open Devices to Attacks](https://threatpost.com/blackberrys-qnx-devices-attacks/168772/)
-- [Kerberos Authentication Spoofing: Don’t Bypass the Spec](https://threatpost.com/kerberos-authentication-spoofing/168767/)
 <!-- THREAT:END -->
 ---
 
