@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Bounty Hacker](https://classroom.anir0y.in/post/tryhackme-cowboyhacker/)
 - [TryHackMe Hacking with PowerShell](https://classroom.anir0y.in/post/tryhackme-powershell/)
 - [TryHackMe Super-Spam](https://classroom.anir0y.in/post/tryhackme-superspamr/)
 - [TryHackMe Internal](https://classroom.anir0y.in/post/tryhackme-internal/)
 - [TryHackMe Mobile Malware Analysis](https://classroom.anir0y.in/post/tryhackme-mma/)
-- [TryHackMe Relevant](https://classroom.anir0y.in/post/tryhackme-relevant/)
 <!-- CLASS:END -->
 
 ## Threat Post:
