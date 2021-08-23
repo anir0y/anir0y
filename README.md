@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Windows 10 Admin Rights Gobbled by Razer Devices](https://threatpost.com/windows-10-admin-rights-razer-devices-mouse-peripherals/168855/)
 - [Managing Privileged Access to Secure the Post-COVID Perimeter](https://threatpost.com/privileged-access-covid-security/168860/)
 - [Attackers Actively Exploiting Realtek SDK Flaws](https://threatpost.com/attackers-exploiting-realtek/168856/)
 - [Web Censorship Systems Can Facilitate Massive DDoS Attacks](https://threatpost.com/censorship-systems-ddos-attacks/168853/)
 - [Nigerian Threat Actors Solicit Employees to Deploy Ransomware for Cut of Profits](https://threatpost.com/nigerian-solicits-employees-ransomware-profits/168849/)
-- [What’s Next for T-Mobile and Its Customers? – Podcast](https://threatpost.com/whats-next-for-t-mobile-and-its-customers-podcast/168813/)
 <!-- THREAT:END -->
 ---
 
