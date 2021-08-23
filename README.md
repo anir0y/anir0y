@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Attackers Actively Exploiting Realtek SDK Flaws](https://threatpost.com/attackers-exploiting-realtek/168856/)
 - [Web Censorship Systems Can Facilitate Massive DDoS Attacks](https://threatpost.com/censorship-systems-ddos-attacks/168853/)
 - [Nigerian Threat Actors Solicit Employees to Deploy Ransomware for Cut of Profits](https://threatpost.com/nigerian-solicits-employees-ransomware-profits/168849/)
 - [What’s Next for T-Mobile and Its Customers? – Podcast](https://threatpost.com/whats-next-for-t-mobile-and-its-customers-podcast/168813/)
 - [How Ready Are You for a Ransomware Attack?](https://threatpost.com/how-ready-ransomware-attack/168837/)
-- [Critical Cisco Bug in Small Business Routers to Remain Unpatched](https://threatpost.com/critical-cisco-bug-routers-unpatched/168831/)
 <!-- THREAT:END -->
 ---
 
