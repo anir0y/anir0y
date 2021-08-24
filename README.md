@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Custom WhatsApp Build Delivers Triada Malware](https://threatpost.com/custom-whatsapp-build-malware/168892/)
 - [Effective Threat-Hunting Queries in a Redacted World](https://threatpost.com/effective-threat-hunting-queries/168864/)
 - [Microsoft Spills 38 Million Sensitive Data Records Via Careless Power App Configs](https://threatpost.com/microsoft-38-million-sensitive-records-power-app/168885/)
 - [ProxyShell Attacks Pummel Unpatched Exchange Servers](https://threatpost.com/proxyshell-attacks-unpatched-exchange-servers/168879/)
 - [Windows 10 Admin Rights Gobbled by Razer Devices](https://threatpost.com/windows-10-admin-rights-razer-devices-mouse-peripherals/168855/)
-- [Managing Privileged Access to Secure the Post-COVID Perimeter](https://threatpost.com/privileged-access-covid-security/168860/)
 <!-- THREAT:END -->
 ---
 
