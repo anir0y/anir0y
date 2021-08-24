@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Poly Network Recoups $610M Stolen from DeFi Platform](https://threatpost.com/poly-network-recoups-610m-stolen-from-defi-platform/168906/)
 - [Pegasus Spyware Uses iPhone Zero-Click iMessage Zero-Day](https://threatpost.com/pegasus-spyware-uses-iphone-zero-click-imessage-zero-day/168899/)
 - [Custom WhatsApp Build Delivers Triada Malware](https://threatpost.com/custom-whatsapp-build-malware/168892/)
 - [Effective Threat-Hunting Queries in a Redacted World](https://threatpost.com/effective-threat-hunting-queries/168864/)
 - [Microsoft Spills 38 Million Sensitive Data Records Via Careless Power App Configs](https://threatpost.com/microsoft-38-million-sensitive-records-power-app/168885/)
-- [ProxyShell Attacks Pummel Unpatched Exchange Servers](https://threatpost.com/proxyshell-attacks-unpatched-exchange-servers/168879/)
 <!-- THREAT:END -->
 ---
 
