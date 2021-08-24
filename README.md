@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Spills 38 Million Sensitive Data Records Via Careless Power App Configs](https://threatpost.com/microsoft-38-million-sensitive-records-power-app/168885/)
 - [ProxyShell Attacks Pummel Unpatched Exchange Servers](https://threatpost.com/proxyshell-attacks-unpatched-exchange-servers/168879/)
 - [Windows 10 Admin Rights Gobbled by Razer Devices](https://threatpost.com/windows-10-admin-rights-razer-devices-mouse-peripherals/168855/)
 - [Managing Privileged Access to Secure the Post-COVID Perimeter](https://threatpost.com/privileged-access-covid-security/168860/)
 - [Attackers Actively Exploiting Realtek SDK Flaws](https://threatpost.com/attackers-exploiting-realtek/168856/)
-- [Web Censorship Systems Can Facilitate Massive DDoS Attacks](https://threatpost.com/censorship-systems-ddos-attacks/168853/)
 <!-- THREAT:END -->
 ---
 
