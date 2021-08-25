@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cisco Issues Critical Fixes for High-End Nexus Gear](https://threatpost.com/cisco-issues-critical-fixes-for-high-end-nexus-gear/168939/)
 - [Win10 Admin Rights Tossed Off by Yet Another Plug-In](https://threatpost.com/windows-10-admin-rights-steelseries-devices/168927/)
 - [US Media, Retailers Targeted by New SparklingGoblin APT](https://threatpost.com/sparklinggoblin-apt/168928/)
 - [California Man Hacked iCloud Accounts to Steal Nude Photos](https://threatpost.com/man-hacked-icloud/168923/)
 - [Poly Network Recoups $610M Stolen from DeFi Platform](https://threatpost.com/poly-network-recoups-610m-stolen-from-defi-platform/168906/)
-- [Pegasus Spyware Uses iPhone Zero-Click iMessage Zero-Day](https://threatpost.com/pegasus-spyware-uses-iphone-zero-click-imessage-zero-day/168899/)
 <!-- THREAT:END -->
 ---
 
