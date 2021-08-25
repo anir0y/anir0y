@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [US Media, Retailers Targeted by New SparklingGoblin APT](https://threatpost.com/sparklinggoblin-apt/168928/)
 - [California Man Hacked iCloud Accounts to Steal Nude Photos](https://threatpost.com/man-hacked-icloud/168923/)
 - [Poly Network Recoups $610M Stolen from DeFi Platform](https://threatpost.com/poly-network-recoups-610m-stolen-from-defi-platform/168906/)
 - [Pegasus Spyware Uses iPhone Zero-Click iMessage Zero-Day](https://threatpost.com/pegasus-spyware-uses-iphone-zero-click-imessage-zero-day/168899/)
 - [Custom WhatsApp Build Delivers Triada Malware](https://threatpost.com/custom-whatsapp-build-malware/168892/)
-- [Effective Threat-Hunting Queries in a Redacted World](https://threatpost.com/effective-threat-hunting-queries/168864/)
 <!-- THREAT:END -->
 ---
 
