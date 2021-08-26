@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [F5 Bug Could Lead to Complete System Takeover](https://threatpost.com/f5-critical-bug-system-takeover/168952/)
+- [Podcast: Ransomware Up x10: Disrupting Cybercrime Suppy Chains an Opportunity](https://threatpost.com/podcast-ransomware-up-tenfold-telecoms/168913/)
 - [Microsoft Breaks Silence on Barrage of ProxyShell Attacks](https://threatpost.com/microsoft-barrage-proxyshell-attacks/168943/)
 - [Cisco Issues Critical Fixes for High-End Nexus Gear](https://threatpost.com/cisco-issues-critical-fixes-for-high-end-nexus-gear/168939/)
 - [Win10 Admin Rights Tossed Off by Yet Another Plug-In](https://threatpost.com/windows-10-admin-rights-steelseries-devices/168927/)
-- [US Media, Retailers Targeted by New SparklingGoblin APT](https://threatpost.com/sparklinggoblin-apt/168928/)
-- [California Man Hacked iCloud Accounts to Steal Nude Photos](https://threatpost.com/man-hacked-icloud/168923/)
 <!-- THREAT:END -->
 ---
 
