@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Critical Azure Cosmos DB Bug Allows Full Cloud Account Takeover](https://threatpost.com/azure-cosmos-db-bug-cloud/168986/)
 - [Ragnarok Ransomware Gang Bites the Dust, Releases Decryptor](https://threatpost.com/ragnarok-releases-decryptor/168976/)
 - [Top Strategies That Define the Success of a Modern Vulnerability Management Program](https://threatpost.com/top-strategies-that-define-the-success-of-a-modern-vulnerability-management-program/168604/)
 - [‘Pay Ransom’ Screen? Too Late, Humpty Dumpty – Podcast](https://threatpost.com/ransom-humpty-dumpty-podcast/168962/)
 - [Man Sues Parents of Teens Who Hijacked Nearly $1M in Bitcoin](https://threatpost.com/man-sues-parents-teens-hijacked-1m-bitcoin/168964/)
-- [F5 Bug Could Lead to Complete System Takeover](https://threatpost.com/f5-critical-bug-system-takeover/168952/)
 <!-- THREAT:END -->
 ---
 
