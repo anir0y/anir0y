@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [T-Mobile’s Security Is ‘Awful,’ Says Purported Thief](https://threatpost.com/t-mobile-security-awful-thief/169011/)
 - [Parallels Offers ‘Inconvenient’ Fix for High-Severity Bug](https://threatpost.com/parallels-inconvenient-fix/168997/)
 - [Experts: WH Cybersecurity Summit Should Be Followed by Regulation, Enforcement](https://threatpost.com/wh-cybersecurity-summit-regulation-enforcement/169002/)
 - [Winning the Cyber-Defense Race: Understand the Finish Line](https://threatpost.com/winning-cyber-defense-race/168996/)
 - [FIN8 Targets US Bank With New ‘Sardonic’ Backdoor](https://threatpost.com/fin8-bank-sardonic-backdoor/168982/)
-- [Critical Azure Cosmos DB Bug Allows Full Cloud Account Takeover](https://threatpost.com/azure-cosmos-db-bug-cloud/168986/)
 <!-- THREAT:END -->
 ---
 
