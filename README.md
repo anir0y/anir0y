@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Army Testing Facial Recognition in Child-Care Centers](https://threatpost.com/army-facial-recognition-child-care/169036/)
 - [The Underground Economy: Recon, Weaponization & Delivery for Account Takeovers](https://threatpost.com/underground-economy-account-takeovers/169032/)
 - [Microsoft Exchange ‘ProxyToken’ Bug Allows Email Snooping](https://threatpost.com/microsoft-exchange-proxytoken-email/169030/)
 - [LockBit Gang to Publish 103GB of Bangkok Air Customer Data](https://threatpost.com/lockbit-bangkok-airways-breach/169019/)
 - [T-Mobile’s Security Is ‘Awful,’ Says Purported Thief](https://threatpost.com/t-mobile-security-awful-thief/169011/)
-- [Parallels Offers ‘Inconvenient’ Fix for High-Severity Bug](https://threatpost.com/parallels-inconvenient-fix/168997/)
 <!-- THREAT:END -->
 ---
 
