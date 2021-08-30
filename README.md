@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Exchange ‘ProxyToken’ Bug Allows Email Snooping](https://threatpost.com/microsoft-exchange-proxytoken-email/169030/)
 - [LockBit Gang to Publish 103GB of Bangkok Air Customer Data](https://threatpost.com/lockbit-bangkok-airways-breach/169019/)
 - [T-Mobile’s Security Is ‘Awful,’ Says Purported Thief](https://threatpost.com/t-mobile-security-awful-thief/169011/)
 - [Parallels Offers ‘Inconvenient’ Fix for High-Severity Bug](https://threatpost.com/parallels-inconvenient-fix/168997/)
 - [Experts: WH Cybersecurity Summit Should Be Followed by Regulation, Enforcement](https://threatpost.com/wh-cybersecurity-summit-regulation-enforcement/169002/)
-- [Winning the Cyber-Defense Race: Understand the Finish Line](https://threatpost.com/winning-cyber-defense-race/168996/)
 <!-- THREAT:END -->
 ---
 
