@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Fortress Home Security Open to Remote Disarmament](https://threatpost.com/fortress-home-security-remote-disarmament/169069/)
+- [Cream Finance DeFi Platform Rooked For $29M](https://threatpost.com/cream-finance-defi-29m/169077/)
 - [Proxyware Services Open Orgs to Abuse – Report](https://threatpost.com/abuse-of-proxyware-services/169068/)
 - [WooCommerce Pricing Plugin Allows Malicious Code-Injection](https://threatpost.com/woocommerce-plugin-malicious/169063/)
 - [QNAP Is Latest to Get Dinged by OpenSSL Bugs Fallout](https://threatpost.com/qnap-openssl-bugs/169054/)
-- [Top 3 API Vulnerabilities: Why Apps are Pwned by Cyberattackers](https://threatpost.com/top-3-api-vulnerabilities-cyberattackers/169048/)
-- [LockFile Ransomware Uses Never-Before Seen Encryption to Avoid Detection](https://threatpost.com/lockfile-ransomware-avoid-detection/169042/)
 <!-- THREAT:END -->
 ---
 
