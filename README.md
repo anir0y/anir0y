@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
-- [Top 3 APIs Vulnerabilities: Why Apps are Owned by Cyberattackers](https://threatpost.com/top-3-api-vulnerabilities-cyberattackers/169048/)
+- [QNAP Is Latest to Get Dinged by OpenSSL Bugs Fallout](https://threatpost.com/qnap-openssl-bugs/169054/)
+- [Top 3 API Vulnerabilities: Why Apps are Pwned by Cyberattackers](https://threatpost.com/top-3-api-vulnerabilities-cyberattackers/169048/)
 - [LockFile Ransomware Uses Never-Before Seen Encryption to Avoid Detection](https://threatpost.com/lockfile-ransomware-avoid-detection/169042/)
 - [HPE Warns Sudo Bug Gives Attackers Root Privileges to Aruba Platform](https://threatpost.com/hpe-sudo-bug-aruba-platform/169038/)
 - [Army Testing Facial Recognition in Child-Care Centers](https://threatpost.com/army-facial-recognition-child-care/169036/)
-- [The Underground Economy: Recon, Weaponization & Delivery for Account Takeovers](https://threatpost.com/underground-economy-account-takeovers/169032/)
 <!-- THREAT:END -->
 ---
 
