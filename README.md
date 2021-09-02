@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [NFT Collector Tricked into Buying Fake Banksy](https://threatpost.com/nft-collector-tricked-into-buying-fake-banksy/169179/)
 - [SpyFone & CEO Banned From Stalkerware Biz](https://threatpost.com/spyfone-ban-stalkerware-surveillance/169165/)
 - [Bluetooth Bugs Open Billions of Devices to DoS, Code Execution](https://threatpost.com/bluetooth-bugs-dos-code-execution/169159/)
 - [Google Play Sign-Ins Allow Covert Location-Tracking](https://threatpost.com/google-play-covert-location-tracking/169151/)
 - [Cisco Patches Critical Authentication Bug With Public Exploit](https://threatpost.com/cisco-patches-critical-authentication-bug-with-public-exploit/169146/)
-- [7 Ways to Defend Mobile Apps, APIs from Cyberattacks](https://threatpost.com/defend-mobile-apps-apis-cyberattacks/169144/)
 <!-- THREAT:END -->
 ---
 
