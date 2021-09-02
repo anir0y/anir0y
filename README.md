@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Comcast RF Attack Leveraged Remotes for Surveillance](https://threatpost.com/comcast-rf-attack-remotes-surveillance/169133/)
 - [Gutenberg Template Library & Redux Framework Bugs Plague WordPress Sites](https://threatpost.com/gutenberg-template-library-redux-bugs-wordpress/169111/)
 - [LockBit Jumps Its Own Countdown, Publishes Bangkok Air Files](https://threatpost.com/lockbit-publishes-bangkok-air-files/169101/)
 - [BEC Scammers Seek Native English Speakers on Underground](https://threatpost.com/bec-scammers-native-english-speakers/169092/)
 - [Feds Warn of Ransomware Attacks Ahead of Labor Day](https://threatpost.com/ransomware-attacks-labor-day/169087/)
-- [Fortress Home Security Open to Remote Disarmament](https://threatpost.com/fortress-home-security-remote-disarmament/169069/)
 <!-- THREAT:END -->
 ---
 
