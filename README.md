@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Google Play Sign-Ins Allow Covert Location-Tracking](https://threatpost.com/google-play-covert-location-tracking/169151/)
+- [Cisco Patches Critical Authentication Bug With Public Exploit](https://threatpost.com/cisco-patches-critical-authentication-bug-with-public-exploit/169146/)
 - [7 Ways to Defend Mobile Apps, APIs from Cyberattacks](https://threatpost.com/defend-mobile-apps-apis-cyberattacks/169144/)
 - [WhatsApp Photo Filter Bug Allows Sensitive Info to Be Lifted](https://threatpost.com/whatsapp-photo-filter-bug-allows-sensitive-info-to-be-lifted/169141/)
 - [Digital State IDs Start Rollouts Despite Privacy Concerns](https://threatpost.com/digital-state-ids-rollouts-privacy/169136/)
-- [Comcast RF Attack Leveraged Remotes for Surveillance](https://threatpost.com/comcast-rf-attack-remotes-surveillance/169133/)
-- [Gutenberg Template Library & Redux Framework Bugs Plague WordPress Sites](https://threatpost.com/gutenberg-template-library-redux-bugs-wordpress/169111/)
 <!-- THREAT:END -->
 ---
 
