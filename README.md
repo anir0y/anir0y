@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [The State of Incident Response: Measuring Risk and Evaluating Your Preparedness](https://threatpost.com/incident-response-risk-preparedness/169211/)
+- [FIN7 Capitalizes on Windows 11 Release in Latest Gambit](https://threatpost.com/fin7-windows-11-release/169206/)
 - [Brute-Force Attacks Target Inboxes for Gift Card Data](https://threatpost.com/attacks-inboxes-gift-card/169187/)
 - [NFT Collector Tricked into Buying Fake Banksy](https://threatpost.com/nft-collector-tricked-into-buying-fake-banksy/169179/)
 - [SpyFone & CEO Banned From Stalkerware Biz](https://threatpost.com/spyfone-ban-stalkerware-surveillance/169165/)
-- [Bluetooth Bugs Open Billions of Devices to DoS, Code Execution](https://threatpost.com/bluetooth-bugs-dos-code-execution/169159/)
-- [Google Play Sign-Ins Allow Covert Location-Tracking](https://threatpost.com/google-play-covert-location-tracking/169151/)
 <!-- THREAT:END -->
 ---
 
