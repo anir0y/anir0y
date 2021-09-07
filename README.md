@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Authorities Arrest Another TrickBot Gang Member in South Korea](https://threatpost.com/authorities-arrest-trickbot-member/169236/)
+- [Holy Grail of Security: Answers to ‘Did XYZ Work?’ – Podcast](https://threatpost.com/holy-grail-of-security-answers-to-did-xyz-work-podcast/169192/)
 - [Human Fraud: Detecting Them Before They Detect You](https://threatpost.com/human-fraud-detecting/169230/)
 - [IoT Attacks Skyrocket, Doubling in 6 Months](https://threatpost.com/iot-attacks-doubling/169224/)
 - [The State of Incident Response: Measuring Risk and Evaluating Your Preparedness](https://threatpost.com/incident-response-risk-preparedness/169211/)
-- [FIN7 Capitalizes on Windows 11 Release in Latest Gambit](https://threatpost.com/fin7-windows-11-release/169206/)
-- [Brute-Force Attacks Target Inboxes for Gift Card Data](https://threatpost.com/attacks-inboxes-gift-card/169187/)
 <!-- THREAT:END -->
 ---
 
