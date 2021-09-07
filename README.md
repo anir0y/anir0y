@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Netgear Smart Switches Open to Complete Takeover](https://threatpost.com/netgear-smart-switches-takeover/169259/)
 - [Jenkins Hit as Atlassian Confluence Cyberattacks Widen](https://threatpost.com/jenkins-atlassian-confluence-cyberattacks/169249/)
 - [ProtonMail Forced to Log IP Address of French Activist](https://threatpost.com/protonmail-log-ip-address-french-activist/169242/)
 - [Authorities Arrest Another TrickBot Gang Member in South Korea](https://threatpost.com/authorities-arrest-trickbot-member/169236/)
 - [Holy Grail of Security: Answers to ‘Did XYZ Work?’ – Podcast](https://threatpost.com/holy-grail-of-security-answers-to-did-xyz-work-podcast/169192/)
-- [Human Fraud: Detecting Them Before They Detect You](https://threatpost.com/human-fraud-detecting/169230/)
 <!-- THREAT:END -->
 ---
 
