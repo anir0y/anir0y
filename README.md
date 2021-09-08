@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Spoofing Bug Highlights Cybersecurity for Digital Vaccine Passports](https://threatpost.com/spoofing-bug-cybersecurity-vaccine-passports/169287/)
 - [TeamTNT’s New Tools Target Multiple OS](https://threatpost.com/teamtnt-target-multiple-os/169279/)
 - [Microsoft, CISA Urge Mitigations for Zero-Day RCE Flaw in Windows](https://threatpost.com/microsoft-zero-day-rce-flaw-in-windows/169273/)
 - [Ragnar Locker Gang Warns Victims Not to Call the FBI](https://threatpost.com/ragnar-locker-gang-dont-call-fbi-police/169266/)
 - [Netgear Smart Switches Open to Complete Takeover](https://threatpost.com/netgear-smart-switches-takeover/169259/)
-- [Jenkins Hit as Atlassian Confluence Cyberattacks Widen](https://threatpost.com/jenkins-atlassian-confluence-cyberattacks/169249/)
 <!-- THREAT:END -->
 ---
 
