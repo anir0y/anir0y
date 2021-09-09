@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
-- [Zoho Password Manager Zero-Day Bug Under Active Attack Gets a Fix](https://threatpost.com/zoho-password-manager-zero-day-attack/169303/)
+- [SideWalk Backdoor Linked to China-Linked Spy Group ‘Grayfly’](https://threatpost.com/sidewalk-backdoor-china-espionage-grayfly/169310/)
+- [Zoho ManageEngine Password Manager Zero-Day Gets a Fix, Amid Attacks](https://threatpost.com/zoho-password-manager-zero-day-attack/169303/)
 - [BladeHawk Attackers Target Kurds with Android Apps](https://threatpost.com/bladehawk-attackers-kurds-android/169300/)
 - [What Ragnar Locker Got Wrong About Ransomware Negotiators – Podcast](https://threatpost.com/ragnar-locker-ransomware-negotiators/169292/)
 - [Tooling Network Detection & Response for Ransomware](https://threatpost.com/network-detection-response-ransomware/169290/)
-- [Spoofing Bug Highlights Cybersecurity for Digital Vaccine Passports](https://threatpost.com/spoofing-bug-cybersecurity-vaccine-passports/169287/)
 <!-- THREAT:END -->
 ---
 
