@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Financial Cybercrime: Why Cryptocurrency is the Perfect ‘Getaway Car’](https://threatpost.com/financial-cybercrime-cryptocurrency/169327/)
 - [‘Azurescape’ Kubernetes Attack Allows Cross-Container Cloud Compromise](https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/)
 - [SideWalk Backdoor Linked to China-Linked Spy Group ‘Grayfly’](https://threatpost.com/sidewalk-backdoor-china-espionage-grayfly/169310/)
 - [Zoho ManageEngine Password Manager Zero-Day Gets a Fix, Amid Attacks](https://threatpost.com/zoho-password-manager-zero-day-attack/169303/)
 - [BladeHawk Attackers Target Kurds with Android Apps](https://threatpost.com/bladehawk-attackers-kurds-android/169300/)
-- [What Ragnar Locker Got Wrong About Ransomware Negotiators – Podcast](https://threatpost.com/ragnar-locker-ransomware-negotiators/169292/)
 <!-- THREAT:END -->
 ---
 
