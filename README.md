@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [BladeHawk Attackers Target Kurds with Android Apps](https://threatpost.com/bladehawk-attackers-kurds-android/169300/)
 - [What Ragnar Locker Got Wrong About Ransomware Negotiators – Podcast](https://threatpost.com/ragnar-locker-ransomware-negotiators/169292/)
 - [Tooling Network Detection & Response for Ransomware](https://threatpost.com/network-detection-response-ransomware/169290/)
 - [Spoofing Bug Highlights Cybersecurity for Digital Vaccine Passports](https://threatpost.com/spoofing-bug-cybersecurity-vaccine-passports/169287/)
 - [TeamTNT’s New Tools Target Multiple OS](https://threatpost.com/teamtnt-target-multiple-os/169279/)
-- [Microsoft, CISA Urge Mitigations for Zero-Day RCE Flaw in Windows](https://threatpost.com/microsoft-zero-day-rce-flaw-in-windows/169273/)
 <!-- THREAT:END -->
 ---
 
