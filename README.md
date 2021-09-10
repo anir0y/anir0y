@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [5 Steps For Securing Your Remote Work Space](https://threatpost.com/5-steps-securing-remote-work-space/169324/)
 - [Stolen Credentials Led to Data Theft at United Nations](https://threatpost.com/data-theft-united-nations/169357/)
 - [Thousands of Fortinet VPN Account Credentials Leaked](https://threatpost.com/thousands-of-fortinet-vpn-account-credentials-leaked/169348/)
 - [McDonald’s Email Blast Includes Password to Monopoly Game Database](https://threatpost.com/mcdonalds-email-blast-includes-password-to-monopoly-game-database/169346/)
 - [Financial Cybercrime: Why Cryptocurrency is the Perfect ‘Getaway Car’](https://threatpost.com/financial-cybercrime-cryptocurrency/169327/)
-- [‘Azurescape’ Kubernetes Attack Allows Cross-Container Cloud Compromise](https://threatpost.com/azurescape-kubernetes-attack-container-cloud-compromise/169319/)
 <!-- THREAT:END -->
 ---
 
