@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [MyRepublic Data Breach Raises Data-Protection Questions](https://threatpost.com/myrepublic-data-breach-protection/169382/)
+- [Top Steps for Ransomware Recovery and Preparation](https://threatpost.com/top-steps-ransomware-recovery-preparation/169378/)
 - [Yandex Pummeled by Potent Meris DDoS Botnet](https://threatpost.com/yandex-meris-botnet/169368/)
 - [SOVA, Worryingly Sophisticated Android Trojan, Takes Flight](https://threatpost.com/sova-sophisticated-android-trojan/169366/)
 - [5 Steps For Securing Your Remote Work Space](https://threatpost.com/5-steps-securing-remote-work-space/169324/)
-- [Stolen Credentials Led to Data Theft at United Nations](https://threatpost.com/data-theft-united-nations/169357/)
-- [Thousands of Fortinet VPN Account Credentials Leaked](https://threatpost.com/thousands-of-fortinet-vpn-account-credentials-leaked/169348/)
 <!-- THREAT:END -->
 ---
 
