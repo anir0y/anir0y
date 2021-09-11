@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Introduction to Django](https://classroom.anir0y.in/post/tryhackme-django/)
 - [TryHackMe Principles of Security](https://classroom.anir0y.in/post/tryhackme-principlesofsecurity/)
 - [TryHackMe Wordpress CVE-2021-29447](https://classroom.anir0y.in/post/tryhackme-wordpresscve202129447/)
 - [TryHackMe Intro to Windows](https://classroom.anir0y.in/post/tryhackme-intro2winold/)
 - [TryHackMe Bounty Hacker](https://classroom.anir0y.in/post/tryhackme-cowboyhacker/)
-- [TryHackMe Hacking with PowerShell](https://classroom.anir0y.in/post/tryhackme-powershell/)
 <!-- CLASS:END -->
 
 ## Threat Post:
