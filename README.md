@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Install Openvas](https://classroom.anir0y.in/post/howto-install-openvas/)
 - [Try Hack Me The Cod Caper](https://classroom.anir0y.in/post/tryhackme-thecodcaper/)
 - [TryHackMe Introduction to Django](https://classroom.anir0y.in/post/tryhackme-django/)
 - [TryHackMe Principles of Security](https://classroom.anir0y.in/post/tryhackme-principlesofsecurity/)
 - [TryHackMe Wordpress CVE-2021-29447](https://classroom.anir0y.in/post/tryhackme-wordpresscve202129447/)
-- [TryHackMe Intro to Windows](https://classroom.anir0y.in/post/tryhackme-intro2winold/)
 <!-- CLASS:END -->
 
 ## Threat Post:
