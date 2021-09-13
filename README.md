@@ -29,7 +29,7 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
-- [REvil’s Back; Coder Fat-Fingered Away Its Decryptor Key](https://threatpost.com/revil-back-coder-decryptor-key/169403/)
+- [REvil’s Back; Coder Fat-Fingered Away Its Decryptor Key?](https://threatpost.com/revil-back-coder-decryptor-key/169403/)
 - [WhatsApp’s End-to-End Encryption Isn’t Actually Broken](https://threatpost.com/whatsapp-end-encryption-broken/169399/)
 - [Honing Cybersecurity Strategy When Everyone’s a Target for Ransomware](https://threatpost.com/cybersecurity-strategy-ransomware/169397/)
 - [WooCommerce Multi Currency Bug Allows Shoppers to Change eCommerce Pricing](https://threatpost.com/woocommerce-multi-currency-bug-pricing/169394/)
