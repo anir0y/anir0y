@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Honing Cybersecurity Strategy When Everyone’s a Target for Ransomware](https://threatpost.com/cybersecurity-strategy-ransomware/169397/)
+- [WooCommerce Multi Currency Bug Allows Shoppers to Change eCommerce Pricing](https://threatpost.com/woocommerce-multi-currency-bug-pricing/169394/)
 - [MyRepublic Data Breach Raises Data-Protection Questions](https://threatpost.com/myrepublic-data-breach-protection/169382/)
 - [Top Steps for Ransomware Recovery and Preparation](https://threatpost.com/top-steps-ransomware-recovery-preparation/169378/)
 - [Yandex Pummeled by Potent Meris DDoS Botnet](https://threatpost.com/yandex-meris-botnet/169368/)
-- [SOVA, Worryingly Sophisticated Android Trojan, Takes Flight](https://threatpost.com/sova-sophisticated-android-trojan/169366/)
-- [5 Steps For Securing Your Remote Work Space](https://threatpost.com/5-steps-securing-remote-work-space/169324/)
 <!-- THREAT:END -->
 ---
 
