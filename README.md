@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Pair of Google Chrome Zero-Day Bugs Actively Exploited](https://threatpost.com/google-chrome-zero-day-exploited/169442/)
 - [Unpatched Bugs Plague Databases; Your Data Is Probably Not Secure – Podcast](https://threatpost.com/unpatched-databases-data-not-secure-podcast/169428/)
 - [Romance, BEC Scams Lands Soldier in Jail for 46 Months](https://threatpost.com/romance-bec-scams-soldier-jail/169434/)
 - [BlackMatter Ransomware Hits Japanese Tech Giant Olympus](https://threatpost.com/blackmatter-ransomware-olympus/169423/)
 - [Apple Issues Emergency Fix for NSO Zero-Click Zero Day](https://threatpost.com/apple-emergency-fix-nso-zero-click-zero-day/169416/)
-- [REvil’s Back; Coder Fat-Fingered Away Its Decryptor Key?](https://threatpost.com/revil-back-coder-decryptor-key/169403/)
 <!-- THREAT:END -->
 ---
 
