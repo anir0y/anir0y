@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Adobe Snuffs Critical Bugs in Acrobat, Experience Manager](https://threatpost.com/adobe-bugs-acrobat-experience-manager/169467/)
+- [Microsoft Patches Actively Exploited Windows Zero-Day Bug](https://threatpost.com/microsoft-patch-tuesday-exploited-windows-zero-day/169459/)
 - [2021’s Most Dangerous Software Weaknesses](https://threatpost.com/2021-angerous-software-weaknesses/169458/)
 - [ZLoader’s Back, Abusing Google AdWords, Disabling Windows Defender](https://threatpost.com/zloader-google-adwords-windows-defender/169448/)
 - [Pair of Google Chrome Zero-Day Bugs Actively Exploited](https://threatpost.com/google-chrome-zero-day-exploited/169442/)
-- [Unpatched Bugs Plague Databases; Your Data Is Probably Not Secure – Podcast](https://threatpost.com/unpatched-databases-data-not-secure-podcast/169428/)
-- [Romance, BEC Scams Lands Soldier in Jail for 46 Months](https://threatpost.com/romance-bec-scams-soldier-jail/169434/)
 <!-- THREAT:END -->
 ---
 
