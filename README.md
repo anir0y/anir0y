@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [No Patch for High-Severity Bug in Legacy IBM System X Servers](https://threatpost.com/no-patch-for-ibm-system-x-servers/169491/)
 - [Attackers Impersonate DoT in Two-Day Phishing Scam](https://threatpost.com/attackers-impersonate-dot-phishing-scam/169484/)
 - [Adobe Snuffs Critical Bugs in Acrobat, Experience Manager](https://threatpost.com/adobe-bugs-acrobat-experience-manager/169467/)
 - [Microsoft Patches Actively Exploited Windows Zero-Day Bug](https://threatpost.com/microsoft-patch-tuesday-exploited-windows-zero-day/169459/)
 - [2021’s Most Dangerous Software Weaknesses](https://threatpost.com/2021-angerous-software-weaknesses/169458/)
-- [ZLoader’s Back, Abusing Google AdWords, Disabling Windows Defender](https://threatpost.com/zloader-google-adwords-windows-defender/169448/)
 <!-- THREAT:END -->
 ---
 
