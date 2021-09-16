@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [HP Omen Hub Exposes Millions of Gamers to Cyberattack](https://threatpost.com/hp-omen-hub-gamers-cyberattack/169739/)
+- [Azure Zero-Day Flaws Highlight Lurking Supply-Chain Risk](https://threatpost.com/azure-zero-day-supply-chain/169508/)
 - [No Patch for High-Severity Bug in Legacy IBM System X Servers](https://threatpost.com/no-patch-for-ibm-system-x-servers/169491/)
 - [Attackers Impersonate DoT in Two-Day Phishing Scam](https://threatpost.com/attackers-impersonate-dot-phishing-scam/169484/)
 - [Adobe Snuffs Critical Bugs in Acrobat, Experience Manager](https://threatpost.com/adobe-bugs-acrobat-experience-manager/169467/)
-- [Microsoft Patches Actively Exploited Windows Zero-Day Bug](https://threatpost.com/microsoft-patch-tuesday-exploited-windows-zero-day/169459/)
-- [2021’s Most Dangerous Software Weaknesses](https://threatpost.com/2021-angerous-software-weaknesses/169458/)
 <!-- THREAT:END -->
 ---
 
