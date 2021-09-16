@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Financial Cybercrime: Following Cryptocurrency via Public Ledgers](https://threatpost.com/financial-cybercrime-cryptocurrency-public-ledgers/169987/)
+- [REvil/Sodinokibi Ransomware Universal Decryptor Key Is Out](https://threatpost.com/revil-sodinokibi-ransomware-universal-decryptor/169498/)
+- [DDoS Attacks: A Flourishing Business for Cybercrooks – Podcast](https://threatpost.com/ddos-attacks-a-flourishing-business-for-cybercrooks-podcast/169473/)
 - [HP Omen Hub Exposes Millions of Gamers to Cyberattack](https://threatpost.com/hp-omen-hub-gamers-cyberattack/169739/)
 - [Azure Zero-Day Flaws Highlight Lurking Supply-Chain Risk](https://threatpost.com/azure-zero-day-supply-chain/169508/)
-- [No Patch for High-Severity Bug in Legacy IBM System X Servers](https://threatpost.com/no-patch-for-ibm-system-x-servers/169491/)
-- [Attackers Impersonate DoT in Two-Day Phishing Scam](https://threatpost.com/attackers-impersonate-dot-phishing-scam/169484/)
-- [Adobe Snuffs Critical Bugs in Acrobat, Experience Manager](https://threatpost.com/adobe-bugs-acrobat-experience-manager/169467/)
 <!-- THREAT:END -->
 ---
 
