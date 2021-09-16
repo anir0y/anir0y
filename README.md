@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [CISA, FBI: State-Backed APTs May Be Exploiting Critical Zoho Bug](https://threatpost.com/cisa-fbi-state-backed-apts-exploit-critical-zoho-bug/174768/)
 - [Airline Credential-Theft Takes Off in Widening Campaign](https://threatpost.com/airline-credential-theft-campaign/174264/)
 - [Financial Cybercrime: Following Cryptocurrency via Public Ledgers](https://threatpost.com/financial-cybercrime-cryptocurrency-public-ledgers/169987/)
 - [REvil/Sodinokibi Ransomware Universal Decryptor Key Is Out](https://threatpost.com/revil-sodinokibi-ransomware-universal-decryptor/169498/)
 - [DDoS Attacks: A Flourishing Business for Cybercrooks – Podcast](https://threatpost.com/ddos-attacks-a-flourishing-business-for-cybercrooks-podcast/169473/)
-- [HP Omen Hub Exposes Millions of Gamers to Cyberattack](https://threatpost.com/hp-omen-hub-gamers-cyberattack/169739/)
 <!-- THREAT:END -->
 ---
 
