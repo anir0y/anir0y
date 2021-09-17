@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Ditch the Alert Cannon: Modernizing IDS is a Security Must-Do](https://threatpost.com/modernizing-ids-security/174789/)
+- [AT&T Phone-Unlocking Malware Ring Costs Carrier $200M](https://threatpost.com/att-phone-unlocking-malware/174787/)
 - [Microsoft MSHTML Flaw Exploited by Ryuk Ransomware Gang](https://threatpost.com/microsoft-mshtml-ryuk-ransomware/174780/)
 - [CISA, FBI: State-Backed APTs May Be Exploiting Critical Zoho Bug](https://threatpost.com/cisa-fbi-state-backed-apts-exploit-critical-zoho-bug/174768/)
 - [Airline Credential-Theft Takes Off in Widening Campaign](https://threatpost.com/airline-credential-theft-campaign/174264/)
-- [Financial Cybercrime: Following Cryptocurrency via Public Ledgers](https://threatpost.com/financial-cybercrime-cryptocurrency-public-ledgers/169987/)
-- [REvil/Sodinokibi Ransomware Universal Decryptor Key Is Out](https://threatpost.com/revil-sodinokibi-ransomware-universal-decryptor/169498/)
 <!-- THREAT:END -->
 ---
 
