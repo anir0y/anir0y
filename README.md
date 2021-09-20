@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Payment API Bungling Exposes Millions of Users’ Payment Data](https://threatpost.com/payment-api-exposes-payment-data/174825/)
 - [Bring Your APIs Out of the Shadows to Protect Your Business](https://threatpost.com/apis-out-of-shadows-protect-your-business/169334/)
 - [Porn Problem: Adult Ads Persist on US Gov’t, Military Sites](https://threatpost.com/porn-viagra-spams-govt-military-sites/174794/)
 - [Ditch the Alert Cannon: Modernizing IDS is a Security Must-Do](https://threatpost.com/modernizing-ids-security/174789/)
 - [AT&T Phone-Unlocking Malware Ring Costs Carrier $200M](https://threatpost.com/att-phone-unlocking-malware/174787/)
-- [Microsoft MSHTML Flaw Exploited by Ryuk Ransomware Gang](https://threatpost.com/microsoft-mshtml-ryuk-ransomware/174780/)
 <!-- THREAT:END -->
 ---
 
