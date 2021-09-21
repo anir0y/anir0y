@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Epik Confirms Hack, Gigabytes of Data on Offer](https://threatpost.com/epik-confirms-hack-data/174872/)
 - [Hackers Are Going ‘Deep-Sea Phishing,’ So What Can You Do About It?](https://threatpost.com/hackers-deep-sea-phishing/174868/)
 - [Turla APT Plants Novel Backdoor In Wake of Afghan Unrest](https://threatpost.com/turla-apt-backdoor-afghanistan/174858/)
 - [BlackMatter Strikes Iowa Farmers Cooperative, Demands $5.9M Ransom](https://threatpost.com/blackmatter-strikes-iowa-farmers-cooperative-demands-5-9m-ransom/174846/)
 - [46% of On-Prem Databases Globally Contain Vulnerabilities: Is Yours Safe?](https://threatpost.com/46-on-prem-databases-globally-contain-vulnerabilities/174815/)
-- [Amazon Driver-Surveillance Cameras Roll Out, Sparking Debate](https://threatpost.com/amazon-driver-surveillance-cameras/174843/)
 <!-- THREAT:END -->
 ---
 
