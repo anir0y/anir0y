@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [BlackMatter Strikes Iowa Farmers Cooperative, Demands $5.9M Ransom](https://threatpost.com/blackmatter-strikes-iowa-farmers-cooperative-demands-5-9m-ransom/174846/)
+- [46% of On-Prem Databases Globally Contain Vulnerabilities: Is Yours Safe?](https://threatpost.com/46-on-prem-databases-globally-contain-vulnerabilities/174815/)
 - [Amazon Driver-Surveillance Cameras Roll Out, Sparking Debate](https://threatpost.com/amazon-driver-surveillance-cameras/174843/)
 - [Europol Breaks Open Extensive Mafia Cybercrime Ring](https://threatpost.com/europol-mafia-cybercrime-ring/174838/)
 - [Payment API Bungling Exposes Millions of Users’ Payment Data](https://threatpost.com/payment-api-exposes-payment-data/174825/)
-- [Bring Your APIs Out of the Shadows to Protect Your Business](https://threatpost.com/apis-out-of-shadows-protect-your-business/169334/)
-- [Porn Problem: Adult Ads Persist on US Gov’t, Military Sites](https://threatpost.com/porn-viagra-spams-govt-military-sites/174794/)
 <!-- THREAT:END -->
 ---
 
