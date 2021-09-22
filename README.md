@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [VMware Warns of Ransomware-Friendly Bug in vCenter Server](https://threatpost.com/vmware-ransomware-bug-vcenter-server/174901/)
 - [TikTok, GitHub, Facebook Join Open-Source Bug Bounty](https://threatpost.com/tiktok-github-facebook-open-source-bug-bounty/174898/)
 - [Feds Sanctions SUEX Cryptocurrency Exchange for Laundering Ransomware Payouts](https://threatpost.com/feds-sanctions-suex-cryptocurrency-ransomware/174895/)
 - [Epik Confirms Hack, Gigabytes of Data on Offer](https://threatpost.com/epik-confirms-hack-data/174872/)
 - [Hackers Are Going ‘Deep-Sea Phishing,’ So What Can You Do About It?](https://threatpost.com/hackers-deep-sea-phishing/174868/)
-- [Turla APT Plants Novel Backdoor In Wake of Afghan Unrest](https://threatpost.com/turla-apt-backdoor-afghanistan/174858/)
 <!-- THREAT:END -->
 ---
 
