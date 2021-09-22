@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Unpatched Apple Zero-Day in macOS Finder Allows Code Execution](https://threatpost.com/unpatched-apple-zero-day-code-execution/174915/)
 - [How REvil May Have Ripped Off Its Own Affiliates](https://threatpost.com/how-revil-may-have-ripped-off-its-own-affiliates/174887/)
 - [VMware Warns of Ransomware-Friendly Bug in vCenter Server](https://threatpost.com/vmware-ransomware-bug-vcenter-server/174901/)
 - [TikTok, GitHub, Facebook Join Open-Source Bug Bounty](https://threatpost.com/tiktok-github-facebook-open-source-bug-bounty/174898/)
 - [Feds Sanctions SUEX Cryptocurrency Exchange for Laundering Ransomware Payouts](https://threatpost.com/feds-sanctions-suex-cryptocurrency-ransomware/174895/)
-- [Epik Confirms Hack, Gigabytes of Data on Offer](https://threatpost.com/epik-confirms-hack-data/174872/)
 <!-- THREAT:END -->
 ---
 
