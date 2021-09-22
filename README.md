@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Crystal Valley Farm Coop Hit with Ransomware](https://threatpost.com/crystal-valley-farm-coop-hit-with-ransomware/174928/)
 - [Netgear SOHO Security Bug Allows RCE, Corporate Attacks](https://threatpost.com/netgear-soho-security-bug-rce/174921/)
 - [Unpatched Apple Zero-Day in macOS Finder Allows Code Execution](https://threatpost.com/unpatched-apple-zero-day-code-execution/174915/)
 - [How REvil May Have Ripped Off Its Own Affiliates](https://threatpost.com/how-revil-may-have-ripped-off-its-own-affiliates/174887/)
 - [VMware Warns of Ransomware-Friendly Bug in vCenter Server](https://threatpost.com/vmware-ransomware-bug-vcenter-server/174901/)
-- [TikTok, GitHub, Facebook Join Open-Source Bug Bounty](https://threatpost.com/tiktok-github-facebook-open-source-bug-bounty/174898/)
 <!-- THREAT:END -->
 ---
 
