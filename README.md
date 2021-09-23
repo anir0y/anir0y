@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [5 Tips for Achieving Better Cybersecurity Risk Management](https://threatpost.com/tips-cybersecurity-risk-management/174968/)
+- [100M IoT Devices Exposed By Zero-Day Bug](https://threatpost.com/100m-iot-devices-zero-day-bug/174963/)
 - [FamousSparrow APT Wings in to Spy on Hotels, Governments](https://threatpost.com/famoussparrow-spy-hotels-governments/174948/)
 - [Google Report Spotlights Uptick in Controversial ‘Geofence Warrants’ by Police](https://threatpost.com/google-controversial-geofence-warrants/174938/)
 - [Acronis Offers up to $5,000 to Users Who Spot Bugs in Its Cyber Protection Products](https://threatpost.com/acronis-bug-bounty-program/174849/)
-- [Domain Brand Monitor: The First Brand Protection Layer by WhoisXML API](https://threatpost.com/domain-brand-monitor-whoisxml-api/174807/)
-- [Large-Scale Phishing-as-a-Service Operation Exposed](https://threatpost.com/phishing-as-a-service-exposed/174932/)
 <!-- THREAT:END -->
 ---
 
