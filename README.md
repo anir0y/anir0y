@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Google Report Spotlights Uptick in Controversial ‘Geofence Warrants’ by Police](https://threatpost.com/google-controversial-geofence-warrants/174938/)
+- [Acronis Offers up to $5,000 to Users Who Spot Bugs in Its Cyber Protection Products](https://threatpost.com/acronis-bug-bounty-program/174849/)
+- [Domain Brand Monitor: The First Brand Protection Layer by WhoisXML API](https://threatpost.com/domain-brand-monitor-whoisxml-api/174807/)
 - [Large-Scale Phishing-as-a-Service Operation Exposed](https://threatpost.com/phishing-as-a-service-exposed/174932/)
 - [Crystal Valley Farm Coop Hit with Ransomware](https://threatpost.com/crystal-valley-farm-coop-hit-with-ransomware/174928/)
-- [Netgear SOHO Security Bug Allows RCE, Corporate Attacks](https://threatpost.com/netgear-soho-security-bug-rce/174921/)
-- [Unpatched Apple Zero-Day in macOS Finder Allows Code Execution](https://threatpost.com/unpatched-apple-zero-day-code-execution/174915/)
-- [How REvil May Have Ripped Off Its Own Affiliates](https://threatpost.com/how-revil-may-have-ripped-off-its-own-affiliates/174887/)
 <!-- THREAT:END -->
 ---
 
