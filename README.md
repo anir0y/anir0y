@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Apple Patches 3 More Zero-Days Under Active Attack](https://threatpost.com/apple-patches-zero-days-attack/174988/)
 - [REvil Affiliates Confirm: Leadership Were Cheating Dirtbags](https://threatpost.com/revil-affiliates-leadership-cheated-ransom-payments/174972/)
 - [5 Tips for Achieving Better Cybersecurity Risk Management](https://threatpost.com/tips-cybersecurity-risk-management/174968/)
 - [100M IoT Devices Exposed By Zero-Day Bug](https://threatpost.com/100m-iot-devices-zero-day-bug/174963/)
 - [FamousSparrow APT Wings in to Spy on Hotels, Governments](https://threatpost.com/famoussparrow-spy-hotels-governments/174948/)
-- [Google Report Spotlights Uptick in Controversial ‘Geofence Warrants’ by Police](https://threatpost.com/google-controversial-geofence-warrants/174938/)
 <!-- THREAT:END -->
 ---
 
