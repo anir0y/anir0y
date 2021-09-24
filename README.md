@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Exchange/Outlook Autodiscover Bug Spills $100K+ Email Passwords](https://threatpost.com/exchange-outlook-autodiscover-bug-spills-100k-email-passwords/175004/)
 - [TangleBot Malware Reaches Deep into Android Device Functions](https://threatpost.com/tanglebot-malware-device-functions/174999/)
 - [Critical Cisco Bugs Allow Code Execution on Wireless, SD-WAN](https://threatpost.com/critical-cisco-bugs-wireless-sd-wan/174991/)
 - [Apple Patches 3 More Zero-Days Under Active Attack](https://threatpost.com/apple-patches-zero-days-attack/174988/)
 - [REvil Affiliates Confirm: Leadership Were Cheating Dirtbags](https://threatpost.com/revil-affiliates-leadership-cheated-ransom-payments/174972/)
-- [5 Tips for Achieving Better Cybersecurity Risk Management](https://threatpost.com/tips-cybersecurity-risk-management/174968/)
 <!-- THREAT:END -->
 ---
 
