@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [5 Steps to Securing Your Network Perimeter](https://threatpost.com/securing-network-perimeter/175043/)
 - [Women, Minorities Are Hacked More Than Others](https://threatpost.com/women-minorities-hacked/175038/)
 - [EU: Russia Behind ‘Ghostwriter’ Campaign Targeting Germany](https://threatpost.com/eu-russia-ghostwriter-germany/175025/)
 - [3.8 Billion Users’ Combined Clubhouse, Facebook Data Up for Sale](https://threatpost.com/clubhouse-facebook-data-sale/175023/)
 - [Exchange/Outlook Autodiscover Bug Spills $100K+ Email Passwords](https://threatpost.com/exchange-outlook-autodiscover-bug-spills-100k-email-passwords/175004/)
-- [TangleBot Malware Reaches Deep into Android Device Functions](https://threatpost.com/tanglebot-malware-device-functions/174999/)
 <!-- THREAT:END -->
 ---
 
