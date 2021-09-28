@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How to Prevent Account Takeovers in 2021](https://threatpost.com/protect-account-takeover-cyberattacks/175090/)
 - [Gamers Beware: Malware Hunts Steam, Epic and EA Origin Accounts](https://threatpost.com/gamers-malware-steam-epic-ea-origin-accounts/175081/)
 - [SAS 2021: FinSpy Surveillance Kit Re-Emerges Stronger Than Ever](https://threatpost.com/finspy-surveillance-kit/175068/)
 - [Working Exploit Is Out for VMware vCenter CVE-2021-22005 Flaw](https://threatpost.com/working-exploit-vmware-vcenter-cve-2021-22005/175059/)
 - [SolarWinds Attackers Hit Active Directory Servers with FoggyWeb Backdoor](https://threatpost.com/solarwinds-active-directory-servers-foggyweb-backdoor/175056/)
-- [Credential Spear-Phishing Uses Spoofed Zix Encrypted Email](https://threatpost.com/credential-spear-phishing-uses-spoofed-zix-encrypted-email/175044/)
 <!-- THREAT:END -->
 ---
 
