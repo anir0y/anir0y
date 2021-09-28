@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [SAS 2021: FinSpy Surveillance Kit Re-Emerges Stronger Than Ever](https://threatpost.com/finspy-surveillance-kit/175068/)
 - [Working Exploit Is Out for VMware vCenter CVE-2021-22005 Flaw](https://threatpost.com/working-exploit-vmware-vcenter-cve-2021-22005/175059/)
 - [SolarWinds Attackers Hit Active Directory Servers with FoggyWeb Backdoor](https://threatpost.com/solarwinds-active-directory-servers-foggyweb-backdoor/175056/)
 - [Credential Spear-Phishing Uses Spoofed Zix Encrypted Email](https://threatpost.com/credential-spear-phishing-uses-spoofed-zix-encrypted-email/175044/)
 - [5 Steps to Securing Your Network Perimeter](https://threatpost.com/securing-network-perimeter/175043/)
-- [Women, Minorities Are Hacked More Than Others](https://threatpost.com/women-minorities-hacked/175038/)
 <!-- THREAT:END -->
 ---
 
