@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Conti Ransomware Expands Ability to Blow Up Backups](https://threatpost.com/conti-ransomware-backups/175114/)
 - [SAS 2021: ‘Tomiris’ Backdoor Linked to SolarWinds Malware](https://threatpost.com/tomiris-backdoor-solarwinds-malware/175091/)
 - [Threat Actors Weaponize Telegram Bots to Compromise PayPal Accounts](https://threatpost.com/telegram-bots-compromise-paypal/175099/)
 - [How to Prevent Account Takeovers in 2021](https://threatpost.com/protect-account-takeover-cyberattacks/175090/)
 - [Gamers Beware: Malware Hunts Steam, Epic and EA Origin Accounts](https://threatpost.com/gamers-malware-steam-epic-ea-origin-accounts/175081/)
-- [SAS 2021: FinSpy Surveillance Kit Re-Emerges Stronger Than Ever](https://threatpost.com/finspy-surveillance-kit/175068/)
 <!-- THREAT:END -->
 ---
 
