@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Apple Pay with Visa Hacked to Make Payments via Unlocked iPhones](https://threatpost.com/apple-pay-visa-hacked-unlocked-iphones/175229/)
 - [The Top Ransomware Threats Aren’t Who You Think](https://threatpost.com/the-top-ransomware-threats-arent-who-you-think/175164/)
 - [Thousands of University Wi-Fi Networks Expose Log-In Credentials](https://threatpost.com/misconfiguration-university-wifi-login-credentials/175157/)
 - [Keep Attackers Out of VPNs: Feds Offer Guidance](https://threatpost.com/vpns-nsa-cisa-guidance/175150/)
 - [Apple AirTag Zero-Day Weaponizes Trackers](https://threatpost.com/apple-airtag-zero-day-trackers/175143/)
-- [GriftHorse Money-Stealing Trojan Takes 10M Android Users for a Ride](https://threatpost.com/grifthorse-money-stealing-trojan-android/175130/)
 <!-- THREAT:END -->
 ---
 
