@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Tips & Tricks for Unmasking Ghoulish API Behavior](https://threatpost.com/unmasking-ghoulish-api-behavior/175253/)
 - [Baby’s Death Alleged to Be Linked to Ransomware](https://threatpost.com/babys-death-linked-ransomware/175232/)
 - [Innovative Proxy Phantom ATO Fraud Ring Haunts eCommerce Accounts](https://threatpost.com/proxy-phantom-fraud-ecommerce-accounts/175241/)
 - [Apple Pay with Visa Hacked to Make Payments via Unlocked iPhones](https://threatpost.com/apple-pay-visa-hacked-unlocked-iphones/175229/)
 - [The Top Ransomware Threats Aren’t Who You Think](https://threatpost.com/the-top-ransomware-threats-arent-who-you-think/175164/)
-- [Thousands of University Wi-Fi Networks Expose Log-In Credentials](https://threatpost.com/misconfiguration-university-wifi-login-credentials/175157/)
 <!-- THREAT:END -->
 ---
 
