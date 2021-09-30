@@ -29,7 +29,7 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
-- [Keep Attackers Out of VPNs: Feds Offer Guidance](https://threatpost.com/keep-attackers-out-of-vpns-feds-offer-guidance/175150/)
+- [Keep Attackers Out of VPNs: Feds Offer Guidance](https://threatpost.com/vpns-nsa-cisa-guidance/175150/)
 - [Apple AirTag Zero-Day Weaponizes Trackers](https://threatpost.com/apple-airtag-zero-day-trackers/175143/)
 - [GriftHorse Money-Stealing Trojan Takes 10M Android Users for a Ride](https://threatpost.com/grifthorse-money-stealing-trojan-android/175130/)
 - [Conti Ransomware Expands Ability to Blow Up Backups](https://threatpost.com/conti-ransomware-backups/175114/)
