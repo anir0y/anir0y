@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [TryHackMe Metasploit Meterpreter](https://classroom.anir0y.in/post/tryhackme-meterpreter/)
 - [Try Hack Me Exploit Vulnerabilities](https://classroom.anir0y.in/post/tryhackme-exploitingavulnerabilityv2.md/)
 - [Try Hack Me Vulnerabilities 101](https://classroom.anir0y.in/post/tryhackme-vulnerabilities101/)
 - [Try Hack Me Empline](https://classroom.anir0y.in/post/tryhackme-empline/)
 - [Install Openvas](https://classroom.anir0y.in/post/howto-install-openvas/)
-- [Try Hack Me The Cod Caper](https://classroom.anir0y.in/post/tryhackme-thecodcaper/)
 <!-- CLASS:END -->
 
 ## Threat Post:
