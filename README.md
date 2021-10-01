@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [3.1M Neiman Marcus Customer Card Details Breached](https://threatpost.com/neiman-marcus-customers-breach/175284/)
 - [Flubot Malware Targets Androids With Fake Security Updates](https://threatpost.com/flubot-malware-targets-androids-with-fake-security-updates/175276/)
 - [New APT ChamelGang Targets Russian Energy, Aviation Orgs](https://threatpost.com/apt-chamelgang-targets-russian-energy-aviation/175272/)
 - [Google Emergency Update Fixes Two Chrome Zero Days](https://threatpost.com/google-emergency-update-chrome-zero-days/175266/)
 - [Military’s RFID Tracking of Guns May Endanger Troops](https://threatpost.com/military-rfid-track-guns-endanger-troops/175260/)
-- [Tips & Tricks for Unmasking Ghoulish API Behavior](https://threatpost.com/unmasking-ghoulish-api-behavior/175253/)
 <!-- THREAT:END -->
 ---
 
