@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Facebook Outage Drags Down Instagram, WhatsApp, Messenger, Oculus VR](https://threatpost.com/facebook-outage-instagram-whatsapp-messenger-oculus-vr/175308/)
+- [Encrypted & Fileless Malware Sees Big Growth](https://threatpost.com/encrypted-fileless-malware-growth/175306/)
 - [Transnational Fraud Ring Bilks U.S. Military Service Members Out of Millions](https://threatpost.com/transnational-fraud-military-members/175298/)
 - [MFA Glitch Leads to 6K+ Coinbase Customers Getting Robbed](https://threatpost.com/mfa-glitch-coinbase-customers-robbery/175290/)
 - [3.1M Neiman Marcus Customer Card Details Breached](https://threatpost.com/neiman-marcus-customers-breach/175284/)
-- [Flubot Malware Targets Androids With Fake Security Updates](https://threatpost.com/flubot-malware-targets-androids-with-fake-security-updates/175276/)
-- [New APT ChamelGang Targets Russian Energy, Aviation Orgs](https://threatpost.com/apt-chamelgang-targets-russian-energy-aviation/175272/)
 <!-- THREAT:END -->
 ---
 
