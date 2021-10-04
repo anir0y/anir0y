@@ -19,7 +19,7 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
-- [DigitalOcean Account Setup](https://classroom.anir0y.in/post/tryhackme-rdo/)
+- [DigitalOcean Account Setup](https://classroom.anir0y.in/post/ref-do/)
 - [TryHackMe Metasploit Meterpreter](https://classroom.anir0y.in/post/tryhackme-meterpreter/)
 - [Try Hack Me Exploit Vulnerabilities](https://classroom.anir0y.in/post/tryhackme-exploitingavulnerabilityv2.md/)
 - [Try Hack Me Vulnerabilities 101](https://classroom.anir0y.in/post/tryhackme-vulnerabilities101/)
