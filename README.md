@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Apache Web Server Zero-Day Exposes Sensitive Data](https://threatpost.com/apache-web-server-zero-day-sensitive-data/175340/)
 - [How to Build an Incident-Response Plan, Before Security Disaster Strikes](https://threatpost.com/incident-response-plan-security-disaster/175335/)
 - [Facebook Blames Outage on Faulty Router Configuration](https://threatpost.com/facebook-blames-outage-on-faulty-router-configuration/175322/)
 - [Oops! Compound DeFi Platform Gives Out $90M, Would Like it Back, Please](https://threatpost.com/compound-defi-platform-90m/175321/)
 - [Facebook Outage Drags Down Instagram, WhatsApp, Messenger, Oculus VR](https://threatpost.com/facebook-outage-instagram-whatsapp-messenger-oculus-vr/175308/)
-- [Encrypted & Fileless Malware Sees Big Growth](https://threatpost.com/encrypted-fileless-malware-growth/175306/)
 <!-- THREAT:END -->
 ---
 
