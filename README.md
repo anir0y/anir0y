@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [How to Build an Incident-Response Plan, Before Security Disaster Strikes](https://threatpost.com/incident-response-plan-security-disaster/175335/)
+- [Facebook Blames Outage on Faulty Router Configuration](https://threatpost.com/facebook-blames-outage-on-faulty-router-configuration/175322/)
+- [Oops! Compound DeFi Platform Gives Out $90M, Would Like it Back, Please](https://threatpost.com/compound-defi-platform-90m/175321/)
 - [Facebook Outage Drags Down Instagram, WhatsApp, Messenger, Oculus VR](https://threatpost.com/facebook-outage-instagram-whatsapp-messenger-oculus-vr/175308/)
 - [Encrypted & Fileless Malware Sees Big Growth](https://threatpost.com/encrypted-fileless-malware-growth/175306/)
-- [Transnational Fraud Ring Bilks U.S. Military Service Members Out of Millions](https://threatpost.com/transnational-fraud-military-members/175298/)
-- [MFA Glitch Leads to 6K+ Coinbase Customers Getting Robbed](https://threatpost.com/mfa-glitch-coinbase-customers-robbery/175290/)
-- [3.1M Neiman Marcus Customer Card Details Breached](https://threatpost.com/neiman-marcus-customers-breach/175284/)
 <!-- THREAT:END -->
 ---
 
