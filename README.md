@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Canopy Parental Control App Wide Open to Unpatched XSS Bugs](https://threatpost.com/canopy-parental-control-app-unpatched-xss-bugs/175384/)
 - [VMware ESXi Servers Encrypted by Lightning-Fast Python Script](https://threatpost.com/vmware-esxi-encrypted-python-script-ransomware/175374/)
 - [ESPecter Bootkit Malware Haunts Victims with Persistent Espionage](https://threatpost.com/especter-bootkit-malware-espionage/175366/)
 - [Twitch Gets Gutted: All Source Code Leaked](https://threatpost.com/twitch-source-code-leaked/175359/)
 - [IP Surveillance Bugs in Axis Gear Allow RCE, Data Theft](https://threatpost.com/ip-surveillance-bugs-axis-rce-data-theft/175350/)
-- [Apache Web Server Zero-Day Exposes Sensitive Data](https://threatpost.com/apache-web-server-zero-day-sensitive-data/175340/)
 <!-- THREAT:END -->
 ---
 
