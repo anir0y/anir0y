@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Navy Warship’s Facebook Page Hacked to Stream ‘Age of Empires’ Gaming](https://threatpost.com/navy-warships-facebook-age-empires-gaming/175409/)
+- [Twitch Leak Included Emails, Passwords in Clear Text: Researcher](https://threatpost.com/twitch-leak-emails-passwords/175390/)
 - [4 Key Questions for Zero-Trust Success](https://threatpost.com/key-questions-zero-trust-success/175392/)
 - [Canopy Parental Control App Wide Open to Unpatched XSS Bugs](https://threatpost.com/canopy-parental-control-app-unpatched-xss-bugs/175384/)
 - [VMware ESXi Servers Encrypted by Lightning-Fast Python Script](https://threatpost.com/vmware-esxi-encrypted-python-script-ransomware/175374/)
-- [ESPecter Bootkit Malware Haunts Victims with Persistent Espionage](https://threatpost.com/especter-bootkit-malware-espionage/175366/)
-- [Twitch Gets Gutted: All Source Code Leaked](https://threatpost.com/twitch-source-code-leaked/175359/)
 <!-- THREAT:END -->
 ---
 
