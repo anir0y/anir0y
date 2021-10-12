@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Office 365 Spy Campaign Targets US Military Defense](https://threatpost.com/military-defense-spy-campaign/175425/)
 - [Apple Releases Urgent iOS Updates to Patch New Zero-Day Bug](https://threatpost.com/apple-urgent-ios-updates-zero-day/175419/)
 - [Navy Warship’s Facebook Page Hacked to Stream ‘Age of Empires’ Gaming](https://threatpost.com/navy-warships-facebook-age-empires-gaming/175409/)
 - [Twitch Leak Included Emails, Passwords in Clear Text: Researcher](https://threatpost.com/twitch-leak-emails-passwords/175390/)
 - [4 Key Questions for Zero-Trust Success](https://threatpost.com/key-questions-zero-trust-success/175392/)
-- [Canopy Parental Control App Wide Open to Unpatched XSS Bugs](https://threatpost.com/canopy-parental-control-app-unpatched-xss-bugs/175384/)
 <!-- THREAT:END -->
 ---
 
