@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Microsoft Kills Bug Being Exploited in MysterySnail Espionage Campaign](https://threatpost.com/microsoft-patch-tuesday-bug-exploited-mysterysnail-espionage-campaign/175431/)
 - [Windows Zero-Day Actively Exploited in Widespread Espionage Campaign](https://threatpost.com/windows-zero-day-exploited-espionage/175432/)
 - [Office 365 Spy Campaign Targets US Military Defense](https://threatpost.com/military-defense-spy-campaign/175425/)
 - [Apple Releases Urgent iOS Updates to Patch New Zero-Day Bug](https://threatpost.com/apple-urgent-ios-updates-zero-day/175419/)
 - [Navy Warship’s Facebook Page Hacked to Stream ‘Age of Empires’ Gaming](https://threatpost.com/navy-warships-facebook-age-empires-gaming/175409/)
-- [Twitch Leak Included Emails, Passwords in Clear Text: Researcher](https://threatpost.com/twitch-leak-emails-passwords/175390/)
 <!-- THREAT:END -->
 ---
 
