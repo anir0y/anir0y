@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Brizy WordPress Plugin Exploit Chains Allow Full Site Takeovers](https://threatpost.com/brizy-wordpress-plugin-exploit-site-takeovers/175463/)
 - [Mandating a Zero-Trust Approach for Software Supply Chains](https://threatpost.com/mandate-zero-trust-software-supply-chains/175333/)
 - [OpenSea ‘Free Gift’ NFTs Drain Cryptowallet Balances](https://threatpost.com/opensea-nfts-cryptowallet-balances/175453/)
 - [30 Mins or Less: Rapid Attacks Extort Orgs Without Ransomware](https://threatpost.com/rapid-attacks-extort-ransomware/175445/)
 - [Microsoft Oct. Patch Tuesday Squashes 4 Zero-Day Bugs](https://threatpost.com/microsoft-patch-tuesday-bug-exploited-mysterysnail-espionage-campaign/175431/)
-- [Windows Zero-Day Actively Exploited in Widespread Espionage Campaign](https://threatpost.com/windows-zero-day-exploited-espionage/175432/)
 <!-- THREAT:END -->
 ---
 
