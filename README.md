@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [30 Mins or Less: Rapid Attacks Extort Orgs Without Ransomware](https://threatpost.com/rapid-attacks-extort-ransomware/175445/)
 - [Microsoft Oct. Patch Tuesday Squashes 4 Zero-Day Bugs](https://threatpost.com/microsoft-patch-tuesday-bug-exploited-mysterysnail-espionage-campaign/175431/)
 - [Windows Zero-Day Actively Exploited in Widespread Espionage Campaign](https://threatpost.com/windows-zero-day-exploited-espionage/175432/)
 - [Office 365 Spy Campaign Targets US Military Defense](https://threatpost.com/military-defense-spy-campaign/175425/)
 - [Apple Releases Urgent iOS Updates to Patch New Zero-Day Bug](https://threatpost.com/apple-urgent-ios-updates-zero-day/175419/)
-- [Navy Warship’s Facebook Page Hacked to Stream ‘Age of Empires’ Gaming](https://threatpost.com/navy-warships-facebook-age-empires-gaming/175409/)
 <!-- THREAT:END -->
 ---
 
