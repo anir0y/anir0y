@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Podcast: 67% of Orgs Have Been Hit by Ransomware at Least Once](https://threatpost.com/podcast-67-percent-orgs-ransomware/175339/)
 - [FreakOut Botnet Turns DVRs Into Monero Cryptominers](https://threatpost.com/freakout-botnet-dvrs-monero-cryptominers/175467/)
 - [Brizy WordPress Plugin Exploit Chains Allow Full Site Takeovers](https://threatpost.com/brizy-wordpress-plugin-exploit-site-takeovers/175463/)
 - [Mandating a Zero-Trust Approach for Software Supply Chains](https://threatpost.com/mandate-zero-trust-software-supply-chains/175333/)
 - [OpenSea ‘Free Gift’ NFTs Drain Cryptowallet Balances](https://threatpost.com/opensea-nfts-cryptowallet-balances/175453/)
-- [30 Mins or Less: Rapid Attacks Extort Orgs Without Ransomware](https://threatpost.com/rapid-attacks-extort-ransomware/175445/)
 <!-- THREAT:END -->
 ---
 
