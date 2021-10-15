@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [TrickBot Gang Enters Cybercrime Elite with Fresh Affiliates](https://threatpost.com/trickbot-cybercrime-elite-affiliates/175510/)
+- [Missouri Vows to Prosecute ‘Hacker’ Who Disclosed Data Leak](https://threatpost.com/missouri-prosecute-hacker-data-leak/175501/)
 - [Rickroll Grad Prank Exposes Exterity IPTV Bug](https://threatpost.com/rickroll-exterity-iptv-bug/175491/)
 - [Verizon’s Visible Wireless Carrier Confirms Credential-Stuffing Attack](https://threatpost.com/verizon-visible-wireless-credential-stuffing/175483/)
 - [CryptoRom Scam Rakes in $1.4M by Exploiting Apple Enterprise Features](https://threatpost.com/cryptorom-scammers-apple-enterprise-features/175474/)
-- [Podcast: 67% of Orgs Have Been Hit by Ransomware at Least Once](https://threatpost.com/podcast-67-percent-orgs-ransomware/175339/)
-- [FreakOut Botnet Turns DVRs Into Monero Cryptominers](https://threatpost.com/freakout-botnet-dvrs-monero-cryptominers/175467/)
 <!-- THREAT:END -->
 ---
 
