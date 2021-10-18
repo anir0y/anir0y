@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [TikTok Serves Up Fresh Gamer Targets via Fake Among Us, Steam Offerings](https://threatpost.com/tiktok-gamer-targets-among-us-steam/175546/)
 - [Twitter Suspends Accounts Used to Snare Security Researchers](https://threatpost.com/twitter-suspends-security-researchers/175524/)
 - [TrickBot Gang Enters Cybercrime Elite with Fresh Affiliates](https://threatpost.com/trickbot-cybercrime-elite-affiliates/175510/)
 - [Missouri Vows to Prosecute ‘Hacker’ Who Informed State About Data Leak](https://threatpost.com/missouri-prosecute-hacker-data-leak/175501/)
 - [Rickroll Grad Prank Exposes Exterity IPTV Bug](https://threatpost.com/rickroll-exterity-iptv-bug/175491/)
-- [Verizon’s Visible Wireless Carrier Confirms Credential-Stuffing Attack](https://threatpost.com/verizon-visible-wireless-credential-stuffing/175483/)
 <!-- THREAT:END -->
 ---
 
