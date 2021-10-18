@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Sinclair Confirms Ransomware Attack That Disrupted TV Stations](https://threatpost.com/sinclair-ransomware-tv-stations/175548/)
 - [TikTok Serves Up Fresh Gamer Targets via Fake Among Us, Steam Offerings](https://threatpost.com/tiktok-gamer-targets-among-us-steam/175546/)
 - [Twitter Suspends Accounts Used to Snare Security Researchers](https://threatpost.com/twitter-suspends-security-researchers/175524/)
 - [TrickBot Gang Enters Cybercrime Elite with Fresh Affiliates](https://threatpost.com/trickbot-cybercrime-elite-affiliates/175510/)
 - [Missouri Vows to Prosecute ‘Hacker’ Who Informed State About Data Leak](https://threatpost.com/missouri-prosecute-hacker-data-leak/175501/)
-- [Rickroll Grad Prank Exposes Exterity IPTV Bug](https://threatpost.com/rickroll-exterity-iptv-bug/175491/)
 <!-- THREAT:END -->
 ---
 
