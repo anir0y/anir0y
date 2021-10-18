@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Twitter Suspends Accounts Used to Snare Security Researchers](https://threatpost.com/twitter-suspends-security-researchers/175524/)
 - [TrickBot Gang Enters Cybercrime Elite with Fresh Affiliates](https://threatpost.com/trickbot-cybercrime-elite-affiliates/175510/)
 - [Missouri Vows to Prosecute ‘Hacker’ Who Informed State About Data Leak](https://threatpost.com/missouri-prosecute-hacker-data-leak/175501/)
 - [Rickroll Grad Prank Exposes Exterity IPTV Bug](https://threatpost.com/rickroll-exterity-iptv-bug/175491/)
 - [Verizon’s Visible Wireless Carrier Confirms Credential-Stuffing Attack](https://threatpost.com/verizon-visible-wireless-credential-stuffing/175483/)
-- [CryptoRom Scam Rakes in $1.4M by Exploiting Apple Enterprise Features](https://threatpost.com/cryptorom-scammers-apple-enterprise-features/175474/)
 <!-- THREAT:END -->
 ---
 
