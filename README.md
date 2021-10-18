@@ -19,11 +19,11 @@
 ## ClassRoom Updates:
 
 <!-- CLASS:START -->
+- [Try Hack Me Net Sec Challenge](https://classroom.anir0y.in/post/tryhackme-netsecchallenge/)
 - [DigitalOcean Account Setup](https://classroom.anir0y.in/post/ref-do/)
 - [TryHackMe Metasploit Meterpreter](https://classroom.anir0y.in/post/tryhackme-meterpreter/)
 - [Try Hack Me Exploit Vulnerabilities](https://classroom.anir0y.in/post/tryhackme-exploitingavulnerabilityv2.md/)
 - [Try Hack Me Vulnerabilities 101](https://classroom.anir0y.in/post/tryhackme-vulnerabilities101/)
-- [Try Hack Me Empline](https://classroom.anir0y.in/post/tryhackme-empline/)
 <!-- CLASS:END -->
 
 ## Threat Post:
