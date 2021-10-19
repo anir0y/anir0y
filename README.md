@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [TA505 Gang Is Back With Newly Polished FlawedGrace RAT](https://threatpost.com/ta505-retooled-flawedgrace-rat/175559/)
 - [Podcast: Could the Zoho Flaw Trigger SolarWinds 2.0?](https://threatpost.com/podcast-zoho-solarwinds/175553/)
 - [Sinclair Confirms Ransomware Attack That Disrupted TV Stations](https://threatpost.com/sinclair-ransomware-tv-stations/175548/)
 - [TikTok Serves Up Fresh Gamer Targets via Fake Among Us, Steam Offerings](https://threatpost.com/tiktok-gamer-targets-among-us-steam/175546/)
 - [Twitter Suspends Accounts Used to Snare Security Researchers](https://threatpost.com/twitter-suspends-security-researchers/175524/)
-- [TrickBot Gang Enters Cybercrime Elite with Fresh Affiliates](https://threatpost.com/trickbot-cybercrime-elite-affiliates/175510/)
 <!-- THREAT:END -->
 ---
 
