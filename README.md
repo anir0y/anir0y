@@ -31,9 +31,9 @@
 <!-- THREAT:START -->
 - [Feds Warn BlackMatter Ransomware Gang is Poised to Strike](https://threatpost.com/feds-warn-blackmatter-ransomware-gang-is-poised-to-strike/175567/)
 - [TA505 Gang Is Back With Newly Polished FlawedGrace RAT](https://threatpost.com/ta505-retooled-flawedgrace-rat/175559/)
+- [Time to Build Accountability Back into Cybersecurity](https://threatpost.com/accountability-cybersecurity/175571/)
 - [Podcast: Could the Zoho Flaw Trigger SolarWinds 2.0?](https://threatpost.com/podcast-zoho-solarwinds/175553/)
 - [Sinclair Confirms Ransomware Attack That Disrupted TV Stations](https://threatpost.com/sinclair-ransomware-tv-stations/175548/)
-- [TikTok Serves Up Fresh Gamer Targets via Fake Among Us, Steam Offerings](https://threatpost.com/tiktok-gamer-targets-among-us-steam/175546/)
 <!-- THREAT:END -->
 ---
 
