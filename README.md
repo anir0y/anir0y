@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Geriatric Microsoft Bug Exploited by APT Using Commodity RATs](https://threatpost.com/apt-commodity-rats-microsoft-bug/175601/)
 - [Squirrel Bug Lets Attackers Execute Code in Games, Cloud Services](https://threatpost.com/squirrel-attackers-execute-code-games-cloud-services/175586/)
 - [Fresh APT Harvester Reaps Telco, Government Data](https://threatpost.com/apt-harvester-telco-government-data/175585/)
 - [Lyceum APT Returns, This Time Targeting Tunisian Firms](https://threatpost.com/lyceum-apt-tunisian-firms/175579/)
 - [A Guide to Doing Cyberintelligence on a Restricted Budget](https://threatpost.com/guide-cyberintelligence-restricted-budget/175574/)
-- [Feds Warn BlackMatter Ransomware Gang is Poised to Strike](https://threatpost.com/feds-warn-blackmatter-ransomware-gang-is-poised-to-strike/175567/)
 <!-- THREAT:END -->
 ---
 
