@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Gigabyte Allegedly Hit by AvosLocker Ransomware](https://threatpost.com/gigabyte-avoslocker-ransomware-gang/175642/)
 - [Why is Cybersecurity Failing Against Ransomware?](https://threatpost.com/cybersecurity-failing-ransomware/175637/)
 - [Ransomware Sinks Teeth into Candy-Corn Maker Ahead of Halloween](https://threatpost.com/ransomware-candy-corn-halloween/175630/)
 - [Google Crushes YouTube Cookie-Stealing Channel Hijackers](https://threatpost.com/google-youtube-channel-hijackers-cryptocurrency-scams/175617/)
 - [VPN Exposes Data for 1M Users, Leading to Researcher Questioning](https://threatpost.com/vpn-exposes-data-1m/175612/)
-- [Geriatric Microsoft Bug Exploited by APT Using Commodity RATs](https://threatpost.com/apt-commodity-rats-microsoft-bug/175601/)
 <!-- THREAT:END -->
 ---
 
