@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Threat Actors Abuse Discord to Push Malware](https://threatpost.com/threat-actors-abuse-discord-to-push-malware/175663/)
 - [U.S. Ban on Sales of Cyberattack Tools Is Anemic, Experts Warn](https://threatpost.com/us-ban-cyberattack-tools-zerodium/175654/)
 - [TA551 Shifts Tactics to Install Sliver Red-Teaming Tool](https://threatpost.com/ta551-tactics-sliver-red-teaming/175651/)
 - [Gigabyte Allegedly Hit by AvosLocker Ransomware](https://threatpost.com/gigabyte-avoslocker-ransomware-gang/175642/)
 - [Why is Cybersecurity Failing Against Ransomware?](https://threatpost.com/cybersecurity-failing-ransomware/175637/)
-- [Ransomware Sinks Teeth into Candy-Corn Maker Ahead of Halloween](https://threatpost.com/ransomware-candy-corn-halloween/175630/)
 <!-- THREAT:END -->
 ---
 
