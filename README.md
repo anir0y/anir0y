@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Groove Calls for Cyberattacks on US as REvil Payback](https://threatpost.com/groove-ransomware-revil-revenge-us-cyberattacks/175726/)
+- [BillQuick Billing App Rigged to Inflict Ransomware](https://threatpost.com/billquick-billing-app-ransomware/175720/)
 - [SolarWinds APT Targets Tech Resellers in Latest Supply-Chain Cyberattacks](https://threatpost.com/solarwinds-tech-resellers-supply-chain-cyberattacks/175716/)
 - [CISA Urges Sites to Patch Critical RCE in Discourse](https://threatpost.com/cisa-critical-rce-discourse/175705/)
 - [FIN7 Lures Unwitting Security Pros to Carry Out Ransomware Attacks](https://threatpost.com/fin7-security-pros-ransomware-attacks/175681/)
-- [REvil Servers Shoved Offline by Governments – But They’ll Be Back, Researchers Say](https://threatpost.com/revil-servers-offline-governments/175675/)
-- [Cisco SD-WAN Security Bug Allows Root Code Execution](https://threatpost.com/cisco-sd-wan-bug-code-execution-root/175669/)
 <!-- THREAT:END -->
 ---
 
