@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [CISA Urges Sites to Patch Critical RCE in Discourse](https://threatpost.com/cisa-critical-rce-discourse/175705/)
 - [FIN7 Lures Unwitting Security Pros to Carry Out Ransomware Attacks](https://threatpost.com/fin7-security-pros-ransomware-attacks/175681/)
 - [REvil Servers Shoved Offline by Governments – But They’ll Be Back, Researchers Say](https://threatpost.com/revil-servers-offline-governments/175675/)
 - [Cisco SD-WAN Security Bug Allows Root Code Execution](https://threatpost.com/cisco-sd-wan-bug-code-execution-root/175669/)
 - [Threat Actors Abuse Discord to Push Malware](https://threatpost.com/threat-actors-abuse-discord-to-push-malware/175663/)
-- [U.S. Ban on Sales of Cyberattack Tools Is Anemic, Experts Warn](https://threatpost.com/us-ban-cyberattack-tools-zerodium/175654/)
 <!-- THREAT:END -->
 ---
 
