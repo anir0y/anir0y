@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Public Clouds & Shared Responsibility: Lessons from Vulnerability Disclosure](https://threatpost.com/public-clouds-shared-responsibility-vulnerability/175778/)
 - [Lazarus Attackers Turn to the IT Supply Chain](https://threatpost.com/lazarus-apt-it-supply-chain/175772/)
 - [Why the Next-Generation of Application Security Is Needed](https://threatpost.com/next-generation-application-security/175765/)
 - [Attackers Hijack Craigslist Emails to Bypass Security, Deliver Malware](https://threatpost.com/attackers-hijack-craigslist-email-malware/175754/)
 - [Mozilla Firefox Blocks Malicious Add-Ons Installed by 455K Users](https://threatpost.com/mozilla-firefox-blocks-malicious-add-ons-installed-by-455k-users/175745/)
-- [Millions of Android Users Scammed in SMS Fraud Driven by Tik-Tok Ads](https://threatpost.com/android-scammed-sms-fraud-tik-tok/175739/)
 <!-- THREAT:END -->
 ---
 
