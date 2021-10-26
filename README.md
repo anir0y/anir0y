@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Mozilla Firefox Blocks Malicious Add-Ons Installed by 455K Users](https://threatpost.com/mozilla-firefox-blocks-malicious-add-ons-installed-by-455k-users/175745/)
 - [Millions of Android Users Scammed in SMS Fraud Driven by Tik-Tok Ads](https://threatpost.com/android-scammed-sms-fraud-tik-tok/175739/)
 - [Defending Assets You Don’t Know About, Against Cyberattacks](https://threatpost.com/defending-unknown-assets-cyberattacks/175730/)
 - [Groove Calls for Cyberattacks on US as REvil Payback](https://threatpost.com/groove-ransomware-revil-revenge-us-cyberattacks/175726/)
 - [BQE Web Suite Billing App Rigged to Inflict Ransomware](https://threatpost.com/bqe-web-suite-billing-app-ransomware/175720/)
-- [SolarWinds APT Targets Tech Resellers in Latest Supply-Chain Cyberattacks](https://threatpost.com/solarwinds-tech-resellers-supply-chain-cyberattacks/175716/)
 <!-- THREAT:END -->
 ---
 
