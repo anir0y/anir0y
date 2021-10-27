@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Teen Rakes in $2.74M Worth of Bitcoin in Phishing Scam](https://threatpost.com/teen-rakes-in-2-74m-worth-of-bitcoin-in-phishing-scam/175834/)
 - [Adobe’s Surprise Security Bulletin Dominated by Critical Patches](https://threatpost.com/critical-patches-adobe-security-bulletin/175825/)
 - [War-Driving Technique Allows Wi-Fi Password-Cracking at Scale](https://threatpost.com/war-driving-wi-fi-password-cracking/175817/)
 - [Apple Patches Critical iOS Bugs; One Under Attack](https://threatpost.com/apple-patches-ios-bugs/175803/)
 - [Cyberattack Cripples Iranian Fuel Distribution Network](https://threatpost.com/cyberattack-cripples-iranian-fuel-distribution-network/175794/)
-- [SquirrelWaffle Loader Malspams, Packing Qakbot, Cobalt Strike](https://threatpost.com/squirrelwaffle-loader-malspams-packing-qakbot-cobalt-strike/175775/)
 <!-- THREAT:END -->
 ---
 
