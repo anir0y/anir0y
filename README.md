@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Adobe’s Surprise Security Bulletin Dominated by Critical Patches](https://threatpost.com/critical-patches-adobe-security-bulletin/175825/)
 - [War-Driving Technique Allows Wi-Fi Password-Cracking at Scale](https://threatpost.com/war-driving-wi-fi-password-cracking/175817/)
 - [Apple Patches Critical iOS Bugs; One Under Attack](https://threatpost.com/apple-patches-ios-bugs/175803/)
-- [Cyber Attack Cripples Iranian Fuel Distribution Network](https://threatpost.com/cyber-attack-cripples-iranian-fuel-distribution-network/175794/)
+- [Cyberattack Cripples Iranian Fuel Distribution Network](https://threatpost.com/cyberattack-cripples-iranian-fuel-distribution-network/175794/)
 - [SquirrelWaffle Loader Malspams, Packing Qakbot, Cobalt Strike](https://threatpost.com/squirrelwaffle-loader-malspams-packing-qakbot-cobalt-strike/175775/)
-- [Public Clouds & Shared Responsibility: Lessons from Vulnerability Disclosure](https://threatpost.com/public-clouds-shared-responsibility-vulnerability/175778/)
 <!-- THREAT:END -->
 ---
 
