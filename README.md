@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Cyber Attack Cripples Iranian Fuel Distribution Network](https://threatpost.com/cyber-attack-cripples-iranian-fuel-distribution-network/175794/)
 - [SquirrelWaffle Loader Malspams, Packing Qakbot, Cobalt Strike](https://threatpost.com/squirrelwaffle-loader-malspams-packing-qakbot-cobalt-strike/175775/)
 - [Public Clouds & Shared Responsibility: Lessons from Vulnerability Disclosure](https://threatpost.com/public-clouds-shared-responsibility-vulnerability/175778/)
 - [Lazarus Attackers Turn to the IT Supply Chain](https://threatpost.com/lazarus-apt-it-supply-chain/175772/)
 - [Why the Next-Generation of Application Security Is Needed](https://threatpost.com/next-generation-application-security/175765/)
-- [Attackers Hijack Craigslist Emails to Bypass Security, Deliver Malware](https://threatpost.com/attackers-hijack-craigslist-email-malware/175754/)
 <!-- THREAT:END -->
 ---
 
