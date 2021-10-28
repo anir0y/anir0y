@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Grief Ransomware Targets NRA](https://threatpost.com/grief-ransomware-nra/175850/)
 - [WordPress Plugin Bug Lets Subscribers Wipe Sites](https://threatpost.com/wordpress-plugin-bug-wipe-sites/175826/)
 - [Ransomware Attacks Are Evolving. Your Security Strategy Should, Too](https://threatpost.com/ransomware-attacks-evolving-security-strategy/175835/)
 - [Teen Rakes in $2.74M Worth of Bitcoin in Phishing Scam](https://threatpost.com/teen-rakes-in-2-74m-worth-of-bitcoin-in-phishing-scam/175834/)
 - [Adobe’s Surprise Security Bulletin Dominated by Critical Patches](https://threatpost.com/critical-patches-adobe-security-bulletin/175825/)
-- [War-Driving Technique Allows Wi-Fi Password-Cracking at Scale](https://threatpost.com/war-driving-wi-fi-password-cracking/175817/)
 <!-- THREAT:END -->
 ---
 
