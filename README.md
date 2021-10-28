@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Suspected REvil Gang Insider Identified](https://threatpost.com/revil-ransomware-core-member/175863/)
 - [EU’s Green Pass Vaccination ID Private Key Leaked](https://threatpost.com/eus-green-pass-vaccination-id-private-key-leaked/175857/)
 - [Grief Ransomware Targets NRA](https://threatpost.com/grief-ransomware-nra/175850/)
 - [WordPress Plugin Bug Lets Subscribers Wipe Sites](https://threatpost.com/wordpress-plugin-bug-wipe-sites/175826/)
 - [Ransomware Attacks Are Evolving. Your Security Strategy Should, Too](https://threatpost.com/ransomware-attacks-evolving-security-strategy/175835/)
-- [Teen Rakes in $2.74M Worth of Bitcoin in Phishing Scam](https://threatpost.com/teen-rakes-in-2-74m-worth-of-bitcoin-in-phishing-scam/175834/)
 <!-- THREAT:END -->
 ---
 
