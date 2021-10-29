@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Google Chrome is Abused to Deliver Malware as ‘Legit’ Win 10 App](https://threatpost.com/chrome-deliver-malware-as-legit-win-10-app/175884/)
 - [All Sectors Are Now Prey as Cyber Threats Expand Targeting](https://threatpost.com/cyber-threats-targeting-all-sectors/175873/)
 - [Suspected REvil Gang Insider Identified](https://threatpost.com/revil-ransomware-core-member/175863/)
 - [EU’s Green Pass Vaccination ID Private Key Leaked](https://threatpost.com/eus-green-pass-vaccination-id-private-key-leaked/175857/)
 - [Grief Ransomware Targets NRA](https://threatpost.com/grief-ransomware-nra/175850/)
-- [WordPress Plugin Bug Lets Subscribers Wipe Sites](https://threatpost.com/wordpress-plugin-bug-wipe-sites/175826/)
 <!-- THREAT:END -->
 ---
 
