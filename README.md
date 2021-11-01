@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Pirate Sports Streamer Gets Busted, Pivots to MLB Extortion](https://threatpost.com/pirate-sports-streamer-mlb-extortion/175898/)
 - [‘Trojan Source’ Hides Invisible Bugs in Source Code](https://threatpost.com/trojan-source-invisible-bugs-source-code/175891/)
 - [Google Chrome is Abused to Deliver Malware as ‘Legit’ Win 10 App](https://threatpost.com/chrome-deliver-malware-as-legit-win-10-app/175884/)
 - [All Sectors Are Now Prey as Cyber Threats Expand Targeting](https://threatpost.com/cyber-threats-targeting-all-sectors/175873/)
 - [Suspected REvil Gang Insider Identified](https://threatpost.com/revil-ransomware-core-member/175863/)
-- [EU’s Green Pass Vaccination ID Private Key Leaked](https://threatpost.com/eus-green-pass-vaccination-id-private-key-leaked/175857/)
 <!-- THREAT:END -->
 ---
 
