@@ -29,11 +29,11 @@
 ## Threat Post:
 
 <!-- THREAT:START -->
+- [Office 365 Phishing Campaign Uses Kaspersky’s Amazon SES Token](https://threatpost.com/office-365-phishing-campaign-kasperskys-amazon-ses-token/175915/)
 - [Pirate Sports Streamer Gets Busted, Pivots to MLB Extortion](https://threatpost.com/pirate-sports-streamer-mlb-extortion/175898/)
 - [‘Trojan Source’ Hides Invisible Bugs in Source Code](https://threatpost.com/trojan-source-invisible-bugs-source-code/175891/)
 - [Google Chrome is Abused to Deliver Malware as ‘Legit’ Win 10 App](https://threatpost.com/chrome-deliver-malware-as-legit-win-10-app/175884/)
 - [All Sectors Are Now Prey as Cyber Threats Expand Targeting](https://threatpost.com/cyber-threats-targeting-all-sectors/175873/)
-- [Suspected REvil Gang Insider Identified](https://threatpost.com/revil-ransomware-core-member/175863/)
 <!-- THREAT:END -->
 ---
 
