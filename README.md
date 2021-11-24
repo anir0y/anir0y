@@ -24,11 +24,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
+- [Try Hack Me CyberCrafted](https://classroom.anir0y.in/post/tryhackme-cybercrafted/)
 - [Try Hack Me REvil Corp](https://classroom.anir0y.in/post/tryhackme-revilcorp/)
 - [Try Hack Me Phishing](https://classroom.anir0y.in/post/tryhackme-phishingyl/)
 - [Try Hack Me Vulnerability Capstone[writeup]](https://classroom.anir0y.in/post/tryhackme-vulnerabilitycapstone/)
 - [Try Hack Me Net Sec Challenge](https://classroom.anir0y.in/post/tryhackme-netsecchallenge/)
-- [DigitalOcean Account Setup](https://classroom.anir0y.in/post/ref-do/)
 <!-- CLASS:END -->
 
 ---
