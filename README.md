@@ -24,11 +24,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
+- [Classroom | NFS Installation & enumeation](https://classroom.anir0y.in/post/classroom-nfs/)
 - [Try Hack Me Road](https://classroom.anir0y.in/post/tryhackme-road/)
 - [Try Hack Me CyberCrafted](https://classroom.anir0y.in/post/tryhackme-cybercrafted/)
 - [Try Hack Me REvil Corp](https://classroom.anir0y.in/post/tryhackme-revilcorp/)
 - [Try Hack Me Phishing](https://classroom.anir0y.in/post/tryhackme-phishingyl/)
-- [Try Hack Me Vulnerability Capstone[writeup]](https://classroom.anir0y.in/post/tryhackme-vulnerabilitycapstone/)
 <!-- CLASS:END -->
 
 ---
