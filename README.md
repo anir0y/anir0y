@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [Unusual ‘Donald Trump’ Packer Malware Delivers RATs, Infostealers](https://threatpost.com/donald-trump-packer-malware-infostealers/177887/)
 - [The Internet’s Most Tempting Targets](https://threatpost.com/internet-most-tempting-targets/177869/)
 - [Merck Awarded $1.4B Insurance Payout over NotPetya Attack](https://threatpost.com/merck-insurance-payout-notpetya-attack/177872/)
 - [20K WordPress Sites Exposed by Insecure Plugin REST-API](https://threatpost.com/wordpress-insecure-plugin-rest-api/177866/)
 - [McAfee Bug Can Be Exploited to Gain Windows SYSTEM Privileges](https://threatpost.com/mcafee-bug-windows-system-privileges/177857/)
-- [Spyware Blitzes Compromise, Cannibalize ICS Networks](https://threatpost.com/spyware-blitzes-compromise-cannibalize-ics-networks/177851/)
 <!-- THREAT:END -->
 
 ---
