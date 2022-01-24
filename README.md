@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [Linux Servers at Risk of RCE Due to Critical CWP Bugs](https://threatpost.com/linux-servers-rce-critical-cwp-bugs/177906/)
 - [MoleRats APT Launches Spy Campaign on Bankers, Politicians, Journalists](https://threatpost.com/molerats-apt-spy-bankers-politicians-journalists/177907/)
 - [Surge in Malicious QR Codes Sparks FBI Alert](https://threatpost.com/fbi-malicious-qr-codes/177902/)
 - [Dark Souls 3 Servers Shut Down Due to Critical RCE Bug](https://threatpost.com/dark-souls-servers-down-rce-bug/177896/)
 - [Unusual ‘Donald Trump’ Packer Malware Delivers RATs, Infostealers](https://threatpost.com/donald-trump-packer-malware-infostealers/177887/)
-- [The Internet’s Most Tempting Targets](https://threatpost.com/internet-most-tempting-targets/177869/)
 <!-- THREAT:END -->
 
 ---
