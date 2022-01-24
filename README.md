@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [Surge in Malicious QR Codes Sparks FBI Alert](https://threatpost.com/fbi-malicious-qr-codes/177902/)
+- [Dark Souls 3 Servers Shut Down Due to Critical RCE Bug](https://threatpost.com/dark-souls-servers-down-rce-bug/177896/)
 - [Unusual ‘Donald Trump’ Packer Malware Delivers RATs, Infostealers](https://threatpost.com/donald-trump-packer-malware-infostealers/177887/)
 - [The Internet’s Most Tempting Targets](https://threatpost.com/internet-most-tempting-targets/177869/)
 - [Merck Awarded $1.4B Insurance Payout over NotPetya Attack](https://threatpost.com/merck-insurance-payout-notpetya-attack/177872/)
-- [20K WordPress Sites Exposed by Insecure Plugin REST-API](https://threatpost.com/wordpress-insecure-plugin-rest-api/177866/)
-- [McAfee Bug Can Be Exploited to Gain Windows SYSTEM Privileges](https://threatpost.com/mcafee-bug-windows-system-privileges/177857/)
 <!-- THREAT:END -->
 
 ---
