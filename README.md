@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [MoleRats APT Launches Spy Campaign on Bankers, Politicians, Journalists](https://threatpost.com/molerats-apt-spy-bankers-politicians-journalists/177907/)
 - [Surge in Malicious QR Codes Sparks FBI Alert](https://threatpost.com/fbi-malicious-qr-codes/177902/)
 - [Dark Souls 3 Servers Shut Down Due to Critical RCE Bug](https://threatpost.com/dark-souls-servers-down-rce-bug/177896/)
 - [Unusual ‘Donald Trump’ Packer Malware Delivers RATs, Infostealers](https://threatpost.com/donald-trump-packer-malware-infostealers/177887/)
 - [The Internet’s Most Tempting Targets](https://threatpost.com/internet-most-tempting-targets/177869/)
-- [Merck Awarded $1.4B Insurance Payout over NotPetya Attack](https://threatpost.com/merck-insurance-payout-notpetya-attack/177872/)
 <!-- THREAT:END -->
 
 ---
