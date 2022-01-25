@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
-- [New MacOS Malware ‘DazzleSpy’ Used in Watering-Hole Attacks](https://threatpost.com/macos-malware-dazzlespy-watering-hole-attacks/177943/)
+- [Cyberattacks on Squid Game Minecraft Tourney Take Down Andorra’s Internet](https://threatpost.com/cyberattacks-squid-game-minecraft-andorra-internet/177981/)
+- [Ozzy Osbourne NFTs Used to Bite Off Chunk of Crypto Coin](https://threatpost.com/ozzy-osbourne-nfts-cryptocurrency/177969/)
+- [Segway Hit by Magecart Attack Hiding in a Favicon](https://threatpost.com/segway-magecart-attack-favicon/177971/)
+- [MacOS Malware ‘DazzleSpy’ Used in Watering-Hole Attacks](https://threatpost.com/macos-malware-dazzlespy-watering-hole-attacks/177943/)
 - [AdSanity, AccessPress Plugins Open Scads of WordPress Sites to Takeover](https://threatpost.com/adsanity-accesspress-plugins-wordpress-sites-takeover/177932/)
-- [BRATA Android Trojan Updated with ‘Kill Switch’ that Wipes Devices](https://threatpost.com/brata-android-trojan-kill-switch-wipes/177921/)
-- [Linux Servers at Risk of RCE Due to Critical CWP Bugs](https://threatpost.com/linux-servers-rce-critical-cwp-bugs/177906/)
-- [MoleRats APT Launches Spy Campaign on Bankers, Politicians, Journalists](https://threatpost.com/molerats-apt-spy-bankers-politicians-journalists/177907/)
 <!-- THREAT:END -->
 
 ---
