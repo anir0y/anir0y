@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [‘Dark Herring’ Billing Malware Swims onto 105M Android Devices](https://threatpost.com/dark-herring-billing-malware-android/178032/)
 - [New Year, New Threats: 4 Tips to Activate Your Best Cyber-Defense](https://threatpost.com/tips-activate-cyber-defense/177955/)
 - [Cybercriminals Love Supply-Chain Chaos: Here’s How to Protect Your Inbox](https://threatpost.com/cybercriminals-supply-chain-protect-inbox/178002/)
 - [Linux Bug in All Major Distros: ‘An Attacker’s Dream Come True’](https://threatpost.com/linux-bug-in-all-major-distros-an-attackers-dream-come-true/177996/)
 - [Threat Actors Blanket Androids with Flubot, Teabot Campaigns](https://threatpost.com/threat-actors-androids-flubot-teabot-campaigns/177991/)
-- [Cyberattacks on Squid Game Minecraft Tourney Take Down Andorra’s Internet](https://threatpost.com/cyberattacks-squid-game-minecraft-andorra-internet/177981/)
 <!-- THREAT:END -->
 
 ---
