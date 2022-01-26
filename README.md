@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [Threat Actors Blanket Androids with Flubot, Teabot Campaigns](https://threatpost.com/threat-actors-androids-flubot-teabot-campaigns/177991/)
 - [Cyberattacks on Squid Game Minecraft Tourney Take Down Andorra’s Internet](https://threatpost.com/cyberattacks-squid-game-minecraft-andorra-internet/177981/)
 - [Ozzy Osbourne NFTs Used to Bite Off Chunk of Crypto Coin](https://threatpost.com/ozzy-osbourne-nfts-cryptocurrency/177969/)
 - [Segway Hit by Magecart Attack Hiding in a Favicon](https://threatpost.com/segway-magecart-attack-favicon/177971/)
 - [MacOS Malware ‘DazzleSpy’ Used in Watering-Hole Attacks](https://threatpost.com/macos-malware-dazzlespy-watering-hole-attacks/177943/)
-- [AdSanity, AccessPress Plugins Open Scads of WordPress Sites to Takeover](https://threatpost.com/adsanity-accesspress-plugins-wordpress-sites-takeover/177932/)
 <!-- THREAT:END -->
 
 ---
