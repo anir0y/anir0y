@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [Shipment-Delivery Scams a Fav Way to Spread Malware](https://threatpost.com/shipment-delivery-scams-a-fav-way-to-spread-malware/178050/)
 - [How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution](https://threatpost.com/secure-saas-stack-security-posture-solution/177815/)
 - [TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade](https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/)
 - [Apple Fixes 2 Zero-Day Security Bugs, One Exploited in the Wild](https://threatpost.com/apple-zero-day-security-exploited/178040/)
 - [‘Dark Herring’ Billing Malware Swims onto 105M Android Devices](https://threatpost.com/dark-herring-billing-malware-android/178032/)
-- [New Year, New Threats: 4 Tips to Activate Your Best Cyber-Defense](https://threatpost.com/tips-activate-cyber-defense/177955/)
 <!-- THREAT:END -->
 
 ---
