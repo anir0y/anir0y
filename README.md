@@ -33,7 +33,7 @@
 
 
 <!-- THREAT:START -->
-- [BotenaGo Botnet Code Leaked to GitHub](https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/)
+- [BotenaGo Botnet Code Leaked to GitHub, Impacting Millions of Devices](https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/)
 - [Shipment-Delivery Scams Become the Favored Way to Spread Malware](https://threatpost.com/shipment-delivery-scams-a-fav-way-to-spread-malware/178050/)
 - [How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution](https://threatpost.com/secure-saas-stack-security-posture-solution/177815/)
 - [TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade](https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/)
