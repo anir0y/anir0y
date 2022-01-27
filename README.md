@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
-- [Shipment-Delivery Scams a Fav Way to Spread Malware](https://threatpost.com/shipment-delivery-scams-a-fav-way-to-spread-malware/178050/)
+- [BotenaGo Botnet Code Leaked to GitHub](https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/)
+- [Shipment-Delivery Scams Become the Favored Way to Spread Malware](https://threatpost.com/shipment-delivery-scams-a-fav-way-to-spread-malware/178050/)
 - [How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution](https://threatpost.com/secure-saas-stack-security-posture-solution/177815/)
 - [TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade](https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/)
 - [Apple Fixes 2 Zero-Day Security Bugs, One Exploited in the Wild](https://threatpost.com/apple-zero-day-security-exploited/178040/)
-- [‘Dark Herring’ Billing Malware Swims onto 105M Android Devices](https://threatpost.com/dark-herring-billing-malware-android/178032/)
 <!-- THREAT:END -->
 
 ---
