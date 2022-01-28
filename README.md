@@ -33,11 +33,11 @@
 
 
 <!-- THREAT:START -->
+- [Conti, DeadBolt Target Delta, QNAP](https://threatpost.com/conti-deadbolt-delta-qnap-ransomware/178083/)
+- [Shlayer and Bundlore MacOS Malware Strains – How Uptycs EDR Detection Can Help](https://threatpost.com/shlayer-and-bundlore-macos-malware-strains-how-uptycs-edr-detection-can-help/168791/)
 - [2FA App Loaded with Banking Trojan Infests 10K Victims via Google Play](https://threatpost.com/2fa-app-banking-trojan-google-play/178077/)
 - [BotenaGo Botnet Code Leaked to GitHub, Impacting Millions of Devices](https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/)
 - [Shipment-Delivery Scams Become the Favored Way to Spread Malware](https://threatpost.com/shipment-delivery-scams-a-fav-way-to-spread-malware/178050/)
-- [How to Secure Your SaaS Stack with a SaaS Security Posture Management Solution](https://threatpost.com/secure-saas-stack-security-posture-solution/177815/)
-- [TrickBot Crashes Security Researchers’ Browsers in Latest Upgrade](https://threatpost.com/trickbot-crash-security-researchers-browsers/178046/)
 <!-- THREAT:END -->
 
 ---
