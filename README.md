@@ -33,7 +33,7 @@
 
 
 <!-- THREAT:START -->
-- [Conti, DeadBolt Target Delta, QNAP](https://threatpost.com/conti-deadbolt-delta-qnap-ransomware/178083/)
+- [Conti, DeadBolt Ransomwares Target Delta, QNAP](https://threatpost.com/conti-deadbolt-delta-qnap-ransomware/178083/)
 - [Shlayer and Bundlore MacOS Malware Strains – How Uptycs EDR Detection Can Help](https://threatpost.com/shlayer-and-bundlore-macos-malware-strains-how-uptycs-edr-detection-can-help/168791/)
 - [2FA App Loaded with Banking Trojan Infests 10K Victims via Google Play](https://threatpost.com/2fa-app-banking-trojan-google-play/178077/)
 - [BotenaGo Botnet Code Leaked to GitHub, Impacting Millions of Devices](https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/)
