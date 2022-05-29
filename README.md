@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
-- [Lazarus APT Uses Windows Update to Spew Malware](https://threatpost.com/lazarus-apt-windows-update-malware-github/178096/)
-- [Zerodium Spikes Payout for Zero-Click Outlook Zero-Days](https://threatpost.com/zerodium-payout-outlook-zero-days/178089/)
-- [Conti, DeadBolt Ransomwares Target Delta, QNAP](https://threatpost.com/conti-deadbolt-delta-qnap-ransomware/178083/)
-- [2FA App Loaded with Banking Trojan Infests 10K Victims via Google Play](https://threatpost.com/2fa-app-banking-trojan-google-play/178077/)
-- [BotenaGo Botnet Code Leaked to GitHub, Impacting Millions of Devices](https://threatpost.com/botenago-botnet-code-leaked-to-github/178059/)
+- [Critical Flaws in Popular ICS Platform Can Trigger RCE](https://threatpost.com/critical-flaws-in-popular-ics-platform-can-trigger-rce/179750/)
+- [Cybergang Claims REvil is Back, Executes DDoS Attacks](https://threatpost.com/cybergang-claims-revil-is-back-executes-ddos-attacks/179734/)
+- [Link Found Connecting Chaos, Onyx and Yashma Ransomware](https://threatpost.com/chaos-onyx-and-yashma-ransomware/179730/)
+- [Zoom Patches ‘Zero-Click’ RCE Bug](https://threatpost.com/zoom-patches-zero-click-rce-bug/179727/)
+- [Verizon Report: Ransomware, Human Error Among Top Security Risks](https://threatpost.com/verizon-dbir-report-2022/179725/)
 <!-- THREAT:END -->
 
 ---
