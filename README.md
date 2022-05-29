@@ -25,11 +25,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
-- [TryHackMe Phishing Emails 2](https://classroom.anir0y.in/post/tryhackme-phishingemails-2/)
-- [Try Hack Me Phishing Emails 1](https://classroom.anir0y.in/post/phishingemails1tryoe/)
-- [Try Hack Me Android Malware Analysis](https://classroom.anir0y.in/post/tryhackme-androidmalwareanalysis/)
-- [Classroom | NFS Installation & enumeation](https://classroom.anir0y.in/post/classroom-nfs/)
-- [Try Hack Me Road](https://classroom.anir0y.in/post/tryhackme-road/)
+- [Steganography with Steghide](https://classroom.anir0y.in/post/stegnography/)
+- [Try Hack Me Operating System Security [WriteUp]](https://classroom.anir0y.in/post/tryhackme-operatingsystemsecurity/)
+- [TryHackMe Oh My Webserver](https://classroom.anir0y.in/post/tryhackme-oh-my-webserver/)
+- [DVWA Docker Setup](https://classroom.anir0y.in/post/dvwa-docker-setup/)
+- [Domain Enumeration Cheat Sheet](https://classroom.anir0y.in/post/notes-domainenum/)
 <!-- CLASS:END -->
 
 
