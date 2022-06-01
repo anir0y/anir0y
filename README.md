@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Microsoft Releases Workaround for ‘One-Click’ 0Day Under Active Attack](https://threatpost.com/microsoft-workaround-0day-attack/179776/)
 - [EnemyBot Malware Targets Web Servers, CMS Tools and Android OS](https://threatpost.com/enemybot-malware-targets-web-servers-cms-tools-and-android-os/179765/)
 - [ChromeLoader Browser Hijacker Provides Gateway to Bigger Threats](https://threatpost.com/chromeloader-hijacker-threats/179761/)
 - [Zero-Day ‘Follina’ Bug Lays Microsoft Office Open to Attack](https://threatpost.com/zero-day-follina-bug-lays-older-microsoft-office-versions-open-to-attack/179756/)
 - [Critical Flaws in Popular ICS Platform Can Trigger RCE](https://threatpost.com/critical-flaws-in-popular-ics-platform-can-trigger-rce/179750/)
-- [Cybergang Claims REvil is Back, Executes DDoS Attacks](https://threatpost.com/cybergang-claims-revil-is-back-executes-ddos-attacks/179734/)
 <!-- THREAT:END -->
 
 ---
