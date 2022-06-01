@@ -1,5 +1,5 @@
 # Anir0y
-![img](https://raw.githubusercontent.com/anir0y/cdn/main/meta.png)
+
 
 <p align="center"><em>10+ years in Infosec Domain<br>
   Scripting in my square time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
