@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Cybercriminals Expand Attack Radius and Ransomware Pain Points](https://threatpost.com/criminals-expand-attack-radius/179832/)
 - [Scammers Target NFT Discord Channel](https://threatpost.com/scammers-target-nft-discord-channel/179827/)
 - [International Authorities Take Down Flubot Malware Network](https://threatpost.com/international-authorities-take-down-flubot-malware-network/179825/)
 - [Being prepared for adversarial attacks](https://threatpost.com/threatpost-manky-fortinet/179821/)
 - [Microsoft Releases Workaround for ‘One-Click’ 0Day Under Active Attack](https://threatpost.com/microsoft-workaround-0day-attack/179776/)
-- [EnemyBot Malware Targets Web Servers, CMS Tools and Android OS](https://threatpost.com/enemybot-malware-targets-web-servers-cms-tools-and-android-os/179765/)
 <!-- THREAT:END -->
 
 ---
