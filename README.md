@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Scammers Target NFT Discord Channel](https://threatpost.com/scammers-target-nft-discord-channel/179827/)
+- [International Authorities Take Down Flubot Malware Network](https://threatpost.com/international-authorities-take-down-flubot-malware-network/179825/)
 - [Being prepared for adversarial attacks](https://threatpost.com/threatpost-manky-fortinet/179821/)
 - [Microsoft Releases Workaround for ‘One-Click’ 0Day Under Active Attack](https://threatpost.com/microsoft-workaround-0day-attack/179776/)
 - [EnemyBot Malware Targets Web Servers, CMS Tools and Android OS](https://threatpost.com/enemybot-malware-targets-web-servers-cms-tools-and-android-os/179765/)
-- [ChromeLoader Browser Hijacker Provides Gateway to Bigger Threats](https://threatpost.com/chromeloader-hijacker-threats/179761/)
-- [Zero-Day ‘Follina’ Bug Lays Microsoft Office Open to Attack](https://threatpost.com/zero-day-follina-bug-lays-older-microsoft-office-versions-open-to-attack/179756/)
 <!-- THREAT:END -->
 
 ---
