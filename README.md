@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Attackers Use Public Exploits to Throttle Atlassian Confluence Flaw](https://threatpost.com/public-exploits-atlassian-confluence-flaw/179887/)
 - [Old Hacks Die Hard: Ransomware, Social Engineering Top Verizon DBIR Threats – Again](https://threatpost.com/old-hacks-die-hard-ransomware-social-engineering-top-verizon-dbir-threats-again/179864/)
 - [Evil Corp Pivots LockBit to Dodge U.S. Sanctions](https://threatpost.com/evil-corp-pivots-to-lockbit-to-dodge-u-s-sanctions/179858/)
 - [Cybercriminals Expand Attack Radius and Ransomware Pain Points](https://threatpost.com/criminals-expand-attack-radius/179832/)
 - [Scammers Target NFT Discord Channel](https://threatpost.com/scammers-target-nft-discord-channel/179827/)
-- [International Authorities Take Down Flubot Malware Network](https://threatpost.com/international-authorities-take-down-flubot-malware-network/179825/)
 <!-- THREAT:END -->
 
 ---
