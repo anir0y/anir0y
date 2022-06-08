@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Paying Ransomware Paints Bigger Bullseye on Target’s Back](https://threatpost.com/paying-ransomware-bullseye-back/179915/)
 - [Black Basta Ransomware Teams Up with Malware Stalwart Qbot](https://threatpost.com/black-basta-ransomware-qbot/179909/)
 - [Cyber Risk Retainers: Not Another Insurance Policy](https://threatpost.com/cyber-risk-retainers-not-another-insurance-policy/179895/)
 - [Conducting Modern Insider Risk Investigations](https://threatpost.com/conducting-modern-insider-risk-investigations/179869/)
 - [Follina Exploited by State-Sponsored Hackers](https://threatpost.com/follina-exploited-by-state-sponsored-hackers/179890/)
-- [Attackers Use Public Exploits to Throttle Atlassian Confluence Flaw](https://threatpost.com/public-exploits-atlassian-confluence-flaw/179887/)
 <!-- THREAT:END -->
 
 ---
