@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Black Basta Ransomware Teams Up with Malware Stalwart Qbot](https://threatpost.com/black-basta-ransomware-qbot/179909/)
 - [Cyber Risk Retainers: Not Another Insurance Policy](https://threatpost.com/cyber-risk-retainers-not-another-insurance-policy/179895/)
 - [Conducting Modern Insider Risk Investigations](https://threatpost.com/conducting-modern-insider-risk-investigations/179869/)
 - [Follina Exploited by State-Sponsored Hackers](https://threatpost.com/follina-exploited-by-state-sponsored-hackers/179890/)
 - [Attackers Use Public Exploits to Throttle Atlassian Confluence Flaw](https://threatpost.com/public-exploits-atlassian-confluence-flaw/179887/)
-- [Old Hacks Die Hard: Ransomware, Social Engineering Top Verizon DBIR Threats – Again](https://threatpost.com/old-hacks-die-hard-ransomware-social-engineering-top-verizon-dbir-threats-again/179864/)
 <!-- THREAT:END -->
 
 ---
