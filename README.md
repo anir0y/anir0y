@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Feds Forced Travel Firms to Share Surveillance Data on Hacker](https://threatpost.com/feds-forced-travel-firms-to-share-surveillance-data-on-hacker/179929/)
 - [Taming the Digital Asset Tsunami](https://threatpost.com/digital-asset-tsunami/179917/)
 - [Paying Ransomware Paints Bigger Bullseye on Target’s Back](https://threatpost.com/paying-ransomware-bullseye-back/179915/)
 - [Black Basta Ransomware Teams Up with Malware Stalwart Qbot](https://threatpost.com/black-basta-ransomware-qbot/179909/)
 - [Cyber Risk Retainers: Not Another Insurance Policy](https://threatpost.com/cyber-risk-retainers-not-another-insurance-policy/179895/)
-- [Conducting Modern Insider Risk Investigations](https://threatpost.com/conducting-modern-insider-risk-investigations/179869/)
 <!-- THREAT:END -->
 
 ---
