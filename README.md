@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [U.S. Water Utilities Prime Cyberattack Target, Experts](https://threatpost.com/water-cyberattack-target/179935/)
 - [Potent Emotet Variant Spreads Via Stolen Email Credentials](https://threatpost.com/potent-emotet-variant-spreads-via-stolen-email-credentials/179932/)
 - [Feds Forced Travel Firms to Share Surveillance Data on Hacker](https://threatpost.com/feds-forced-travel-firms-to-share-surveillance-data-on-hacker/179929/)
 - [Taming the Digital Asset Tsunami](https://threatpost.com/digital-asset-tsunami/179917/)
 - [Paying Ransomware Paints Bigger Bullseye on Target’s Back](https://threatpost.com/paying-ransomware-bullseye-back/179915/)
-- [Black Basta Ransomware Teams Up with Malware Stalwart Qbot](https://threatpost.com/black-basta-ransomware-qbot/179909/)
 <!-- THREAT:END -->
 
 ---
