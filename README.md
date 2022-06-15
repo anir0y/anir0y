@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [DragonForce Gang Unleash Hacks Against Govt. of India](https://threatpost.com/hackers-india-government/179968/)
+- [Travel-related Cybercrime Takes Off as Industry Rebounds](https://threatpost.com/travel-related-cybercrime-takes-off/179962/)
+- [In Cybersecurity, What You Can’t See Can Hurt You](https://threatpost.com/cybersecurity-cant-see-can-hurt-you/179954/)
 - [Kaiser Permanente Exposes Nearly 70K Medical Records in Data Breach](https://threatpost.com/kaiser-permanente-breach/179949/)
 - [Linux Malware Deemed ‘Nearly Impossible’ to Detect](https://threatpost.com/linux-malware-impossible-detect/179944/)
-- [Bluetooth Signals Can Be Used to Track Smartphones, Say Researchers](https://threatpost.com/bluetooth-signals-track-smartphones/179937/)
-- [U.S. Water Utilities Prime Cyberattack Target, Experts](https://threatpost.com/water-cyberattack-target/179935/)
-- [Potent Emotet Variant Spreads Via Stolen Email Credentials](https://threatpost.com/potent-emotet-variant-spreads-via-stolen-email-credentials/179932/)
 <!-- THREAT:END -->
 
 ---
