@@ -25,11 +25,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
+- [Basics of Ransomware](https://classroom.anir0y.in/post/what_is_ransomware/)
 - [OSINT Resources I](https://classroom.anir0y.in/post/osint_resources-i/)
 - [Steganography with Steghide](https://classroom.anir0y.in/post/stegnography/)
 - [Try Hack Me Operating System Security [WriteUp]](https://classroom.anir0y.in/post/tryhackme-operatingsystemsecurity/)
 - [TryHackMe Oh My Webserver](https://classroom.anir0y.in/post/tryhackme-oh-my-webserver/)
-- [DVWA Docker Setup](https://classroom.anir0y.in/post/dvwa-docker-setup/)
 <!-- CLASS:END -->
 
 
