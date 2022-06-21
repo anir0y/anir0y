@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Kazakh Govt. Used Spyware Against Protesters](https://threatpost.com/kazakh-govt-used-spyware-against-protesters/180016/)
+- [Office 365 Config Loophole Opens OneDrive, SharePoint Data to Ransomware Attack](https://threatpost.com/office-365-opens-ransomware-attacks-on-onedrive-sharepoint/180010/)
 - [Voicemail Scam Steals Microsoft Credentials](https://threatpost.com/voicemail-phishing-scam-steals-microsoft-credentials/180005/)
 - [China-linked APT Flew Under Radar for Decade](https://threatpost.com/apt-flew-under-radar-decade/179995/)
 - [State-Sponsored Phishing Attack Targeted Israeli Military Officials](https://threatpost.com/phishing-attack-israeli-officials/179987/)
-- [Ransomware Risk in Healthcare Endangers Patients](https://threatpost.com/ransomware-risk-healthcare/179980/)
-- [Facebook Messenger Scam Duped Millions](https://threatpost.com/acebook-messenger-scam/179977/)
 <!-- THREAT:END -->
 
 ---
