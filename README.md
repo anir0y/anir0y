@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Voicemail Scam Steals Microsoft Credentials](https://threatpost.com/voicemail-phishing-scam-steals-microsoft-credentials/180005/)
 - [China-linked APT Flew Under Radar for Decade](https://threatpost.com/apt-flew-under-radar-decade/179995/)
 - [State-Sponsored Phishing Attack Targeted Israeli Military Officials](https://threatpost.com/phishing-attack-israeli-officials/179987/)
 - [Ransomware Risk in Healthcare Endangers Patients](https://threatpost.com/ransomware-risk-healthcare/179980/)
 - [Facebook Messenger Scam Duped Millions](https://threatpost.com/acebook-messenger-scam/179977/)
-- [DragonForce Gang Unleash Hacks Against Govt. of India](https://threatpost.com/hackers-india-government/179968/)
 <!-- THREAT:END -->
 
 ---
