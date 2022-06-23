@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Fancy Bear Uses Nuke Threat Lure to Exploit 1-Click Bug](https://threatpost.com/fancy-bear-nuke-threat-lure/180056/)
 - [Gamification of Ethical Hacking and Hacking Esports](https://threatpost.com/gamification-of-ethical-hacking-and-hacking-esports/180039/)
 - [Discovery of 56 OT Device Flaws Blamed on Lackluster Security Culture](https://threatpost.com/discovery-of-56-ot-device-flaws-blamed-on-lackluster-security-culture/180035/)
 - [Elusive ToddyCat APT Targets Microsoft Exchange Servers](https://threatpost.com/elusive-toddycat-apt-targets-microsoft-exchange-servers/180031/)
 - [Kazakh Govt. Used Spyware Against Protesters](https://threatpost.com/kazakh-govt-used-spyware-against-protesters/180016/)
-- [Office 365 Config Loophole Opens OneDrive, SharePoint Data to Ransomware Attack](https://threatpost.com/office-365-opens-ransomware-attacks-on-onedrive-sharepoint/180010/)
 <!-- THREAT:END -->
 
 ---
