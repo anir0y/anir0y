@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Top Six Security Bad Habits, and How to Break Them](https://threatpost.com/six-bad-habits-break/180082/)
+- [Mitel VoIP Bug Exploited in Ransomware Attacks](https://threatpost.com/mitel-voip-bug-exploited/180079/)
 - [‘Killnet’ Adversary Pummels Lithuania with DDoS Attacks Over Blockade](https://threatpost.com/killnet-pummels-lithuania/180075/)
 - [Log4Shell Vulnerability Targeted in VMware Servers to Exfiltrate Data](https://threatpost.com/log4shell-targeted-vmware-data/180072/)
 - [Google Warns Spyware Being Deployed Against Android, iOS Users](https://threatpost.com/google-hermit-spyware-android-ios/180062/)
-- [Fancy Bear Uses Nuke Threat Lure to Exploit 1-Click Bug](https://threatpost.com/fancy-bear-nuke-threat-lure/180056/)
-- [Gamification of Ethical Hacking and Hacking Esports](https://threatpost.com/gamification-of-ethical-hacking-and-hacking-esports/180039/)
 <!-- THREAT:END -->
 
 ---
