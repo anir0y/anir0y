@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://threatpost.com/lead-causes-of-q1-attacks/180096/)
 - [Top Six Security Bad Habits, and How to Break Them](https://threatpost.com/six-bad-habits-break/180082/)
 - [Mitel VoIP Bug Exploited in Ransomware Attacks](https://threatpost.com/mitel-voip-bug-exploited/180079/)
 - [‘Killnet’ Adversary Pummels Lithuania with DDoS Attacks Over Blockade](https://threatpost.com/killnet-pummels-lithuania/180075/)
 - [Log4Shell Vulnerability Targeted in VMware Servers to Exfiltrate Data](https://threatpost.com/log4shell-targeted-vmware-data/180072/)
-- [Google Warns Spyware Being Deployed Against Android, iOS Users](https://threatpost.com/google-hermit-spyware-android-ios/180062/)
 <!-- THREAT:END -->
 
 ---
