@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Latest Cyberattack Against Iran Part of Ongoing Campaign](https://threatpost.com/cyberattack-iran-campaign/180122/)
+- [Google Patches Actively Exploited Chrome Bug](https://threatpost.com/actively-exploited-chrome-bug/180118/)
 - [ZuoRAT Can Take Over Widely Used SOHO Routers](https://threatpost.com/zuorat-soho-routers/180113/)
 - [A Guide to Surviving a Ransomware Attack](https://threatpost.com/a-guide-to-surviving-a-ransomware-attack/180110/)
 - [Leaky Access Tokens Exposed Amazon Photos of Users](https://threatpost.com/exposed-amazon-photos/180105/)
-- [Patchable and Preventable Security Issues Lead Causes of Q1 Attacks](https://threatpost.com/lead-causes-of-q1-attacks/180096/)
-- [Top Six Security Bad Habits, and How to Break Them](https://threatpost.com/six-bad-habits-break/180082/)
 <!-- THREAT:END -->
 
 ---
