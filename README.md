@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Human Error Blamed for Leak of 1 Billion Records of Chinese Citizens](https://threatpost.com/hbillion-records/180125/)
 - [Latest Cyberattack Against Iran Part of Ongoing Campaign](https://threatpost.com/cyberattack-iran-campaign/180122/)
 - [Google Patches Actively Exploited Chrome Bug](https://threatpost.com/actively-exploited-chrome-bug/180118/)
 - [ZuoRAT Can Take Over Widely Used SOHO Routers](https://threatpost.com/zuorat-soho-routers/180113/)
 - [A Guide to Surviving a Ransomware Attack](https://threatpost.com/a-guide-to-surviving-a-ransomware-attack/180110/)
-- [Leaky Access Tokens Exposed Amazon Photos of Users](https://threatpost.com/exposed-amazon-photos/180105/)
 <!-- THREAT:END -->
 
 ---
