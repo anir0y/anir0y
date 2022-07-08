@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [U.S. Healthcare Orgs Targeted with Maui Ransomware](https://threatpost.com/healthcare-maui-ransomware/180154/)
 - [Hack Allows Drone Takeover Via ‘ExpressLRS’ Protocol](https://threatpost.com/drone-hack-expresslrs-hijacked/180133/)
 - [Human Error Blamed for Leak of 1 Billion Records of Chinese Citizens](https://threatpost.com/hbillion-records/180125/)
 - [Latest Cyberattack Against Iran Part of Ongoing Campaign](https://threatpost.com/cyberattack-iran-campaign/180122/)
 - [Google Patches Actively Exploited Chrome Bug](https://threatpost.com/actively-exploited-chrome-bug/180118/)
-- [ZuoRAT Can Take Over Widely Used SOHO Routers](https://threatpost.com/zuorat-soho-routers/180113/)
 <!-- THREAT:END -->
 
 ---
