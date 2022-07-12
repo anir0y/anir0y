@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [How War Impacts Cyber Insurance](https://threatpost.com/war-impact-cyber-insurance/180185/)
+- [‘Callback’ Phishing Campaign Impersonates Security Firms](https://threatpost.com/callback-phishing-security-firms/180182/)
 - [Rethinking Vulnerability Management in a Heightened Threat Landscape](https://threatpost.com/rethinking-vulnerability-management/180177/)
 - [Popular NFT Marketplace Phished for $540M](https://threatpost.com/popular-nft-marketplace-phished-for-540m/180174/)
 - [Sneaky Orbit Malware Backdoors Linux Devices](https://threatpost.com/sneaky-malware-backdoors-linux/180158/)
-- [U.S. Healthcare Orgs Targeted with Maui Ransomware](https://threatpost.com/healthcare-maui-ransomware/180154/)
-- [Hack Allows Drone Takeover Via ‘ExpressLRS’ Protocol](https://threatpost.com/drone-hack-expresslrs-hijacked/180133/)
 <!-- THREAT:END -->
 
 ---
