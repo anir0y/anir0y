@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Journalists Emerge as Favored Attack Target for APTs](https://threatpost.com/journalists-target-apts/180224/)
 - [Large-Scale Phishing Campaign Bypasses MFA](https://threatpost.com/large-scale-hishing-bypasses-mfa/180212/)
 - [How War Impacts Cyber Insurance](https://threatpost.com/war-impact-cyber-insurance/180185/)
 - [‘Callback’ Phishing Campaign Impersonates Security Firms](https://threatpost.com/callback-phishing-security-firms/180182/)
 - [Rethinking Vulnerability Management in a Heightened Threat Landscape](https://threatpost.com/rethinking-vulnerability-management/180177/)
-- [Popular NFT Marketplace Phished for $540M](https://threatpost.com/popular-nft-marketplace-phished-for-540m/180174/)
 <!-- THREAT:END -->
 
 ---
