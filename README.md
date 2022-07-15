@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Emerging H0lyGh0st Ransomware Tied to North Korea](https://threatpost.com/h0lygh0st-ransomware-north-korea/180232/)
 - [Journalists Emerge as Favored Attack Target for APTs](https://threatpost.com/journalists-target-apts/180224/)
 - [Large-Scale Phishing Campaign Bypasses MFA](https://threatpost.com/large-scale-hishing-bypasses-mfa/180212/)
 - [How War Impacts Cyber Insurance](https://threatpost.com/war-impact-cyber-insurance/180185/)
 - [‘Callback’ Phishing Campaign Impersonates Security Firms](https://threatpost.com/callback-phishing-security-firms/180182/)
-- [Rethinking Vulnerability Management in a Heightened Threat Landscape](https://threatpost.com/rethinking-vulnerability-management/180177/)
 <!-- THREAT:END -->
 
 ---
