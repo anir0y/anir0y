@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Google Boots Multiple Malware-laced Android Apps from Marketplace](https://threatpost.com/google-boots-malware-marketplace/180241/)
 - [CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2](https://threatpost.com/cisa-urges-patch-11-bug/180235/)
 - [Emerging H0lyGh0st Ransomware Tied to North Korea](https://threatpost.com/h0lygh0st-ransomware-north-korea/180232/)
 - [Journalists Emerge as Favored Attack Target for APTs](https://threatpost.com/journalists-target-apts/180224/)
 - [Large-Scale Phishing Campaign Bypasses MFA](https://threatpost.com/large-scale-hishing-bypasses-mfa/180212/)
-- [How War Impacts Cyber Insurance](https://threatpost.com/war-impact-cyber-insurance/180185/)
 <!-- THREAT:END -->
 
 ---
