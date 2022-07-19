@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Authentication Risks Discovered in Okta Platform](https://threatpost.com/risks-okta-sso/180249/)
 - [FBI Warns Fake Crypto Apps are Bilking Investors of Millions](https://threatpost.com/fbi-warns-fake-crypto-apps/180245/)
 - [Google Boots Multiple Malware-laced Android Apps from Marketplace](https://threatpost.com/google-boots-malware-marketplace/180241/)
 - [CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2](https://threatpost.com/cisa-urges-patch-11-bug/180235/)
 - [Emerging H0lyGh0st Ransomware Tied to North Korea](https://threatpost.com/h0lygh0st-ransomware-north-korea/180232/)
-- [Journalists Emerge as Favored Attack Target for APTs](https://threatpost.com/journalists-target-apts/180224/)
 <!-- THREAT:END -->
 
 ---
