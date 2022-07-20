@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Conti’s Reign of Chaos: Costa Rica in the Crosshairs](https://threatpost.com/contis-costa-rica/180258/)
 - [Magecart Serves Up Card Skimmers on Restaurant-Ordering Systems](https://threatpost.com/magecart-restaurant-ordering-systems/180254/)
 - [Authentication Risks Discovered in Okta Platform](https://threatpost.com/risks-okta-sso/180249/)
 - [FBI Warns Fake Crypto Apps are Bilking Investors of Millions](https://threatpost.com/fbi-warns-fake-crypto-apps/180245/)
 - [Google Boots Multiple Malware-laced Android Apps from Marketplace](https://threatpost.com/google-boots-malware-marketplace/180241/)
-- [CISA Urges Patch of Exploited Windows 11 Bug by Aug. 2](https://threatpost.com/cisa-urges-patch-11-bug/180235/)
 <!-- THREAT:END -->
 
 ---
