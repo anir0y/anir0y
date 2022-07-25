@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Why Physical Security Maintenance Should Never Be an Afterthought](https://threatpost.com/physical-security-maintenance/180269/)
 - [Hackers for Hire: Adversaries Employ ‘Cyber Mercenaries’](https://threatpost.com/hackers-cyber-mercenaries/180263/)
 - [Conti’s Reign of Chaos: Costa Rica in the Crosshairs](https://threatpost.com/contis-costa-rica/180258/)
 - [Magecart Serves Up Card Skimmers on Restaurant-Ordering Systems](https://threatpost.com/magecart-restaurant-ordering-systems/180254/)
 - [Authentication Risks Discovered in Okta Platform](https://threatpost.com/risks-okta-sso/180249/)
-- [FBI Warns Fake Crypto Apps are Bilking Investors of Millions](https://threatpost.com/fbi-warns-fake-crypto-apps/180245/)
 <!-- THREAT:END -->
 
 ---
