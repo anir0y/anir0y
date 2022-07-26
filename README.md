@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Phishing Attacks Skyrocket with Microsoft and Facebook as Most Abused Brands](https://threatpost.com/popular-bait-in-phishing-attacks/180281/)
+- [IoT Botnets Fuels DDoS Attacks – Are You Prepared?](https://threatpost.com/ddos-attacks-prepared/180273/)
 - [Why Physical Security Maintenance Should Never Be an Afterthought](https://threatpost.com/physical-security-maintenance/180269/)
 - [Hackers for Hire: Adversaries Employ ‘Cyber Mercenaries’](https://threatpost.com/hackers-cyber-mercenaries/180263/)
 - [Conti’s Reign of Chaos: Costa Rica in the Crosshairs](https://threatpost.com/contis-costa-rica/180258/)
-- [Magecart Serves Up Card Skimmers on Restaurant-Ordering Systems](https://threatpost.com/magecart-restaurant-ordering-systems/180254/)
-- [Authentication Risks Discovered in Okta Platform](https://threatpost.com/risks-okta-sso/180249/)
 <!-- THREAT:END -->
 
 ---
