@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Malicious Npm Packages Tapped Again to Target Discord Users](https://threatpost.com/malicious-npm-discord/180327/)
 - [Threat Actors Pivot Around Microsoft’s Macro-Blocking in Office](https://threatpost.com/threat-pivot-microsofts-macro/180319/)
 - [Messaging Apps Tapped as Platform for Cybercriminal Activity](https://threatpost.com/messaging-apps-cybercriminals/180303/)
 - [Novel Malware Hijacks Facebook Business Accounts](https://threatpost.com/malware-hijacks-facebook/180285/)
 - [Phishing Attacks Skyrocket with Microsoft and Facebook as Most Abused Brands](https://threatpost.com/popular-bait-in-phishing-attacks/180281/)
-- [IoT Botnets Fuels DDoS Attacks – Are You Prepared?](https://threatpost.com/ddos-attacks-prepared/180273/)
 <!-- THREAT:END -->
 
 ---
