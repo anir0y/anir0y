@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Universities Put Email Users at Cyber Risk](https://threatpost.com/universities-email-cyber-risk/180342/)
 - [Securing Your Move to the Hybrid Cloud](https://threatpost.com/secure-move-cloud/180335/)
 - [Malicious Npm Packages Tapped Again to Target Discord Users](https://threatpost.com/malicious-npm-discord/180327/)
 - [Threat Actors Pivot Around Microsoft’s Macro-Blocking in Office](https://threatpost.com/threat-pivot-microsofts-macro/180319/)
 - [Messaging Apps Tapped as Platform for Cybercriminal Activity](https://threatpost.com/messaging-apps-cybercriminals/180303/)
-- [Novel Malware Hijacks Facebook Business Accounts](https://threatpost.com/malware-hijacks-facebook/180285/)
 <!-- THREAT:END -->
 
 ---
