@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Phishers Swim Around 2FA in Coinbase Account Heists](https://threatpost.com/phishers-2fa-coinbase/180356/)
 - [Open Redirect Flaw Snags Amex, Snapchat User Data](https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/)
 - [VMWare Urges Users to Patch Critical Authentication Bypass Bug](https://threatpost.com/vmware-patch-critical-bug/180346/)
 - [Universities Put Email Users at Cyber Risk](https://threatpost.com/universities-email-cyber-risk/180342/)
 - [Securing Your Move to the Hybrid Cloud](https://threatpost.com/secure-move-cloud/180335/)
-- [Malicious Npm Packages Tapped Again to Target Discord Users](https://threatpost.com/malicious-npm-discord/180327/)
 <!-- THREAT:END -->
 
 ---
