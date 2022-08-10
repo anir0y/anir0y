@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws](https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/)
 - [Virtual Currency Platform ‘Tornado Cash’ Accused of Aiding APTs](https://threatpost.com/virtual-currency-platform-tornado-cash-accused-of-aiding-apts/180367/)
 - [Phishers Swim Around 2FA in Coinbase Account Heists](https://threatpost.com/phishers-2fa-coinbase/180356/)
 - [Open Redirect Flaw Snags Amex, Snapchat User Data](https://threatpost.com/open-redirect-flaw-snags-amex-snapchat-user-data/180354/)
 - [VMWare Urges Users to Patch Critical Authentication Bypass Bug](https://threatpost.com/vmware-patch-critical-bug/180346/)
-- [Universities Put Email Users at Cyber Risk](https://threatpost.com/universities-email-cyber-risk/180342/)
 <!-- THREAT:END -->
 
 ---
