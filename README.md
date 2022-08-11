@@ -37,7 +37,7 @@
 - [Starlink Successfully Hacked Using $25 Modchip](https://threatpost.com/starlink-hack/180389/)
 - [New Hacker Forum Takes Pro-Ukraine Stance](https://threatpost.com/pro-ukraine-forum/180387/)
 - [Cisco Confirms Network Breach Via Hacked Employee Google Account](https://threatpost.com/cisco-network-breach-google/180385/)
-- [Podcast: Inside the Hackers’ Toolkit](https://threatpost.com/inside-hackers-toolkit/180360/)
+- [Inside the Hackers’ Toolkit – Podcast](https://threatpost.com/inside-hackers-toolkit/180360/)
 - [Microsoft Patches ‘Dogwalk’ Zero-Day and 17 Critical Flaws](https://threatpost.com/microsoft-patches-dogwalk-zero-day-and-17-critical-flaws/180378/)
 <!-- THREAT:END -->
 
