@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics](https://threatpost.com/zeppelin-ransomware-resurfaces/180405/)
 - [Facebook’s In-app Browser on iOS Tracks ‘Anything You Do on Any Website’](https://threatpost.com/facebook-ios-tracks-anything/180395/)
 - [Starlink Successfully Hacked Using $25 Modchip](https://threatpost.com/starlink-hack/180389/)
 - [New Hacker Forum Takes Pro-Ukraine Stance](https://threatpost.com/pro-ukraine-forum/180387/)
 - [Cisco Confirms Network Breach Via Hacked Employee Google Account](https://threatpost.com/cisco-network-breach-google/180385/)
-- [Inside the Hackers’ Toolkit – Podcast](https://threatpost.com/inside-hackers-toolkit/180360/)
 <!-- THREAT:END -->
 
 ---
