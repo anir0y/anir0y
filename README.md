@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Xiaomi Phone Bug Allowed Payment Forgery](https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/)
 - [Black Hat and DEF CON Roundup](https://threatpost.com/black-hat-and-def-con-roundup/180409/)
 - [Feds: Zeppelin Ransomware Resurfaces with New Compromise, Encryption Tactics](https://threatpost.com/zeppelin-ransomware-resurfaces/180405/)
 - [Facebook’s In-app Browser on iOS Tracks ‘Anything You Do on Any Website’](https://threatpost.com/facebook-ios-tracks-anything/180395/)
 - [Starlink Successfully Hacked Using $25 Modchip](https://threatpost.com/starlink-hack/180389/)
-- [New Hacker Forum Takes Pro-Ukraine Stance](https://threatpost.com/pro-ukraine-forum/180387/)
 <!-- THREAT:END -->
 
 ---
