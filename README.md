@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 - [Google Patches Chrome’s Fifth Zero-Day of the Year](https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/)
 - [APT Lazarus Targets Engineers with macOS Malware](https://threatpost.com/apt-lazarus-macos-malware/180426/)
 - [U.K. Water Supplier Hit with Clop Ransomware Attack](https://threatpost.com/water-supplier-hit-clop-ransomware/180422/)
 - [Xiaomi Phone Bug Allowed Payment Forgery](https://threatpost.com/xiaomi-phones-found-vulnerable-to-payment-forgery/180416/)
-- [Black Hat and DEF CON Roundup](https://threatpost.com/black-hat-and-def-con-roundup/180409/)
 <!-- THREAT:END -->
 
 ---
