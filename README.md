@@ -34,11 +34,11 @@
 
 
 <!-- THREAT:START -->
+- [Twitter Whistleblower Complaint: The TL;DR Version](https://threatpost.com/twitter-whistleblower-tldr-version/180472/)
 - [Firewall Bug Under Active Attack Triggers CISA Warning](https://threatpost.com/firewall-bug-under-active-attack-cisa-warning/180467/)
 - [Fake Reservation Links Prey on Weary Travelers](https://threatpost.com/reservation-links-prey-on-travelers/180462/)
 - [iPhone Users Urged to Update to Patch 2 Zero-Days](https://threatpost.com/iphone-users-urged-to-update-to-patch-2-zero-days-under-attack/180448/)
 - [Google Patches Chrome’s Fifth Zero-Day of the Year](https://threatpost.com/google-patches-chromes-fifth-zero-day-of-the-year/180432/)
-- [APT Lazarus Targets Engineers with macOS Malware](https://threatpost.com/apt-lazarus-macos-malware/180426/)
 <!-- THREAT:END -->
 
 ---
