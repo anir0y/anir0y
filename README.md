@@ -25,11 +25,7 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
-- [Try Hack Me Phishing Emails 4](https://classroom.anir0y.in/post/tryhackme-phishingemails4/)
-- [Try Hack Me Red Team Threat Intel](https://classroom.anir0y.in/post/tryhackme-redteamthreatintel/)
-- [Basics of Ransomware](https://classroom.anir0y.in/post/what_is_ransomware/)
-- [OSINT Resources I](https://classroom.anir0y.in/post/osint_resources-i/)
-- [Steganography with Steghide](https://classroom.anir0y.in/post/stegnography/)
+- [Try Hack Me Intermediate Nmap](https://classroom.anir0y.in/post/thm-intermediatenmap/)
 <!-- CLASS:END -->
 
 
