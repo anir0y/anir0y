@@ -25,11 +25,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
+- [TryHackMe Surfer](https://classroom.anir0y.in/post/tryhackme-surfer/)
 - [Android MalwareAnalysis](https://classroom.anir0y.in/post/android-malwareanalysis/)
 - [Vulnerable Web Application is now available!](https://classroom.anir0y.in/post/blog-vwa/)
 - [Try Hack Me Intermediate Nmap](https://classroom.anir0y.in/post/thm-intermediatenmap/)
 - [Try Hack Me Phishing Emails 4](https://classroom.anir0y.in/post/tryhackme-phishingemails4/)
-- [Try Hack Me Red Team Threat Intel](https://classroom.anir0y.in/post/tryhackme-redteamthreatintel/)
 <!-- CLASS:END -->
 
 
