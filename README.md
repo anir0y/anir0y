@@ -25,11 +25,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
+- [BLOG | Shorten URL using TinyURL API](https://classroom.anir0y.in/post/tinyurl/)
 - [Try Hack Me writeup | Osquery The Basics](https://classroom.anir0y.in/post/tryhackme-osquerythebasics/)
 - [Writeup |Try Hack Me PrintNightmare, again!](https://classroom.anir0y.in/post/tryhackme-printnightmareagain/)
 - [TryHackMe Surfer](https://classroom.anir0y.in/post/tryhackme-surfer/)
 - [Android MalwareAnalysis](https://classroom.anir0y.in/post/android-malwareanalysis/)
-- [Vulnerable Web Application is now available!](https://classroom.anir0y.in/post/blog-vwa/)
 <!-- CLASS:END -->
 
 
