@@ -26,11 +26,11 @@
 ## My personal Blog Posts:
 
 <!-- CLASS:START -->
+- [AutoHackOS A New Operating System for Automobile Pentesting](https://classroom.anir0y.in/post/blog-autohackos/)
 - [SOC Splunk101](https://classroom.anir0y.in/post/soc-splunk101/)
 - [Optimizing Web Application Performance and Security With Azure Front Door and Application Gateway](https://classroom.anir0y.in/post/blog-optimizing-web-application-performance-and-security-with-azure-front-door-and-application-gateway/)
 - [Blog | Watering Hole Attacks Scanbox Keylogger](https://classroom.anir0y.in/post/blog-watering-hole-attacks-scanbox-keylogger/)
 - [4 types of phishing](https://classroom.anir0y.in/post/blog-types-of-phishing/)
-- [Smishing - Understanding and Protecting Against the Growing Threat of Phishing via Text Message](https://classroom.anir0y.in/post/smshingintro/)
 <!-- CLASS:END -->
 
 
