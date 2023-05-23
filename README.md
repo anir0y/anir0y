@@ -15,13 +15,6 @@
 
 ---
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=anir0y&show_icons=true&theme=dark" width="380">
-<p align="left">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=anir0y&layout=compact&hide=html,css" alt="Languages" />
-</p>
-
-
----
 
 ## My personal Blog Posts:
 
