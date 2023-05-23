@@ -10,7 +10,7 @@
 [![GitHub anir0y](https://img.shields.io/github/followers/anir0y?label=GitHub&style=for-the-badge&logo=github)](https://github.com/anir0y)
 [![Linkedin Badge](https://img.shields.io/badge/Animesh%20Roy-Connect%20on%20linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anir0y/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/anir0y?color=blue&style=for-the-badge&logo=twitter)
-[![Keybase](https://img.shields.io/keybase/pgp/anir0y?logo=ani&style=for-the-badge)](httos://keybase.io/anir0y)
+[![Keybase](https://img.shields.io/keybase/pgp/anir0y?logo=ani&style=for-the-badge)](https://keybase.io/anir0y/pgp_keys.asc)
 
 
 ---
