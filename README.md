@@ -39,25 +39,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-<div align=Center>
-<table>
-    <td align="Left" width="600">
-      <a href="https://anir0y.in">
-        <img src="https://metrics.lecoq.io/anir0y">
-      </a>
-      <br>
-    </td>
-    <td align="Center" width="600">
-      <a href="#">
-        <img src = "https://i.imgur.com/i51XdTh.jpeg" width = 400px>
-      </a>
-      <br>
-    </td>
-</table>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <h2 align=center>
   <a href="https://google.com/search?q=@anir0y">🔍 Google @anir0y</a> 
 </h2>
