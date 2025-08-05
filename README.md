@@ -22,8 +22,7 @@
         <img src="https://about.twitter.com/content/dam/about-twitter/x/brand-toolkit/logo-black.png.twimg.1920.png" width="48" height="48" alt="Twitter" />
       </a>
       <br>Twitter
-    </td>
-    
+  </td>
     <td align="center" width="96">
       <a href="https://www.linkedin.com/in/anir0y/">
         <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="48" height="48" alt="LinkedIn" />
