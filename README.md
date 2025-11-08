@@ -1,7 +1,7 @@
 <h1 align="center">AniR0y</h1>
 
 
-<p align="center"><em>10+ years in Infosec Domain<br>
+<p align="center"><em>13+ years in Infosec Domain<br>
   Scripting in my square time, pwning ⚡ at work!<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br>
   Find me here: https://anir0y.in
 </em></p>
