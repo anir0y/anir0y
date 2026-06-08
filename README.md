@@ -6,7 +6,7 @@
 
 *Cybersecurity cat. Hunting digital bugs. 13+ years of professional pwning.*
 
-[![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=flat-square)](mailto:ani@arishtisecurity.com)
+[![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=flat-square)](mailto:mail@anir0y.in)
 [![Blog](https://img.shields.io/badge/Blog-anir0y.in-FF4088?style=flat-square&logo=hugo&logoColor=white)](https://anir0y.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anir0y-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anir0y)
 [![X](https://img.shields.io/badge/X-%40anir0y-000?style=flat-square&logo=x&logoColor=white)](https://x.com/anir0y)
@@ -22,11 +22,11 @@ $ whoami
 
 ```
 handle   →  anir0y
-company  →  Arishti Consolidated Pvt Ltd  ·  Hyderabad, India
+company  →  Vapra Shiksha  ·  Founder  ·  Hyderabad, India
 domains  →  red team · VAPT · hardware hacking · malware reversing · AI-sec
 posture  →  remote-first
 status   →  🟢 open — senior offensive security / red team roles (remote)
-contact  →  ani@arishtisecurity.com
+contact  →  mail@anir0y.in
 ```
 
 ---
@@ -95,10 +95,10 @@ contact  →  ani@arishtisecurity.com
 
 ## currently
 
-> Consulting at **Arishti Security** (Hyderabad). Security training at [classroom.anir0y.in](https://classroom.anir0y.in).
+> Founder, **Vapra Shiksha** — security training & education at [classroom.anir0y.in](https://classroom.anir0y.in).
 >
 > **Actively seeking a senior salaried remote role** — red team lead, offensive security engineering, adversary simulation.  
-> If your team runs real engagements and doesn't require office attendance: [ani@arishtisecurity.com](mailto:ani@arishtisecurity.com)
+> If your team runs real engagements and doesn't require office attendance: [mail@anir0y.in](mailto:mail@anir0y.in)
 
 ---
 
