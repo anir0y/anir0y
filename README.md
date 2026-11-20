@@ -7,7 +7,7 @@
 *Cybersecurity cat. Hunting digital bugs. 13+ years of professional pwning.*
 
 [![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-brightgreen?style=flat-square)](mailto:mail@anir0y.in)
-[![Blog](https://img.shields.io/badge/Blog-anir0y.in-FF4088?style=flat-square&logo=hugo&logoColor=white)]([https://blogs.anir0y.in](https://blogs.anir0y.in/))
+[![Blog](https://img.shields.io/badge/Blog-anir0y.in-FF4088?style=flat-square&logo=hugo&logoColor=white)](https://blogs.anir0y.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anir0y-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anir0y)
 [![X](https://img.shields.io/badge/X-%40anir0y-000?style=flat-square&logo=x&logoColor=white)](https://x.com/anir0y)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--4354--9162-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-4354-9162)
